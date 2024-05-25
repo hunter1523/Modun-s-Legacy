@@ -1,0 +1,28 @@
+britano_roman = {
+	color = { 194 40 38 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_britannian
+	language = language_britannian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hard_working
+		tradition_castle_keepers
+		tradition_fishermen
+	}
+	
+	name_list = name_list_french
+
+	coa_gfx = { welsh_coa_gfx western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		5 = caucasian_blond
+		20 = caucasian_ginger
+		35 = caucasian_brown_hair
+		40 = caucasian_dark_hair
+	}
+}

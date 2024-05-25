@@ -1,0 +1,13 @@
+﻿suzerain = {
+	base = ruler
+	conditions = {
+		has_variable = suzerain
+	}
+}
+
+tributary = {
+	base = ruler
+	conditions = {
+		has_variable = my_suzerain
+	}
+}

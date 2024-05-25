@@ -1,0 +1,17 @@
+marcon_01 = {
+	name = "Brennus"
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "britano_roman"
+	trait = generous
+	trait = education_stewardship_2
+	824.2.15 = {
+		birth = "824.2.15"
+	}
+	887.9.12 = {
+		death = "887.9.12"
+	}
+}

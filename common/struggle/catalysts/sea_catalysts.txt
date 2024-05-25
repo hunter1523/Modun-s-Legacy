@@ -1,0 +1,2 @@
+﻿
+catalyst_go_on_pilgrimage = {}

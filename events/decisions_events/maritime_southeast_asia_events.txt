@@ -1,0 +1,587 @@
+﻿
+namespace = maritime_southeast_asia
+
+scripted_effect fetch_islam_options = {
+	ROOT = { clear_variable_list = faith_options }
+	every_county_in_region = {
+		region = world_west_indian_ocean_region
+		add_to_list = counties
+	}
+	every_county_in_region = {
+		region = world_china_proper
+		add_to_list = counties
+	}
+	every_in_list = {
+		list = counties
+		if = {
+			limit = {
+				religion = religion:islam_religion
+
+			}
+			faith = {
+				ROOT = {
+					if = {
+						limit = {
+							NOT = {
+								is_target_in_variable_list = {
+									name = faith_options
+									target = PREV
+								}
+							}
+						}
+						add_to_variable_list = {
+							name = faith_options
+							target = PREV
+						}
+					}
+				}
+			}
+		}
+		every_in_list = {
+			variable = faith_minorities_large
+			limit = { religion = religion:islam_religion }
+			ROOT = {
+				if = {
+					limit = {
+						NOT = {
+							is_target_in_variable_list = {
+								name = faith_options
+								target = PREV
+							}
+						}
+					}
+					add_to_variable_list = {
+						name = faith_options
+						target = PREV
+					}
+				}
+			}
+		}
+		every_in_list = {
+			variable = faith_minorities_small
+			limit = { religion = religion:islam_religion }
+			ROOT = {
+				if = {
+					limit = {
+						NOT = {
+							is_target_in_variable_list = {
+								name = faith_options
+								target = PREV
+							}
+						}
+					}
+				}
+				add_to_variable_list = {
+					name = faith_options
+					target = PREV
+				}
+			}
+		}
+	}
+}
+
+scripted_effect do_islamic_settlers_effect = {
+	hidden_effect = {
+		every_realm_county = {
+			limit = {
+				county_is_religiously_protected_trigger = no
+			}
+			random = {
+				chance = {
+					value = 15
+					multiply = {
+						value = development_level
+						multiply = {
+							value = 125
+							subtract = development_level
+						}
+						divide = 25
+					}
+				}
+				save_scope_as = county
+				promote_faith_minority_effect = { FAITH = $FAITH$ }
+				if = {
+					limit = {
+						any_in_list = {
+							variable = faith_minorities_small
+							THIS = $FAITH$
+						}
+					}
+					add_county_modifier = {
+						modifier = muslim_settlers_modifier_small
+						years = 5
+					}
+				}
+				else_if = {
+					limit = {
+						any_in_list = {
+							variable = faith_minorities_large
+							THIS = $FAITH$
+						}
+					}
+					add_county_modifier = {
+						modifier = muslim_settlers_modifier_large
+						years = 5
+					}
+				}
+				if = {
+					limit = {
+						faith = $FAITH$
+					}
+					add_county_modifier = {
+						modifier = muslim_settlers_modifier_majority
+						years = 5
+					}
+				}
+			}
+		}
+	}
+	custom_tooltip = invite_muslim_settler_effect_tt
+}
+
+scripted_effect fetch_sultanate_options = {
+	clear_variable_list = faith_options
+	every_realm_county = {
+		limit = {
+			OR = {
+				religion = religion:islam_religion
+				any_in_list = {
+					variable = faith_minorities_large
+					religion = religion:islam_religion
+				}
+			}
+		}
+		faith = {
+			if = {
+				limit = {
+					religion = religion:islam_religion
+				}
+				ROOT = {
+					if = {
+						limit = {
+							NOT = {
+								is_target_in_variable_list = {
+									name = faith_options
+									target = PREV
+								}
+							}
+						}
+					}
+					add_to_variable_list = {
+						name = faith_options
+						target = PREV
+					}
+				}
+			}
+		}
+		every_in_list = {
+			variable = faith_minorities_large
+			limit = {
+				ROOT = {
+					NOT = {
+						is_target_in_variable_list = {
+							name = faith_options
+							target = PREV
+						}
+					}
+				}
+				religion = religion:islam_religion
+			}
+			ROOT = {
+				add_to_variable_list = {
+					name = faith_options
+					target = PREV
+				}
+			}
+		}
+	}
+}
+
+### Copied from Unite Africa
+# maritime_southeast_asia.0001
+###
+
+
+################
+
+# I united Nusantara
+maritime_southeast_asia.0001 = {
+	type = character_event
+	title = maritime_southeast_asia.0001.t
+	desc = maritime_southeast_asia.0001.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		unite_nusantara_decision_effect = yes
+		legend_seed_great_deed_title_effect = {
+			TITLE = title:e_nusantara
+		}
+	}
+
+	option = {
+		name = maritime_southeast_asia.0001.a
+		add_prestige = massive_prestige_value
+		add_prestige_level = 2
+	}
+}
+
+# I have restored the Javanese throne!
+maritime_southeast_asia.0002 = {
+	type = character_event
+	title = maritime_southeast_asia.0002.t
+	desc = maritime_southeast_asia.0002.desc
+	theme = realm
+	left_portrait = {
+		character = scope:javanese_uniter
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_positive_effect"
+		unite_the_javanese_thrones_decision_effects = yes
+		legend_seed_great_deed_title_effect = {
+			TITLE = title:k_jawa
+		}
+	}
+
+	option = {
+		name = maritime_southeast_asia.0002.a
+
+		add_prestige_level = 2
+	}
+}
+
+# I united Nanyue
+# This doesn't belong in maritime but I'm lazy
+maritime_southeast_asia.0003 = {
+	type = character_event
+	title = maritime_southeast_asia.0003.t
+	desc = maritime_southeast_asia.0003.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		reform_nanyue_decision_effect = yes
+		add_prestige = massive_prestige_value
+		add_prestige_level = 2
+		legend_seed_great_deed_title_effect = {
+			TITLE = title:e_nanyue
+		}
+	}
+
+	option = {
+		trigger = {
+			culture = {
+				OR = {
+					has_cultural_pillar = heritage_chinese
+					has_cultural_pillar = heritage_tai
+				}
+			}
+		}
+		# Create Han/Tai hybrid (Yue)
+		name = maritime_southeast_asia.0003.a
+		if = {
+			# For Chinese cultures merging with Tai
+			limit = { culture = { has_cultural_pillar = heritage_chinese } }
+			create_hybrid_culture = culture:tai
+		}
+		else_if = {
+			# For Tai cultures merging with Han
+			limit = { culture = { has_cultural_pillar = heritage_tai } }
+			create_hybrid_culture = culture:han
+			scope:new_culture = {
+				hidden_effect = { set_culture_pillar = heritage_tai }
+				set_culture_pillar = language_chinese
+			}
+		}
+	}
+
+	option = {
+		# For non-Chinese, non-Tai East Asian cultures
+		trigger = {
+			culture = {
+				NOR = {
+					has_cultural_pillar = heritage_chinese
+					has_cultural_pillar = heritage_tai
+				}
+				has_cultural_parameter = heritage_family_east_asian
+			}
+		}
+		name = maritime_southeast_asia.0003.a
+		create_hybrid_culture = culture:han
+	}
+
+	option = {
+		# For everyone else (I see you beelining for China as Haesteinn)
+		trigger = {
+			culture = { NOT = { has_cultural_parameter = heritage_family_east_asian } }
+		}
+		name = maritime_southeast_asia.0003.a
+		culture = { save_scope_as = old_culture }
+		create_hybrid_culture = culture:han
+		scope:new_culture = {
+			set_ethos_from = scope:old_culture
+			set_heritage_from = scope:old_culture
+			set_culture_pillar = language_chinese
+		}
+	}
+
+	option = {
+		# Keep your culture
+		name = maritime_southeast_asia.0003.a
+	}
+
+	after = {
+		scope:new_culture = {
+			if = {
+				limit = {
+					has_cultural_pillar = heritage_chinese
+				}
+				remove_culture_tradition = tradition_sinicized_culture
+				add_culture_tradition = tradition_confucian_philosophy
+			}
+			else = {
+				remove_culture_tradition = tradition_confucian_philosophy
+				add_culture_tradition = tradition_sinicized_culture
+			}
+		}
+	}
+}
+
+# I embraced Tagalog
+maritime_southeast_asia.0004 = {
+	type = character_event
+	title = maritime_southeast_asia.0004.t
+	desc = maritime_southeast_asia.0004.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+	}
+
+	option = {
+		name = maritime_southeast_asia.0004.a
+		custom_tooltip = maritime_southeast_asia.0004.tooltip
+	}
+}
+
+# Choose a tradition for Tagalog
+maritime_southeast_asia.0005 = {
+	type = character_event
+	title = maritime_southeast_asia.0005.t
+	desc = maritime_southeast_asia.0005.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = {
+		name = maritime_southeast_asia.0005.a
+		culture:tagalog = { add_culture_tradition = tradition_seafaring }
+		custom_tooltip = maritime_southeast_asia.0005.tooltipa
+	}
+	option = {
+		name = maritime_southeast_asia.0005.b
+		culture:tagalog = { add_culture_tradition = tradition_artisans }
+		custom_tooltip = maritime_southeast_asia.0005.tooltipb
+	}
+	option = {
+		name = maritime_southeast_asia.0005.c
+		culture:tagalog = { add_culture_tradition = tradition_xenophilic }
+		custom_tooltip = maritime_southeast_asia.0005.tooltipc
+	}
+	option = {
+		name = maritime_southeast_asia.0005.d
+		culture:tagalog = { add_culture_tradition = tradition_mystical_ancestors }
+		custom_tooltip = maritime_southeast_asia.0005.tooltipd
+	}
+	option = {
+		name = maritime_southeast_asia.0005.e
+		add_prestige = massive_prestige_value
+		custom_tooltip = maritime_southeast_asia.0005.tooltipe
+	}
+}
+
+# If your capital county got settled by Tagalogs, choose what to do with them
+maritime_southeast_asia.0006 = {
+	type = character_event
+	title = maritime_southeast_asia.0006.t
+	desc = maritime_southeast_asia.0006.desc
+	theme = realm
+	left_portrait = {
+		character = root
+		animation = personality_rational
+	}
+
+	option = { # Leave the Tagalogs be
+		name = maritime_southeast_asia.0006.a
+		custom_tooltip = maritime_southeast_asia.0006.tooltipa
+	}
+	option = { # No Tagalogs allowed
+		name = maritime_southeast_asia.0006.b
+		capital_county = {
+			set_county_culture = root.culture
+			remove_county_modifier = tagalog_migration_modifier
+			add_county_modifier = {
+				modifier = tagalog_migrants_denied_entry_modifier
+				years = 20
+				desc = tagalog_migrants_denied_entry_modifier_desc
+			}
+		}
+	}
+	option = { # Convert to Tagalog culture
+		name = maritime_southeast_asia.0006.c
+		set_culture = culture:tagalog
+	}
+}
+
+#I have formed the Majapahit empire!
+maritime_southeast_asia.0007 = {
+	type = character_event
+	title = maritime_southeast_asia.0007.t
+	desc = maritime_southeast_asia.0007.desc
+	theme = realm
+	left_portrait = {
+		character = scope:majapahit_emperor
+		animation = personality_bold
+	}
+
+	immediate = {
+		play_music_cue = "mx_cue_positive_effect"
+		form_majapahit_empire_effect = yes
+		legend_seed_great_deed_title_effect = {
+			TITLE = title:e_majapahit
+		}
+		#show_as_tooltip = { form_majapahit_empire_effect = yes }
+	}
+
+	option = {
+		name = maritime_southeast_asia.0007.a
+
+		add_prestige_level = 2
+	}
+}
+
+# I am inviting Islamic settlers.
+maritime_southeast_asia.0008 = {
+	type = character_event
+	title = maritime_southeast_asia.0008.t
+	desc = maritime_southeast_asia.0008.desc
+	theme = diplomacy_foreign_affairs_focus
+	left_portrait = {
+		character = ROOT
+		animation = personality_rational
+	}
+
+	immediate = {
+		remove_variable = selected_faith
+		fetch_islam_options = yes
+	}
+	widget = {
+		gui = "sea_select_faith_widget"
+		container = "custom_widgets_container"
+	}
+
+	option = {
+		name = maritime_southeast_asia.0008.nevermind
+		if = {
+			limit = { has_variable = selected_faith }
+			var:selected_faith = {
+				save_scope_as = faith
+			}
+			do_islamic_settlers_effect = { FAITH = scope:faith }
+			add_piety = major_piety_loss
+			if = {
+				limit = {
+					culture = {
+						has_cultural_era_or_later = culture_era_late_medieval
+					}
+				}
+				add_gold = major_gold_loss
+			}
+			else = {
+				add_gold = massive_gold_loss
+			}
+		}
+		else = {
+			remove_decision_cooldown = invite_islamic_settlers_decision
+		}
+	}
+
+	after = {
+		clear_variable_list = faith_options
+	}
+
+}
+
+# I am adopting Islam from my counties to form an Islamic Sultanate in Malaysia
+maritime_southeast_asia.0009 = {
+	type = character_event
+	title = maritime_southeast_asia.0009.t
+	desc = maritime_southeast_asia.0009.desc
+	theme = faith
+	left_portrait = {
+		character = ROOT
+		animation = personality_rational
+	}
+	immediate = {
+		remove_variable = selected_faith
+		fetch_sultanate_options = yes
+		malayan_sultanate_effect = yes
+	}
+	widget = {
+		gui = "sea_select_faith_widget"
+		container = "custom_widgets_container"
+	}
+
+	option = {
+		name = maritime_southeast_asia.0009.confirm
+		if = {
+			limit = { has_variable = selected_faith }
+			add_piety = medium_piety_loss
+			set_character_faith_with_conversion = var:selected_faith
+			if = {
+				limit = {
+					OR = {
+						has_government = feudal_government
+						has_government = theocracy_government
+						has_government = republic_government
+						has_government = mandala_government
+					}
+				}
+				change_government = clan_government
+			}
+			else_if = {
+				limit = {
+					OR = {
+						has_government = tribal_government
+						has_government = anarchist_government
+					}
+				}
+				feudalize_into_islamic_effect = yes
+			}
+		}
+		else = {
+			custom_tooltip = maritime_southeast_asia.0009.cancel_tt
+		}
+	}
+
+	after = {
+		clear_variable_list = faith_options
+	}
+
+}

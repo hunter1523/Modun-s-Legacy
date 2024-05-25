@@ -1,0 +1,28 @@
+k_dalriada = {
+	pattern="pattern_solid.dds"
+	color1=yellow
+	color2=black
+	colored_emblem={
+		color1=black
+		texture="ce_african_yoruba_snake.dds"
+		instance={
+			position={ 0.500000 0.750000 }
+			scale={ 0.610000 0.610000 }
+			rotation=47
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		color2=red
+		color3=white
+		texture="ce_ship_lymphad.dds"
+		instance={
+			position={ 0.500000 0.340000 }
+			scale={ 0.880000 0.780000 }
+			depth=1.010000
+		}
+
+	}
+}

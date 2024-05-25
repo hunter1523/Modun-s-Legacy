@@ -1,0 +1,254 @@
+﻿
+# Dukha (and Soyot)
+# Winter Warriors is replaced by Siberian Survivalists with RICE
+
+dukha = {
+	color = dukha
+
+	ethos = ethos_communal
+	heritage = heritage_sayan_altaic
+	language = language_tuvan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_adaptive_skirmishing
+		tradition_winter_warriors
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+
+# Todzh (and Tofalar)
+# Winter Warriors is replaced by Siberian Survivalists with RICE
+
+todzh = {
+	color = todzh
+
+	ethos = ethos_communal
+	heritage = heritage_sayan_altaic
+	language = language_tuvan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_highland_warriors
+		tradition_winter_warriors
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+
+# Čik
+
+cik = {
+	color = cik
+
+	ethos = ethos_spiritual
+	heritage = heritage_sayan_altaic
+	language = language_tuvan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_highland_warriors
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+# Az
+
+az = {
+	color = az
+
+	ethos = ethos_stoic
+	heritage = heritage_sayan_altaic
+	language = language_tuvan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_adaptive_skirmishing
+		tradition_mountaineers
+		tradition_mountain_homes
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+# Qirgiz
+
+kirghiz = {
+	color = kirghiz
+
+	ethos = ethos_stoic
+	heritage = heritage_sayan_altaic
+	language = language_khakas
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_sacred_mountains
+		tradition_horse_breeder
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+# Shor
+
+shor = {
+	color = shor
+
+	ethos = ethos_communal
+	heritage = heritage_sayan_altaic
+	language = language_shor
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_staunch_traditionalists
+		tradition_sacred_mountains
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+# Telengit
+
+telengit = {
+	color = telengit
+
+	ethos = ethos_spiritual
+	heritage = heritage_sayan_altaic
+	language = language_sibir_tatar
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hit_and_run
+		tradition_hunters
+		tradition_warrior_culture
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+
+# Sakha
+
+# Winter Warriors is replaced by Siberian Survivalists with RICE
+
+sakha = {
+	color = sakha
+
+	ethos = ethos_communal
+	heritage = heritage_sayan_altaic
+	language = language_sakha
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_breeder
+		tradition_pastoralists
+		tradition_winter_warriors
+		tradition_horse_lords
+	}
+
+	name_list = name_list_kirghiz
+
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+	}
+}
+

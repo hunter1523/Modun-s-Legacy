@@ -1,0 +1,27 @@
+﻿
+NGame = {
+	END_DATE = "1492.1.1"
+}
+
+NJominiMap = {
+	WORLD_EXTENTS_X = 11679
+	WORLD_EXTENTS_Y = 51
+	WORLD_EXTENTS_Z = 5759
+	WATERLEVEL = 3.8
+}
+
+NCharacter = {
+	MAXIMUM_DIPLOMATIC_RANGE = 1100 # 10% increase due to map projection
+	MAXIMUM_DIPLOMATIC_RANGE_RESTRICTED = 825 # Used if a game rule with the restricted_diplomatic_range flag is used
+}
+
+NReligion = {
+	PIETY_LOSS_PER_MISSING_SPOUSE = 0 # If you have fewer spouses than expected in a polygamous faith, you'll lose this much piety for each spouse you fall short.
+}
+
+NCharacterOpinion = {
+	MOTHER = 25
+	FATHER = 25
+	SIBLING = 5
+	CHILD = 25
+}
