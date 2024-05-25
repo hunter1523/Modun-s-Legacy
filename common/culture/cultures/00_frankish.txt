@@ -27,10 +27,7 @@
 }
 
 french = {
-	color = french
-	created = 862.1.1
-	parents = { frankish }
-	
+	color = french	
 	ethos = ethos_courtly
 	heritage = heritage_frankish
 	language = language_french
@@ -58,7 +55,6 @@ french = {
 
 norman = {
 	color = { 0.1 0.2 0.4 }
-	created = 911.7.20 # Treaty of Saint-Clair-sur-Epte
 	parents = { french old_saxon }
 	
 	ethos = ethos_bellicose
