@@ -12,9 +12,6 @@ d_udayagiri = {
 	846.1.1 = {
 		holder = 175070
 	}
-	870.1.1 = {
-		holder = 0
-	}
 }
 
 
@@ -26,90 +23,6 @@ c_palakka = {
 	850.1.1 = {
 		holder = telugu_vaidumba_1
 		liege = d_tondai_nadu
-	}
-	892.1.1 = {
-		holder = 189088 #Bhima I
-		liege = d_vengi
-	}
-	921.1.1 = {
-		holder = 189089 #Vijayaditya IV
-	}
-	921.1.1 = {
-		holder = additional_eastern_chalukyas_1
-	}
-	927.1.1 = {
-		holder = 189090 #Vijayaditya V
-	}
-	927.1.1 = {
-		holder = 189091 #Tadapa
-	}
-	927.2.1 = {
-		holder = 189092 #Vikramaditya II
-	}
-	928.1.1 = {
-		holder = 189093 #Bhima II
-	}
-	928.11.1 = {
-		holder = 189094 #Yudhamalla II
-	}
-	935.1.1 = {
-		holder = 189095 #Bhima III
-	}
-	936.1.1 = {
-		holder = 189097
-		liege = d_vengi
-	}
-	947.1.1 = {
-		holder = 189096 #Amma II Vijayaditya VI
-	}
-	970.1.1 = {
-		holder = 189098 #Danavarna
-	}
-	973.1.1 = {
-		holder = additional_eastern_chalukyas_2 #Jata Choda Bhima
-	}
-	999 = {
-		holder = 189099 #Saktivarman I
-	}
-	1011.1.1 = {
-		holder = 189100 #Vimaladitya
-	}
-	1018.1.1 = {
-		holder = 189102 #Rajaraja Narenda
-	}
-	1061.1.1 = {
-		holder = 189103 #Saktivarman II
-	}
-	1063.1.1 = {
-		holder = velanati_chodas_1
-		liege = d_vengi
-	}
-
-
-	1075.1.1 = {
-		holder = 260096
-	}
-	1149.1.1 = {
-		holder = 260097
-	}
-	1189.1.1 = {
-		holder = 189236
-	}
-	1195.1.1 = {
-		holder = 189237
-	}
-	1199.1.1 = {
-		holder = 189238
-	}
-	1262.1.1 = {
-		holder = 189239
-	}
-	1289.1.1 = {
-		holder = 189246
-	}
-
-	1325.1.1 = {
-		holder = reddy_king_prolaya_vema
 	}
 }
 
@@ -123,39 +36,6 @@ c_cumbum = {
 		holder = telugu_vaidumba_1
 		liege = d_tondai_nadu
 	}
-	936.1.1 = {
-		holder = 189097
-		liege = d_vengi
-	}
-	1063.1.1 = {
-		holder = velanati_chodas_1
-	}
-	1075.1.1 = {
-		holder = 260090
-	}
-	1150.1.1 = {
-		holder = 260091
-	}
-
-	1189.1.1 = {
-		holder = 189236
-	}
-	1195.1.1 = {
-		holder = 189237
-	}
-	1199.1.1 = {
-		holder = 189238
-	}
-	1262.1.1 = {
-		holder = 189239
-	}
-	1289.1.1 = {
-		holder = 189246
-	}
-
-	1325.1.1 = {
-		holder = reddy_king_prolaya_vema
-	}
 }
 
 
@@ -166,33 +46,6 @@ c_nallamala = {
 	850.1.1 = {
 		holder = telugu_vaidumba_1
 		liege = d_tondai_nadu
-	}
-
-	936.1.1 = {
-		holder = 189097
-		liege = d_vengi
-	}
-
-	1040.1.1 = {
-		holder = natavadi_1
-		liege = d_vengi
-	}
-	1104.1.1 = {
-		holder = natavadi_2
-	}
-	1157.1.1 = {
-		holder = natavadi_3
-	}
-	1201.1.1 = {
-		holder = natavadi_4
-	}
-	1248.1.1 = {
-		holder = natavadi_5
-	}
-
-
-	1325.1.1 = {
-		holder = reddy_king_prolaya_vema
 	}
 }
 
@@ -236,89 +89,6 @@ d_vengi = {
 	}
 	849.1.1 = {
 		holder = 189086 #Yuddhamala (Together with Vikramaditya I and Gunaga Vijayaditya III)
-	}
-	892.1.1 = {
-		holder = 189088 #Bhima I
-	}
-	921.1.1 = {
-		holder = 189089 #Vijayaditya IV
-	}
-	921.1.1 = {
-		holder = additional_eastern_chalukyas_1
-	}
-	927.1.1 = {
-		holder = 189090 #Vijayaditya V
-	}
-	927.1.1 = {
-		holder = 189091 #Tadapa
-	}
-	927.2.1 = {
-		holder = 189092 #Vikramaditya II
-	}
-	928.1.1 = {
-		holder = 189093 #Bhima II
-	}
-	928.11.1 = {
-		holder = 189094 #Yudhamalla II
-	}
-	935.1.1 = {
-		holder = 189095 #Bhima III
-	}
-	947.1.1 = {
-		holder = 189096 #Amma II Vijayaditya VI
-	}
-	970.1.1 = {
-		holder = 189098 #Danavarna
-	}
-	973.1.1 = {
-		holder = additional_eastern_chalukyas_2 #Jata Choda Bhima
-	}
-	999 = {
-		holder = 189099 #Saktivarman I
-	}
-	1011.1.1 = {
-		holder = 189100 #Vimaladitya
-	}
-	1018.1.1 = {
-		holder = 189102 #Rajaraja Narenda
-	}
-	1054.1.1 = {
-		liege = "k_tamilakam"
-	}
-	1061.1.1 = {
-		holder = 189103 #Saktivarman II
-	}
-	1063.1.1 = {
-		holder = 189104 #Vijayaditya VII
-	}
-	1068.1.1 = {
-		holder = 189105 #Rajaraja II
-	}
-	1072.1.1 = {
-		holder = 189104 #Vijayaditya VII second term
-	}
-	1075.1.1 = {
-		holder = 189105 #Rajaraja II
-	}
-	#1079.1.1 = {
-	#	holder = 189106 #Vishnuvardhana IX
-	#}
-	1075.1.1 = {
-		holder = 260090
-	}
-	1150.1.1 = {
-		holder = 260091
-	}
-	1189.1.1 = {
-		liege = "k_telingana"
-	}
-	1220.1.1 = {
-		liege = k_maharastra
-		holder = 189243
-	}
-	1230.1.1 = {
-		liege = "k_telingana"
-		holder = 0
 	}
 }
 
@@ -364,88 +134,6 @@ c_vengipura = {
 	849.1.1 = {
 		holder = 189086 #Yuddhamala (Together with Vikramaditya I and Gunaga Vijayaditya III)
 	}
-	892.1.1 = {
-		holder = 189088 #Bhima I
-	}
-	921.1.1 = {
-		holder = 189089 #Vijayaditya IV
-	}
-	921.1.1 = {
-		holder = additional_eastern_chalukyas_1
-	}
-	927.1.1 = {
-		holder = 189090 #Vijayaditya V
-	}
-	927.1.1 = {
-		holder = 189091 #Tadapa
-	}
-	927.2.1 = {
-		holder = 189092 #Vikramaditya II
-	}
-	928.1.1 = {
-		holder = 189093 #Bhima II
-	}
-	928.11.1 = {
-		holder = 189094 #Yudhamalla II
-	}
-	935.1.1 = {
-		holder = 189095 #Bhima III
-	}
-	947.1.1 = {
-		holder = 189096 #Amma II Vijayaditya VI
-	}
-	970.1.1 = {
-		holder = 189098 #Danavarna
-	}
-	973.1.1 = {
-		holder = additional_eastern_chalukyas_2 #Jata Choda Bhima
-	}
-	999 = {
-		holder = 189099 #Saktivarman I
-	}
-	1011.1.1 = {
-		holder = 189100 #Vimaladitya
-	}
-	1018.1.1 = {
-		holder = 189102 #Rajaraja Narenda
-	}
-	1061.1.1 = {
-		holder = 189103 #Saktivarman II
-	}
-	1063.1.1 = {
-		holder = 189104 #Vijayaditya VII
-	}
-	1068.1.1 = {
-		holder = 189105 #Rajaraja II
-	}
-	1072.1.1 = {
-		holder = 189104 #Vijayaditya VII second term
-	}
-	1075.1.1 = {
-		holder = 260090
-	}
-	1150.1.1 = {
-		holder = 260091
-	}
-	1189.1.1 = {
-		holder = 189236
-	}
-	1195.1.1 = {
-		holder = 189237
-	}
-	1199.1.1 = {
-		holder = 189238
-	}
-	1262.1.1 = {
-		holder = 189239
-	}
-	1289.1.1 = {
-		holder = 189246
-	}
-
-	1325.1.1 = {
-		holder = reddy_king_prolaya_vema
-	}
 }
 
 
@@ -489,88 +177,6 @@ c_mosala = {
 	}
 	849.1.1 = {
 		holder = 189086 #Yuddhamala (Together with Vikramaditya I and Gunaga Vijayaditya III)
-	}
-	892.1.1 = {
-		holder = 189088 #Bhima I
-	}
-	921.1.1 = {
-		holder = 189089 #Vijayaditya IV
-	}
-	921.1.1 = {
-		holder = additional_eastern_chalukyas_1 #Vishnuvardhana VI
-	}
-	927.1.1 = {
-		holder = 189090 #Vijayaditya V
-	}
-	927.1.1 = {
-		holder = 189091 #Tadapa
-	}
-	927.2.1 = {
-		holder = 189092 #Vikramaditya II
-	}
-	928.1.1 = {
-		holder = 189093 #Bhima II
-	}
-	928.11.1 = {
-		holder = 189094 #Yudhamalla II
-	}
-	935.1.1 = {
-		holder = 189095 #Bhima III
-	}
-	947.1.1 = {
-		holder = 189096 #Amma II Vijayaditya VI
-	}
-	970.1.1 = {
-		holder = 189098 #Danavarna
-	}
-	973.1.1 = {
-		holder = additional_eastern_chalukyas_2 #Jata Choda Bhima
-	}
-	999 = {
-		holder = 189099 #Saktivarman I
-	}
-	1011.1.1 = {
-		holder = 189100 #Vimaladitya
-	}
-	1018.1.1 = {
-		holder = 189102 #Rajaraja Narenda
-	}
-	1061.1.1 = {
-		holder = 189103 #Saktivarman II
-	}
-	1063.1.1 = {
-		holder = 189104 #Vijayaditya VII
-	}
-	1068.1.1 = {
-		holder = 189105 #Rajaraja II
-	}
-	1072.1.1 = {
-		holder = 189104 #Vijayaditya VII second term
-	}
-	1075.1.1 = {
-		holder = 260096
-	}
-	1149.1.1 = {
-		holder = 260097
-	}
-	1189.1.1 = {
-		holder = 189236
-	}
-	1195.1.1 = {
-		holder = 189237
-	}
-	1199.1.1 = {
-		holder = 189238
-	}
-	1262.1.1 = {
-		holder = 189239
-	}
-	1289.1.1 = {
-		holder = 189246
-	}
-
-	1325.1.1 = {
-		holder = reddy_king_prolaya_vema
 	}
 }
 

@@ -15,21 +15,6 @@ k_dagestan = {
 	860.1.1 = {
 		holder = 602145
 	}
-	916.1.1 = {
-		holder = 602146
-	}
-	959.1.1 = {
-		holder = 602147
-	}
-	1011.1.1 = {
-		holder = 602148
-	}
-	1030.1.1 = {
-		liege = 0
-        }
-	1047.1.1 = {
-		holder = 602149
-	}
 	867.1.1 = { change_development_level = 0 }
 	1066.1.1 = { change_development_level = 0 }
 }
@@ -76,53 +61,6 @@ c_samiran = {
 	864.1.1 = {
 		holder = 602140
 	}
-	917.1.1 = {
-		holder = 602141
-	}
-	983.1.1 = {
-		holder = 602139
-	}
-	#Cumans
-	1030.1.1 = {
-		liege = 0
-	holder = 90142
-	}
-	1059.1.1 = {
-		holder = 602138
-	}
-	1110.1.1 = {
-		holder = 90143
-	}
-	1120.1.1 = {
-		holder = 125401
-	}
-	1146.1.1 = {
-		holder = 125402
-	}
-	1183.1.1 = {
-		holder = 228030
-	}
-	1203.1.1 = {
-		holder = 125403
-	}
-	1223.1.1 = {
-		holder = 125404
-	}
-	1238.1.1 = {
-		holder = 34851
-	}
-	1262.1.13 = {
-		holder = 34903
-	}
-	1280.1.1 = {
-		holder = 34904
-	}
-	1285.1.1 = {
-		holder = 34906
-	}
-	1305.1.1 = {
-		holder = 480000
-	}
 }
 
 c_samanderia = {
@@ -144,21 +82,6 @@ c_samanderia = {
 	860.1.1 = {
 		holder = 602145
 	}
-	916.1.1 = {
-		holder = 602146
-	}
-	959.1.1 = {
-		holder = 602147
-	}
-	1011.1.1 = {
-		holder = 602148
-	}
-	1030.1.1 = {
-		liege = 0
-        }
-	1047.1.1 = {
-		holder = 602149
-	}
 }
 
 c_balanjar = {
@@ -170,9 +93,6 @@ c_balanjar = {
 		holder = 602151
 		government = tribal_government
 	}
-	1011.1.1 = {
-		holder = 602150
-	}
 }
 
 c_kuba = {
@@ -183,9 +103,6 @@ c_kuba = {
 		holder = 602152
 		government = tribal_government
 	}
-	1011.1.1 = {
-		holder = 602153
-	}
 }
 
 c_avaria = {
@@ -195,16 +112,6 @@ c_avaria = {
 	860.1.1 = {
 		liege = "k_dagestan"
 		holder = 602235
-		government = tribal_government
-	}
-	930.1.1 = {
-		liege = "k_dagestan"
-		holder = 602239
-		government = tribal_government
-	}
-	1050.1.1 = {
-		liege = "k_dagestan"
-		holder = 602243
 		government = tribal_government
 	}
 }
@@ -225,17 +132,5 @@ c_derbent = {
 	}
 	860.1.1 = {
 		holder = 602145
-	}
-	916.1.1 = {
-		holder = 602146
-	}
-	959.1.1 = {
-		holder = 602147
-	}
-	1011.1.1 = {
-		holder = 602148
-	}
-	1047.1.1 = {
-		holder = 602149
 	}
 }

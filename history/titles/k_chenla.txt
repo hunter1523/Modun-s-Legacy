@@ -12,73 +12,6 @@ e_kambujadesa = {
 	835.1.1 = {
 		holder = 420011
 	}
-	877.1.1 = {
-		holder = 420012
-	}
-	889.1.1 = {
-		holder = 420013
-	}
-	910.1.1 = {
-		holder = 420014
-	}
-	925.1.1 = {
-		holder = 420015
-	}
-	928.1.1 = {
-		holder = 420016
-	}
-	941.1.1 = {
-		holder = 420017
-	}
-	944.1.1 = {
-		holder = 420018
-	}
-	968.1.1 = {
-		holder = 420019 # Jayavarman V
-	}
-	1001.1.1 = {
-		holder = 420020
-	}
-	1002.1.1 = {
-		holder = 420021
-	}
-	1011.1.1 = {
-		holder = 420022
-	}
-	1050.1.1 = {
-		holder = 420024
-	}
-	1066.1.1 = {
-		holder = 420025
-	}
-	1080.1.1 = {
-		holder = 420023
-	}
-	1107.1.1 = {
-		holder = 420028
-	}
-
-	1113.1.1 = {
-		holder = 420030
-	}
-	1150.1.1 = {
-		holder = 420031
-	}
-	1156.1.1 = {
-		holder = 420032
-	}
-	1165.1.1 = {
-		holder = 420033
-	}
-	1181.1.1 = {
-		holder = 420034
-	}
-	1218.1.1 = {
-		holder = 420035
-	}
-	1243.1.1 = {
-		holder = 420036
-	}
 }
 k_chenla = {
 	550.1.1 = {
@@ -119,73 +52,6 @@ k_chenla = {
 	835.1.1 = {
 		holder = 420011
 	}
-	877.1.1 = {
-		holder = 420012
-	}
-	889.1.1 = {
-		holder = 420013
-	}
-	910.1.1 = {
-		holder = 420014
-	}
-	925.1.1 = {
-		holder = 420015
-	}
-	928.1.1 = {
-		holder = 420016
-	}
-	941.1.1 = {
-		holder = 420017
-	}
-	944.1.1 = {
-		holder = 420018
-	}
-	968.1.1 = {
-		holder = 420019
-	}
-	1001.1.1 = {
-		holder = 420020
-	}
-	1002.1.1 = {
-		holder = 420021
-	}
-	1011.1.1 = {
-		holder = 420022
-	}
-	1050.1.1 = {
-		holder = 420024
-	}
-	1066.1.1 = {
-		holder = 420025
-	}
-	1080.1.1 = {
-		holder = 420023
-	}
-	1107.1.1 = {
-		holder = 420028
-	}
-
-	1113.1.1 = {
-		holder = 420030
-	}
-	1150.1.1 = {
-		holder = 420031
-	}
-	1156.1.1 = {
-		holder = 420032
-	}
-	1165.1.1 = {
-		holder = 420033
-	}
-	1181.1.1 = {
-		holder = 420034
-	}
-	1218.1.1 = {
-		holder = 420035
-	}
-	1243.1.1 = {
-		holder = 420036
-	}
 }
 
 d_kambuja_devaraja = {
@@ -195,73 +61,6 @@ d_kambuja_devaraja = {
 	}
 	835.1.1 = {
 		holder = 420011
-	}
-	877.1.1 = {
-		holder = 420012
-	}
-	889.1.1 = {
-		holder = 420013
-	}
-	910.1.1 = {
-		holder = 420014
-	}
-	925.1.1 = {
-		holder = 420015
-	}
-	928.1.1 = {
-		holder = 420016
-	}
-	941.1.1 = {
-		holder = 420017
-	}
-	944.1.1 = {
-		holder = 420018
-	}
-	968.1.1 = {
-		holder = 420019
-	}
-	1001.1.1 = {
-		holder = 420020
-	}
-	1002.1.1 = {
-		holder = 420021
-	}
-	1011.1.1 = {
-		holder = 420022
-	}
-	1050.1.1 = {
-		holder = 420024
-	}
-	1066.1.1 = {
-		holder = 420025
-	}
-	1080.1.1 = {
-		holder = 420023
-	}
-	1107.1.1 = {
-		holder = 420028
-	}
-
-	1113.1.1 = {
-		holder = 420030
-	}
-	1150.1.1 = {
-		holder = 420031
-	}
-	1156.1.1 = {
-		holder = 420032
-	}
-	1165.1.1 = {
-		holder = 420033
-	}
-	1181.1.1 = {
-		holder = 420034
-	}
-	1218.1.1 = {
-		holder = 420035
-	}
-	1243.1.1 = {
-		holder = 420036
 	}
 }
 
@@ -273,29 +72,15 @@ d_isanapura = {
 		835.1.1 = {
 			holder = 420011
 		}
-
-		1060.1.1 = {
-			holder = khmerv014
-			liege = e_kambujadesa
-		}
     }
     c_prey_nokor = {
 		835.1.1 = {
 			holder = 420011
 		}
-
-		1060.1.1 = {
-			holder = khmerv014
-			liege = e_kambujadesa
-		}
     }
     c_kampong_kdei = {
 		835.1.1 = {
 			holder = 420011
-		}
-
-		1060.1.1 = {
-			holder = khmerv014
 		}
     }
 
@@ -308,33 +93,15 @@ d_ban_lung = {
 			holder = kuy213
 			liege = e_kambujadesa
 		}
-		930.1.1 = {
-			holder = mnong002
-		}
-		1066.1.1 = {
-			holder = mnong001
-		}
     }
     c_senmonorom = {
 		860.1.1 = {
 			holder = kuy213
 		}
-		930.1.1 = {
-			holder = mnong002
-		}
-		1066.1.1 = {
-			holder = mnong001
-		}
     }
     c_ta_veang = {
 		860.1.1 = {
 			holder = kuy213
-		}
-		930.1.1 = {
-			holder = mnong002
-		}
-		1066.1.1 = {
-			holder = mnong001
 		}
     }
 d_aninditapura = {
@@ -378,11 +145,6 @@ d_battambang = {
 		government = mandala_government
 		liege = e_kambujadesa
 	}
-
-	1060.1.1 = {
-		holder = khmerv015
-		liege = e_kambujadesa
-	}
 }
     c_bakan = {
 		750.1.1 = {
@@ -398,9 +160,6 @@ d_battambang = {
 		852.1.1 = {
 			holder = 42001041
 		}
-		930.1.1 = {
-			holder = khmerv017
-		}
     }
 	c_pailin = {
 		860.1.1 = {
@@ -408,33 +167,15 @@ d_battambang = {
 			government = tribal_government
 			liege = e_kambujadesa
 		}
-		930.1.1 = {
-			holder = khmerv019
-		}
-		1060.1.1 = {
-			holder = khmerv015
-		}
 	}
 	c_neang = {
 		860.1.1 = {
 			holder = khmer003
 		}
-		930.1.1 = {
-			holder = khmerv019
-		}
-		1060.1.1 = {
-			holder = khmerv015
-		}
 	}
     c_chhmar = {
 		860.1.1 = {
 			holder = khmer003
-		}
-		930.1.1 = {
-			holder = khmerv019
-		}
-		1060.1.1 = {
-			holder = khmerv015
 		}
 	}
 d_dviradapura = {
@@ -454,13 +195,6 @@ d_dviradapura = {
 	852.1.1 = {
 		holder = 42001041
 	}
-	930.1.1 = {
-		holder = khmerv017
-	}
-
-	1060.1.1 = {
-		holder = khmerv023
-	}
 }
     c_pursat = {
 		750.1.1 = {
@@ -475,13 +209,6 @@ d_dviradapura = {
 		}
 		852.1.1 = {
 			holder = 42001041
-		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-
-		1060.1.1 = {
-			holder = khmerv023
 		}
 	}
     c_aoral = {
@@ -498,13 +225,6 @@ d_dviradapura = {
 		852.1.1 = {
 			holder = 42001041
 		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-
-		1060.1.1 = {
-			holder = khmerv023
-		}
 	}
     c_dviradapura = {
 		750.1.1 = {
@@ -520,13 +240,6 @@ d_dviradapura = {
 		852.1.1 = {
 			holder = 42001041
 		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-
-		1060.1.1 = {
-			holder = khmerv023
-		}
 	}
 d_vyadhapura = {
     300.1.1 = { change_development_level = 8 }
@@ -541,11 +254,6 @@ d_vyadhapura = {
 	835.1.1 = {
 		holder = 420011
 	}
-
-	930.1.1 = {
-		holder = khmerv021
-		liege = e_kambujadesa
-	}
 }
     c_angkor_borei = {
 		750.1.1 = {
@@ -557,14 +265,6 @@ d_vyadhapura = {
 		835.1.1 = {
 			holder = 420011
 		}
-
-		930.1.1 = {
-			holder = khmerv021
-		}
-
-		1060.1.1 = {
-			holder = khmerv023
-		}
 	}
     c_prey_rodum = {
     	860.1.1 = {
@@ -572,12 +272,6 @@ d_vyadhapura = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-		930.1.1 = {
-			holder = khmerv022
-		}
-		1060.1.1 = {
-			holder = khmerv013
-		}
     }
 	c_chum_kiri = {
 		750.1.1 = {
@@ -589,14 +283,6 @@ d_vyadhapura = {
 		835.1.1 = {
 			holder = 420011
 		}
-
-		930.1.1 = {
-			holder = khmerv021
-		}
-
-		1060.1.1 = {
-			holder = khmerv023
-		}
 	}
     c_tbong_khmum = {
     	860.1.1 = {
@@ -604,12 +290,6 @@ d_vyadhapura = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-		930.1.1 = {
-			holder = khmerv022
-		}
-		1060.1.1 = {
-			holder = khmerv013
-		}
     }
     c_kiri_vong = {
     	860.1.1 = {
@@ -617,12 +297,6 @@ d_vyadhapura = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-		930.1.1 = {
-			holder = khmerv022
-		}
-		1060.1.1 = {
-			holder = khmerv013
-		}
     }
 d_can_tho = {
     300.1.1 = { change_development_level = 8 }
@@ -633,12 +307,6 @@ d_can_tho = {
 		liege = e_kambujadesa
 		government = mandala_government
 	}
-	900.1.1 = {
-		holder = khmerv020
-	}
-	1060.1.1 = {
-		holder = khmerv012
-	}
 }
     c_can_tho = {
     	860.1.1 = {
@@ -646,12 +314,6 @@ d_can_tho = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-    	900.1.1 = {
-    		holder = khmerv020
-    	}
-		1060.1.1 = {
-			holder = khmerv012
-		}
     }
     c_sap = {
     	860.1.1 = {
@@ -659,12 +321,6 @@ d_can_tho = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-    	900.1.1 = {
-    		holder = khmerv020
-    	}
-		1060.1.1 = {
-			holder = khmerv012
-		}
     }
     c_sadek = {
     	860.1.1 = {
@@ -672,12 +328,6 @@ d_can_tho = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-    	900.1.1 = {
-    		holder = khmerv020
-    	}
-		1060.1.1 = {
-			holder = khmerv012
-		}
     }
     c_prey_rusey = {
     	860.1.1 = {
@@ -685,53 +335,24 @@ d_can_tho = {
     		liege = e_kambujadesa
     		government = mandala_government
     	}
-    	900.1.1 = {
-    		holder = khmerv020
-    	}
-		1060.1.1 = {
-			holder = khmerv012
-		}
     }
 d_koh_kong = {
 	867.1.1 = { change_development_level = 5 }
 	1066.1.1 = { change_development_level = 7 }
-
-	1060.1.1 = {
-		holder = khmerv016
-		liege = e_kambujadesa
-	}
 }
     c_koh_kong = {
 		852.1.1 = {
 			holder = 42001041
-		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-		1060.1.1 = {
-			holder = khmerv016
 		}
     }
     c_khemara_phoumin = {
 		852.1.1 = {
 			holder = 42001041
 		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-		1060.1.1 = {
-			holder = khmerv016
-		}
     }
     c_ream = {
 		852.1.1 = {
 			holder = 42001041
-		}
-		930.1.1 = {
-			holder = khmerv017
-		}
-		1060.1.1 = {
-			holder = khmerv016
 		}
     }
 
@@ -766,18 +387,6 @@ d_sambhupura = {
 	857.1.1 = {
 		holder = 420012
 	}
-	889.1.1 = {
-		holder = 420013
-	}
-	930.1.1 = {
-		holder = khmerv018
-	}
-
-	1060.1.1 = {
-		holder = khmerv014
-		government = mandala_government
-		liege = e_kambujadesa
-	}
 }
     c_sambhupura = {
 		730.1.1 = {
@@ -806,17 +415,6 @@ d_sambhupura = {
 		}
 		857.1.1 = {
 			holder = 420012
-		}
-		889.1.1 = {
-			holder = 420013
-		}
-		930.1.1 = {
-			holder = khmerv018
-		}
-
-		1060.1.1 = {
-			holder = khmerv014
-			liege = e_kambujadesa
 		}
     }
     c_phnom_preah_theat = {
@@ -847,17 +445,6 @@ d_sambhupura = {
 		857.1.1 = {
 			holder = 420012
 		}
-		889.1.1 = {
-			holder = 420013
-		}
-		930.1.1 = {
-			holder = khmerv018
-		}
-
-		1060.1.1 = {
-			holder = khmerv014
-			liege = e_kambujadesa
-		}
     }
     c_thala_borivat = {
 		730.1.1 = {
@@ -887,27 +474,10 @@ d_sambhupura = {
 		857.1.1 = {
 			holder = 420012
 		}
-		889.1.1 = {
-			holder = 420013
-		}
-		930.1.1 = {
-			holder = khmerv018
-		}
-
-		1060.1.1 = {
-			holder = khmerv014
-			liege = e_kambujadesa
-		}
     }
 d_battambang = {
     867.1.1 = { change_development_level = 5 }
     1066.1.1 = { change_development_level = 7 }
-
-	930.1.1 = {
-		holder = khmerv019
-		government = mandala_government
-		liege = e_kambujadesa
-	}
 }
 d_koh_kong = {
     867.1.1 = { change_development_level = 5 }
