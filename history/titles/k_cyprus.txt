@@ -19,13 +19,25 @@ c_nicosia = {
 		liege = "d_cyprus"
 	}
 	688.1.1 = {
-		liege = "e_byzantium"
+		liege = "e_arabia"
 	}
-	753.1.1 = {
-		holder = 145862
+	733.1.1 = {
+		liege = "d_antioch"
 	}
-	852.1.1 = {
-		holder = 145127
+	761.1.1 = {
+		holder = 146046
+	}
+	799.1.1 = {
+		holder = 146047
+	}
+	825.1.1 = {
+		holder = 146048
+	}
+	860.1.1 = {
+		liege = "e_arabia"
+	}
+	863.1.1 = {
+		holder = 159728
 	}
 }
 

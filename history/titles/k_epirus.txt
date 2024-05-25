@@ -5,7 +5,7 @@ k_epirus={
 
 d_epirus = {
 	330.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_thessalonika"
 	}
 	766.1.1 = {
 		holder = 145799
@@ -127,7 +127,7 @@ c_dyrrachion = {
 		holder = 145817
 	}
 	843.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_thessalonika"
 	}
 	865.1.1 = {
 		holder = 145124
@@ -143,7 +143,7 @@ c_arbanon = {
 		holder = 145817
 	}
 	843.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_thessalonika"
 	}
 	865.1.1 = {
 		holder = 145124
@@ -190,7 +190,7 @@ c_antipatreia = {
 	}
 	865.1.1 = {
 		holder = 145124
-		liege = e_byzantium
+		liege = k_thessalonika
 	}
 }
 
@@ -204,14 +204,14 @@ c_avlonas = {
 	}
 	865.1.1 = {
 		holder = 145124
-		liege = e_byzantium
+		liege = k_thessalonika
 	}
 }
 
 
 d_cephalonia = {
 	330.1.1 = {
-		liege = "e_byzantium"
+		liege = "k_thessalonika"
 	}
 	766.1.1 = {
 		holder = 145799

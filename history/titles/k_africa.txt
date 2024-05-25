@@ -4,99 +4,8 @@ k_africa = {
 	1066.1.1 = { change_development_level = 6 }
 	1187.1.1 = { change_development_level = 20 }
 	1337.1.1 = { change_development_level = 40 }
-	# Vandals
-	435.1.1={
-		holder=168796 # Genseric
-	}
-	477.1.25={
-		holder=168797 # Huneric
-	}
-	484.1.1={
-		holder=168802 # Gunthamund
-	}
-	496.1.1={
-		holder=168803 # Thrasamund
-	}
-	523.1.1={
-		holder=168798 # Hilderic
-	}
-	530.1.1={
-		holder=168805 # Gelimer
-	}
-	534.6.1={
-		holder=0
-	}
-	#Muhallabids
-	768.1.1 = {
-		government = clan_government
-		holder = 210014
-		effect = {
-			if = {
-				limit = {
-					exists = holder
-					has_dlc_feature = royal_court
-				}
-				holder = {
-					set_court_language = language_arabic
-					if = {
-						limit = { NOT = { knows_court_language_of = this } }
-						learn_court_language_of = this
-					}
-				}
-			}
-		}
-	}
-	#768.1.1 = {
-	#	liege = "e_arabia"
-	#}
-	771.1.1 = {
-		holder = 210015
-	}
-	771.1.6 = {
-		holder = 210014
-	}
-	772.1.1 = {
-		holder = 210009
-	}
-	787.1.1 = {
-		holder = 210010
-	}
-	787.1.10 = {
-		holder = 210016
-	}
-	791.1.1 = {
-		holder = 210017
-	}
-	793.1.1 = {
-		holder = 210018
-	}
-	#Aghlabids
-	800.1.1 = {
-		holder = 163140
-	}
-	800.1.1 = {
-		liege = 0
-	}
-	812.1.1 = {
-		holder = 163141
-	}
-	817.1.1 = {
-		holder = 163142
-	}
-	838.6.10 = {
-		holder = 163143
-	}
-	841.1.1 = {
-		holder = 163144
-	}
-	856.1.1 = {
-		holder = 163145
-	}
-	863.1.1 = {
-		holder = 163146
-	}
-	864.1.1 = {
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -112,12 +21,10 @@ c_kairwan = {
 	1066.1.1 = { change_development_level = 12 }
 
 	768.1.1 = {
-		government = clan_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -125,13 +32,10 @@ c_kairwan = {
 
 c_west_qamuda = {
 	768.1.1 = {
-		government = clan_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = d_tunis
-		holder = 6887
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -139,11 +43,9 @@ c_west_qamuda = {
 c_tabassa = {
 	768.1.1 = {
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = d_tunis
-		holder = 6887
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -152,10 +54,11 @@ d_tunis = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 12 }
 
-	864.1.1 = {
-		government = clan_government
+	768.1.1 = {
 		liege = k_africa
-		holder = 6887
+	}
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -165,40 +68,30 @@ c_tunis = {
 	1066.1.1 = { change_development_level = 16 }
 
 	768.1.1 = {
-		holder = 210014
+		liege = k_africa
 	}
-	768.1.1 = {
-		liege = "k_africa"
-	}
-	864.1.1 = {
-		government = clan_government
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_satfura = {
 	768.1.1 = {
-		liege = "k_africa"
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210014
-	}
-	864.1.1 = {
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_medjerda = {
 	768.1.1 = {
-		government = clan_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = d_tunis
-		holder = 6887
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -208,13 +101,10 @@ c_mahdiya = {
 	1066.1.1 = { change_development_level = 16 }
 
 	768.1.1 = {
-		liege = "k_africa"
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210014
-	}
-	864.1.1 = {
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -226,13 +116,11 @@ d_kroumerie = {
 }
 
 c_constantine = {
-	767.1.1 = {
+	768.1.1 = {
 		liege = k_africa
-		holder = 210035
 	}
-	864.1.1 = {
-		government = clan_government
-		holder = baranis0026
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -241,27 +129,21 @@ c_annaba = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 12 }
 
-	767.1.1 = {
-		government = clan_government
+	768.1.1 = {
 		liege = k_africa
-		holder = 210035
 	}
-	864.1.1 = {
-		holder = 6883
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_sfax = {
 	768.1.1 = {
-		government = clan_government
-		liege = "k_africa"
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210014
-	}
-	864.1.1 = {
-		holder = 163096
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -271,31 +153,30 @@ d_gabes = {
 	1187.1.1 = { change_development_level = 30 }
 	1337.1.1 = { change_development_level = 60 }
 
-	867.1.1 = {
-		government = clan_government
+	768.1.1 = {
 		liege = k_africa
-		holder = 163147
+	}
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 c_gabes = {
-	864.1.1 = {
-		government = clan_government
+	768.1.1 = {
 		liege = k_africa
-		holder = 163147
+	}
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_qashtiliya = {
 	768.1.1 = {
-		government = clan_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = d_tunis
-		holder = 6887
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -304,25 +185,19 @@ d_jerid = {
 
 c_souf = {
 	768.1.1 = {
-		government = tribal_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = k_africa
-		holder = 163147
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 c_bir_amir = {
 	768.1.1 = {
-		government = tribal_government
 		liege = k_africa
-		holder = 210014
 	}
-	864.1.1 = {
-		liege = k_africa
-		holder = 163147
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -342,15 +217,10 @@ c_ghadames = {
 
 d_tripolitania = {
 	768.1.1 = {
-		holder = 210031
+		liege = k_africa
 	}
-	866.1.1 = {
-		#liege = "k_africa" - should not be a vasal, but tributary
-		government = clan_government
-		holder = 273136 #Hawwara
-	}
-	866.10.10 = {
-		holder = 273137
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
@@ -360,100 +230,70 @@ c_tripolitana = {
 	1066.1.1 = { change_development_level = 12 }
 
 	768.1.1 = {
-		government = clan_government
-		liege = "d_tripolitania"
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210031
-	}
-	866.1.1 = {
-		government = clan_government
-		holder = 273136 #Hawwara
-	}
-	866.10.10 = {
-		holder = 273137
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_djerba = {
 	768.1.1 = {
-		government = clan_government
-		liege = d_tripolitania
-		holder = 210031
-	}
-	864.1.1 = {
 		liege = k_africa
-		holder = 6884
+	}
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_jafara = {
 	768.1.1 = {
-		government = clan_government
-		liege = d_tripolitania
-		holder = 210031
+		liege = k_africa
 	}
-	866.1.1 = {
-		holder = 273136 #Hawwara
-	}
-	866.10.10 = {
-		holder = 273137
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 d_syrte = {
-	864.1.1 = {
-		government = clan_government
-		liege = 0
-		holder = 273135
+	768.1.1 = {
+		liege = k_africa
+	}
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_syrte = {
 	768.1.1 = {
-		government = clan_government
-		liege = d_tripolitania
-		holder = 210031
+		liege = k_africa
 	}
-	864.1.1 = {
-		liege = d_syrte
-		holder = 273135
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_labda = {
 	768.1.1 = {
-		government = clan_government
-		liege = "d_tripolitania"
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210031
-	}
-	866.1.1 = {
-		holder = 273136 #Hawwara
-	}
-	866.10.10 = {
-		holder = 273137
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 
 
 c_waddan = {
 	768.1.1 = {
-		liege = "d_tripolitania"
-		government = tribal_government
+		liege = k_africa
 	}
-	768.1.1 = {
-		holder = 210031
-	}
-	864.1.1 = {
-		liege = d_syrte
-		holder = 273135
+	850.1.1={
+		holder=exarch_africa_01
 	}
 }
 

@@ -1,0 +1,88 @@
+﻿anatolian_arab_01 = { #Jamilid
+	name = "Jamil"
+	religion = "ashari"
+	culture = "levantine"
+	821.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_02 = { #Sinada
+	name = "Ibrahim"
+	religion = "ashari"
+	culture = "levantine"
+	832.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_03 = { #Lydia
+	name = "Da_ud"
+	religion = "ashari"
+	culture = "levantine"
+	818.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_04 = { #Milasa
+	name = "Abdullah"
+	religion = "ashari"
+	culture = "levantine"
+	824.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_05 = { #Ghilatia
+	name = "Muhammad"
+	religion = "ashari"
+	culture = "levantine"
+	826.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_06 = { #Tavia
+	name = "Ali"
+	religion = "ashari"
+	culture = "levantine"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_07 = { #Rhodes
+	name = "Is_mail"
+	religion = "ashari"
+	culture = "levantine"
+	836.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+anatolian_arab_08 = { #Umayyad governor of Charsianon and Armeniac
+	name = "Ahmad"
+	religion = "ashari"
+	culture = "levantine"
+	840.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
