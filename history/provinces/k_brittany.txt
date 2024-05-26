@@ -2,7 +2,7 @@
 ##d_brittany ###################################
 ###c_vannes
 2154 = {	#VANNES
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 
 ###c_nantes
 2152 = {	#NANTES
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 
@@ -41,7 +41,7 @@
 
 ###c_cornouaille
 2156 = {	#QUIMPER
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 }
@@ -54,7 +54,7 @@
 
 ###c_french_leon
 2157 = {	#BREST
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 
 ###c_penthievre
 2162 = {	#SAINT BRIEUC
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 }
@@ -77,7 +77,7 @@
 
 ###c_rennes
 2165 = {	#RENNES
-	culture = breton
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {

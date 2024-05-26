@@ -1038,6 +1038,9 @@ e_britannia = {
 
 		capital = c_middlesex
 
+		cultural_names = {
+				name_list_french = k_londium
+		}
 		ai_primary_priority = {
 			if = {
 				limit = {

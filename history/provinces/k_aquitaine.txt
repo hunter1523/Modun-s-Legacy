@@ -108,7 +108,7 @@
 	religion = catholic
 	holding = castle_holding
 	1337.1.1 = {
-		culture = french
+		culture = norman
 	}
 }
 2245 = {	#SAINT JUNIEN
@@ -159,7 +159,7 @@
 	religion = catholic
 	holding = castle_holding
 	1337.1.1 = {
-		culture = french
+		culture = norman
 	}
 }
 2145 = {	#JONZAC
@@ -181,7 +181,7 @@
 	religion = catholic
 	holding = castle_holding
 	1337.1.1 = {
-		culture = french
+		culture = norman
 	}
 }
 2243 = {	#TAILLEBOURG
@@ -338,7 +338,7 @@
 
 ###c_carcassonne
 2006 = {	#CARCASSONNE
-	culture = occitan
+	culture = catalan
 	religion = catholic
 	holding = castle_holding
 	1150.1.1 = { religion = cathar }
@@ -353,7 +353,7 @@
 
 ###c_beziers
 2013 = {	#BEZIERS
-	culture = occitan
+	culture = catalan
 	religion = catholic
 	holding = castle_holding
 	1150.1.1 = { religion = cathar }
@@ -474,7 +474,7 @@
 			military_camps_01
 		}
 	}
-	1187.1.1 = { culture = french }
+	1187.1.1 = { culture = norman }
 }
 2251 = {	#RUFFEC
 	holding = none
@@ -494,7 +494,7 @@
 	culture = occitan
 	religion = catholic
 	holding = castle_holding
-	1187.1.1 = { culture = french }
+	1187.1.1 = { culture = norman }
 }
 2250 = {	#MELLE
 	holding = city_holding
@@ -508,7 +508,7 @@
 
 ###c_montaigu
 2150 = {	#MONTAIGU
-	culture = french
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 }
@@ -526,10 +526,10 @@
 }
 ###c_thouars
 2257 = {	#THOUARS
-	culture = occitan
+	culture = norman
 	religion = catholic
 	holding = castle_holding
-	1187.1.1 = { culture = french }
+	1187.1.1 = { culture = norman }
 }
 2255 = {	#PARTHENAY
 	holding = none
@@ -612,7 +612,7 @@
 	culture = occitan
 	religion = catholic
 	holding = castle_holding
-	1187.1.1 = { culture = french }
+	1187.1.1 = { culture = norman }
 }
 2311 = {	#ORVAL
 	holding = none
@@ -629,7 +629,7 @@
 	culture = occitan
 	religion = catholic
 	holding = castle_holding
-	#1337.1.1 = { culture = french }
+	#1337.1.1 = { culture = norman }
 }
 2464 = {	#LA TREMOUILLE
 	holding = none
@@ -639,7 +639,7 @@
 	culture = occitan
 	religion = catholic
 	holding = castle_holding
-	1337.1.1 = { culture = french }
+	1337.1.1 = { culture = norman }
 }
 2306 = {	#JALIGNY
 	holding = city_holding

@@ -1437,7 +1437,7 @@
 ##d_alsace ###################################
 ###c_strassburg
 2721 = {	#STRASSBURG
-	culture = swabian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -1473,7 +1473,7 @@
 
 ###c_colmar
 2717 = {	#COLMAR
-	culture = swabian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -1483,7 +1483,7 @@
 
 ###c_sundgau
 2057 = {	#MONTBELIARD
-	culture = swabian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }

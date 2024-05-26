@@ -2,11 +2,11 @@
 ##d_luxembourg ###################################
 ###c_luxembourg
 2082 = {	#LUXEMBOURG
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 	1000.1.1 = {
-		culture = franconian
+		culture = frankish
 	}
 }
 2090 = {	#BASTOGNE
@@ -24,7 +24,7 @@
 
 ###c_bouillon
 2091 = {	#BOUILLON
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -46,7 +46,7 @@
 
 ###c_liege
 2097 = {	#LIEGE
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -59,7 +59,7 @@
 
 ###c_namur
 2098 = {	#NAMUR
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -102,11 +102,11 @@
 
 ###c_hainaut
 2117 = {	#MONS
-	culture = dutch
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 	1337.1.1 = {
-		culture = french
+		culture = frankish
 	}
 }
 2127 = {	#TOURNAI
@@ -121,7 +121,7 @@
 
 ###c_cambray
 2118 = {	#CAMBRAI
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -135,7 +135,7 @@
 ##d_julich ###################################
 ###c_aachen
 2092 = {	#AACHEN
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 	special_building = palace_of_aachen_01
@@ -171,7 +171,7 @@
 
 ###c_cleves
 2104 = {	#KLEVE
-	culture = dutch#franconian
+	culture = dutch#frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -207,7 +207,7 @@
 ##d_upper_lorraine ###################################
 ###c_trier
 2083 = {	#TRIER
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -230,7 +230,7 @@
 
 ###c_nancy
 2709 = {	#NANCY
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -250,7 +250,7 @@
 
 ###c_metz
 2708 = {	#METZ
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -272,7 +272,7 @@
 
 ###c_saarbrucken
 2704 = {	#SAARBRUCKEN
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -288,7 +288,7 @@
 
 ###c_puttlingen
 2710 = {	#PUTTLINGEN
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -298,7 +298,7 @@
 
 ###c_neufchateau
 2384 = {	#NEUFCHATEAU
-	culture = french
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -312,7 +312,7 @@
 ##d_lower_lorraine ###################################
 ###c_cologne
 2088 = {	#COLOGNE
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 	special_building_slot = holy_site_cologne_cathedral_01
@@ -342,7 +342,7 @@
 
 ###c_dortmund
 2673 = {	#DORTMUND
-	culture = dutch#franconian
+	culture = dutch#frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -364,7 +364,7 @@
 		culture = saxon
 		religion = catholic
 	}
-	#culture = franconian
+	#culture = frankish
 	#religion = catholic
 	holding = castle_holding
 }
@@ -374,7 +374,7 @@
 
 ###c_mark
 2679 = {	#MARK
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }
@@ -390,7 +390,7 @@
 
 ###c_koblenz
 2084 = {	#KOBLENZ
-	culture = franconian
+	culture = frankish
 	religion = catholic
 	holding = castle_holding
 }
@@ -409,7 +409,7 @@
 
 ###c_bergh
 2433 = {	#BERGH
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }
@@ -419,7 +419,7 @@
 
 ###c_sayn
 2689 = {	#SAYN
-	culture = franconian
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }

@@ -19,7 +19,7 @@
 ##d_normandy ###################################
 ###c_lisieux
 2174 = {	#LISIEUX
-	culture = french
+	culture = norman
 	religion = catholic
 	holding = castle_holding
 	960.1.1 = {	culture = norman }
