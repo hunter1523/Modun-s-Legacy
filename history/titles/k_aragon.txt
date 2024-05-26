@@ -6,479 +6,91 @@ k_aragon = {
 }
 
 
-d_barcelona = {
-	711.1.1 = {
-		de_jure_liege = k_andalusia
-	}
-	769.1.1 = {
-		holder = 200049 # Suleyman al-Arabi
-	}
-	780.1.1 = {
-		holder = 200051 # Matruh ibn Suleyman
-	}
-	792.1.1 = {
-		holder = 200052 # Sadun ibn Ruayn
-	}
-	800.1.1 = {
-		holder = 200053 # Harun
-	}
-	801.4.3 = {
-		holder = 70140 # Bera, Count of Barcelona
-		liege = k_aquitaine
-		de_jure_liege = k_aquitaine
-	}
-	820.2.1 = {
-		holder = 200141 # Rampon, Count of Barcelona
-	}
-	825.1.1 = {
-		holder = 163063 # Bernard de Septimanie
-	}
-	832.3.1 = {
-		holder = 167791 # Duke Berengar of Toulouse
-	}
-	835.6.1 = {
-		holder = 163063 # Bernard de Septimanie (2nd time)
-	}
-	844.5.1 = {
-		holder = 73785 # Sunifred de Barcelona
-	}
-	848.1.1 = {
-		holder = 73784 # Guillaume de Septimanie
-	}
-	850.1.1 = {
-		holder = 200142 # Aleran de Troyes
-	}
-	851.1.1 = {
-		holder = 200144 # Isembard, Count of Barcelona
-	}
-	852.1.1 = {
-		holder = 200145 # Odelric, Count of Barcelona
-	}
-	858.1.1 = {
-		holder = 200148 # Hunifred, Count of Barcelona
-	}
-	865.1.1 = {
-		holder = 168137 # Bernard de Gothia
-	}
-}
+#d_barcelona = {
+#}
 
 
 c_barcelona = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	800.1.1 = {
-		holder = 200053 # Walih Harun of Barcelona
-	}
-	801.4.3 = {
-		holder = 70140 # Duke Bera of Barcelona
-	}
-	820.2.1 = {
-		holder = 200141 # Duke Rampon of Barcelona
-	}
-	825.1.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona
-	}
-	832.3.1 = {
-		holder = 167791 # Duke Berengar of Toulouse
-	}
-	835.6.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona (2nd time)
-	}
-	844.5.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = 73784 # Duke Guillaume de Septimanie of Barcelona
-	}
-	850.1.1 = {
-		holder = 200142 # Duke Aleran de Troyes of Barcelona
-	}
-	851.1.1 = {
-		holder = 200144 # Duke Isembard of Barcelona
-	}
-	852.1.1 = {
-		holder = 200145 # Duke Odalric of Barcelona
-	}
-	858.1.1 = {
-		holder = 200148 # Duke Hunifred of Barcelona
-	}
-	865.1.1 = {
-		holder = 168137 # Duke Bernard de Gothia of Barcelona
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
-b_manresa = {
-}
+#b_manresa = {
+#}
 
 c_urgell = {
-	798.1.1 = {
-		holder = visigothic0006 # Count Borrell de Osona of Cerda�a
-		liege = k_aquitaine
-	}
-	800.1.1 = {
-		liege = d_barcelona
-	}
-	820.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	832.1.1 = {
-		holder = 70277 # Duke Galindo II of Arag�n
-	}
-	838.1.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = 73786 # Salomon de Gothia
-	}
-	867.1.1 = {
-		holder = 70150 # Duke Guifr� I of Barcelona
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
-b_vielha = {
-}
+#b_vielha = {
+#}
 
 c_pallas = {
-	798.1.1 = {
-		holder = visigothic0006 # Count Borrell de Osona of Cerda�a
-		liege = k_aquitaine
-	}
-	800.1.1 = {
-		liege = d_barcelona
-	}
-	820.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	832.1.1 = {
-		holder = 70277 # Duke Galindo II of Arag�n
-	}
-	838.1.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = 73786 # Salomon de Gothia
-	}
-	867.1.1 = {
-		holder = 70150 # Duke Guifr� I of Barcelona
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_puigcerda = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	798.1.1 = {
-		holder = visigothic0006 # Count Borrell de Osona of Urgell
-		liege = k_aquitaine
-	}
-	800.1.1 = {
-		liege = d_barcelona
-	}
-	820.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	832.1.1 = {
-		holder = 70277 # Duke Galindo II of Arag�n
-	}
-	834.1.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = 73786 # Salomon de Gothia
-	}
-	867.1.1 = {
-		holder = 70150 # Duke Guifr� I of Barcelona
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 c_girona = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	800.1.1 = {
-		holder = 200053 # Walih Harun of Barcelona
-	}
-	801.4.3 = {
-		holder = 70140 # Duke Bera of Barcelona
-	}
-	820.2.1 = {
-		holder = 200141 # Duke Rampon of Barcelona
-	}
-	825.1.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona
-	}
-	832.3.1 = {
-		holder = 167791 # Duke Berengar of Toulouse
-	}
-	835.6.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona (2nd time)
-	}
-	844.5.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = occitan0140 # Guifred, Count of Girona
-	}
-	852.1.1 = {
-		holder = 200145 # Duke Odalric of Barcelona
-	}
-	858.1.1 = {
-		holder = 200148 # Duke Hunifred of Barcelona
-	}
-	865.1.1 = {
-		holder = barcelona_00003
-		#holder = occitan0139 # Otger, Count of Girona
-		# We give the Barcelonas a little boost by promoting them from just lords of Empuries to lords of Cirona as a whole - Otger was actually in charge but doesn't seem to have really *done* anything.
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_rossello = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	800.1.1 = {
-		holder = 200053 # Walih Harun of Barcelona
-	}
-	801.4.3 = {
-		holder = 70140 # Duke Bera of Barcelona
-	}
-	820.2.1 = {
-		holder = 200141 # Duke Rampon of Barcelona
-	}
-	825.1.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona
-	}
-	832.3.1 = {
-		holder = 167791 # Duke Berengar of Toulouse
-	}
-	835.6.1 = {
-		holder = 163063 # Duke Bernard de Septimanie of Barcelona (2nd time)
-	}
-	844.5.1 = {
-		holder = 73785 # Duke Sunifred of Barcelona
-	}
-	848.1.1 = {
-		holder = occitan0140 # Guifred, Count of Girona
-	}
-	852.1.1 = {
-		holder = 200145 # Duke Odalric of Barcelona
-	}
-	858.1.1 = {
-		holder = 200148 # Duke Hunifred of Barcelona
-	}
-	865.1.1 = {
-		holder = barcelona_00003
-		#holder = occitan0139 # Otger, Count of Girona
-		# We give the Barcelonas a little boost by promoting them from just lords of Empuries to lords of Cirona as a whole - Otger was actually in charge but doesn't seem to have really *done* anything.
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_lleida = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	800.1.1 = {
-		holder = 200053 # Walih Harun of Barcelona
-	}
-	801.4.3 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-		liege = d_aragon
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-848 Unknown rulers
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = levantine0008 # Walih Muhammad ibn Wuhayd of Zaragoza
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 c_tarragona = {
-	769.1.1 = {
-		holder = 200049 # Walih Suleyman al-Arabi of Barcelona
-		liege = d_barcelona
-	}
-	780.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = 200052 # Walih Sadun ibn Ruayn of Barcelona
-	}
-	800.1.1 = {
-		holder = 200053 # Walih Harun of Barcelona
-	}
-	801.4.3 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-		liege = d_aragon
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-848 Unknown rulers
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = 73851 # A'id ibn Kaysan
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
-d_aragon = {
-	711.1.1 = {
-		de_jure_liege = k_valencia
-		effect = { set_title_name = d_zaragoza }
-	}
-	771.1.1 = {
-		holder = 200046 # Husayn ibn Yahya al-Ansari
-		liege = k_andalusia
-	}
-	788.6.10 = {
-		holder = 73810 # Musa ibn Furtun
-	}
-	789.1.1 = {
-		holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
-	}
-	792.1.1 = {
-		holder = levantine0005 # Abd al-Malik ibn Abd al-Wahhad
-	}
-	798.1.1 = {
-		holder = basque0127 # Bahlul ibn Marzuq
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	814.1.1 = {
-		holder = 0
-	}
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-		liege = k_valencia
-	}
-	860.1.1 = {
-		holder = levantine0008 # Muhammad ibn Wuhayd
-		liege = k_andalusia
-	}
-}
+#d_aragon = {
+#}
 
 
 c_zaragoza = {
-	867.1.1 = { change_development_level = 6 }
-	1066.1.1 = { change_development_level = 9 }
- 
-	7671.1.1 = {
-		holder = 200046 # Walih Husayn ibn Yahya of Zaragoza
-		liege = d_aragon
-		government = clan_government
-	}
-	788.6.10 = {
-		holder = 73810 # Walih Musa ibn Furtun of Zaragoza
-	}
-	789.1.1 = {
-		holder = 200051 # Walih Matruh ibn Sulayman of Barcelona
-	}
-	792.1.1 = {
-		holder = levantine0005 # Walih Abd al-Malik ibn Abd l-Wahhad of Zaragoza
-	}
-	798.1.1 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-852: Unknown Walih
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = levantine0008 # Walih Muhammad ibn Wuhayd of Zaragoza
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_albarracin = {
-	7671.1.1 = {
-		holder = 200046 # Walih Husayn ibn Yahya of Zaragoza
-		liege = d_aragon
-		government = clan_government
-	}
-	788.6.10 = {
-		holder = 73810 # Walih Musa ibn Furtun of Zaragoza
-	}
-	789.1.1 = {
-		holder = 200051 # Walih Matruh ibn Sulayman of Barcelona
-	}
-	792.1.1 = {
-		holder = levantine0005 # Walih Abd al-Malik ibn Abd l-Wahhad of Zaragoza
-	}
-	798.1.1 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-852: Unknown Walih
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = levantine0008 # Walih Muhammad ibn Wuhayd of Zaragoza
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -487,24 +99,9 @@ c_alto_aragon = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
  
-	799.1.1 = {
-		holder = frankish0005 # Duke Aureolo of Aragon
-		liege = k_navarra
-	}
-	806.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	820.1.1 = {
-		holder = 70302 # Duke Garc�a I of Aragon
-	}
-	833.1.1 = {
-		holder = 70303 # Duke Galindo I of Aragon
-	}
-	844.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragon
-	}
-	867.1.1 = {
-		holder = 70276 # Duke Aznar II of Aragon
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -513,24 +110,9 @@ c_sobrarbe = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
  
-	799.1.1 = {
-		holder = frankish0005 # Duke Aureolo of Aragon
-		liege = k_navarra
-	}
-	806.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	820.1.1 = {
-		holder = 70302 # Duke Garc�a I of Aragon
-	}
-	833.1.1 = {
-		holder = 70303 # Duke Galindo I of Aragon
-	}
-	844.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragon
-	}
-	867.1.1 = {
-		holder = 70276 # Duke Aznar II of Aragon
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -539,106 +121,35 @@ c_huesca = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
  
-	799.1.1 = {
-		holder = frankish0005 # Duke Aureolo of Aragon
-		liege = k_navarra
-	}
-	806.1.1 = {
-		holder = 70300 # Duke Aznar I of Aragon
-	}
-	820.1.1 = {
-		holder = 70302 # Duke Garc�a I of Aragon
-	}
-	833.1.1 = {
-		holder = 70303 # Duke Galindo I of Aragon
-	}
-	844.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragon
-	}
-	867.1.1 = {
-		holder = 70276 # Duke Aznar II of Aragon
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_calatayud = {
-	7671.1.1 = {
-		holder = 200046 # Walih Husayn ibn Yahya of Zaragoza
-		liege = d_aragon
-		government = clan_government
-	}
-	788.6.10 = {
-		holder = 73810 # Walih Musa ibn Furtun of Zaragoza
-	}
-	789.1.1 = {
-		holder = 200051 # Walih Matruh ibn Sulayman of Barcelona
-	}
-	792.1.1 = {
-		holder = levantine0005 # Walih Abd al-Malik ibn Abd l-Wahhad of Zaragoza
-	}
-	798.1.1 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-852: Unknown Walih
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = yemeni0030 # Abd al-Aziz al-Tuyyib
-		liege = k_andalusia
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_fraga = {
-	7671.1.1 = {
-		holder = 200046 # Walih Husayn ibn Yahya of Zaragoza
-		liege = d_aragon
-		government = clan_government
-	}
-	788.6.10 = {
-		holder = 73810 # Walih Musa ibn Furtun of Zaragoza
-	}
-	789.1.1 = {
-		holder = 200051 # Walih Matruh ibn Sulayman of Barcelona
-	}
-	792.1.1 = {
-		holder = levantine0005 # Walih Abd al-Malik ibn Abd l-Wahhad of Zaragoza
-	}
-	798.1.1 = {
-		holder = basque0127 # Walih Bahlul ibn Marzuq of Zaragoza
-	}
-	802.12.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-852: Unknown Walih
-	848.1.1 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
-	}
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-	}
 	860.1.1 = {
-		holder = levantine0008 # Walih Muhammad ibn Wuhayd of Zaragoza
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 c_alcaniz = {
-	852.10.14 = {
-		holder = 73812 # Sultan Musa ibn Musa of Valencia
-		liege = d_aragon
-	}
 	860.1.1 = {
-		holder = levantine0008 # Walih Muhammad ibn Wuhayd of Zaragoza
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-b_caspe = {
-}
+#b_caspe = {
+#}

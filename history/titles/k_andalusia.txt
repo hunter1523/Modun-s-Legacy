@@ -1,24 +1,14 @@
+e_spain = {
+	860.1.1 = {
+		holder = roman_emperor_01
+	}
+}
+
 k_andalusia = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 11 }
 	1187.1.1 = { change_development_level = 20 }
 	1337.1.1 = { change_development_level = 45 }
-
-	756.3.16 = {
-		holder = 73679 # Abd al-Rahman I Umayyad
-	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
-	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
-	}
 }
 
 
@@ -46,59 +36,33 @@ c_cordoba = {
 		change_development_level = 22
 	}
 
-	711.1.1 = {
-		holder = levantine0041 # Mughit
-		liege = k_arabia
-		government = clan_government
-	}
-	756.3.16 = {
-		holder = 73679 # Sultan Abd al-Rahman I of Andalusia
-		liege = k_andalusia
-	}
-	788.9.29 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-	}
-	796.6.12 = {
-		holder = 73681 # Sultan al-Hakam I of Andalusia
-	}
-	822.5.21 = {
-		holder = 73682 # Sultan Abd al-Rahman II of Andalusia
-	}
-	852.9.22 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_calatrava = {
-	867.1.1 = {
-		holder = levantine0041 # Abd al-Rahman ibn Muhammad
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_almader = {
-	867.1.1 = {
-		holder = 73685 # Sultan Abdallah ibn Muhammad of Andalusia
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_andujar = {
-	756.1.1 = {
-		holder = bedouin0183 # al-Hussayn ibn Attaf
-		liege = k_andalusia
-		government = clan_government
-	}
-	785.1.1 = {
-		holder = bedouin0184 # Attaf ibn al-Hussayn
-	}
-	845.1.1 = {
-		holder = bedouin0185 # Ibrahim ibn Attaf
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -113,68 +77,33 @@ c_granada = {
 	867.1.1 = { change_development_level = 12 }
 	1066.1.1 = { change_development_level = 17 }
  
-	848.1.1 = {
-		holder = 73943 # Nayih ibn Suleyman
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_almeria = {
-	695.1.1 = {
-		holder = 73901 # Duke Conde Teodomiro of Murcia
-		liege = d_murcia
-		government = clan_government
-	}
-	743.1.1 = {
-		holder = 200064 # Duke Atanagildo of Murcia
-	}
-	756.3.16 = {
-		holder = 73679 # Sultan Abd al-Rahman I of Andalusia
-		liege = k_andalusia
-	}
-	788.9.29 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-	}
-	796.6.12 = {
-		holder = 73681 # Sultan al-Hakam I of Andalusia
-	}
-	822.5.21 = {
-		holder = 73682 # Sultan Abd al-Rahman II of Andalusia
-	}
-	852.9.22 = {
-		holder = levantine0039 # Mu'awiya ibn al-Qitt (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_cabra = {
-	756.3.16 = {
-		holder = 73679 # Sultan Abd al-Rahman I of Andalusia
-		liege = k_andalusia
-		government = clan_government
-	}
-	788.9.29 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-	}
-	796.6.12 = {
-		holder = 73681 # Sultan al-Hakam I of Andalusia
-	}
-	822.5.21 = {
-		holder = 73682 # Sultan Abd al-Rahman II of Andalusia
-	}
-	852.9.22 = {
-		holder = 73683 # Sultan Muhammad I of Andalusia
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_malaga = {
-	845.1.1 = {
-		holder = 73802 # Ya'far Hafsunid (placeholder)
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -183,12 +112,9 @@ d_sevilla = {
 	867.1.1 = { change_development_level = 11 }
 	1066.1.1 = { change_development_level = 15 }
  
-	774.1.1 = {
-		holder = levantine0010 # Abd al-Malik ibn Umar
-		liege = k_andalusia
-	}
-	777.12.31 = {
-		holder = 0
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -197,70 +123,43 @@ c_sevilla = {
 	867.1.1 = { change_development_level = 14 }
 	1066.1.1 = { change_development_level = 18 }
  
-	774.1.1 = {
-		holder = levantine0010 # Walih Abd al-Malik ibn Umar of Sevilla
-		liege = d_sevilla
-		government = clan_government
-	}
-	777.12.31 = {
-		liege = k_andalusia
-	}
 	860.1.1 = {
-		holder = 73952 # Ahmad ibn Zuhr
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
-b_carmona = {
-}
+#b_carmona = {
+#}
 
 c_cadiz = {
-	850.1.1 = {
-		holder = 73941 # Attab ibn Nasr
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_algeciras = {
-	867.1.1 = {
-		holder = levantine0042 # Hisham ibn Muhammad (placeholder)
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_niebla = {
-	853.1.1 = {
-		holder = levantine0036 # al-Mundir ibn Abd al-Rahman (placeholder)
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_moura = {
-	777.12.31 = {
-		holder = levantine0011 # Abdallah ibn Abd al-Malik
-		liege = k_andalusia
-		government = clan_government
-	}
-	780.1.1 = {
-		holder = 73679 # Sultan Abd al-Rahman I of Andalusia
-		liege = k_andalusia
-	}
-	788.9.29 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-	}
-	796.6.12 = {
-		holder = 73681 # Sultan al-Hakam I of Andalusia
-	}
-	822.5.21 = {
-		holder = 73682 # Sultan Abd al-Rahman II of Andalusia
-	}
-	852.9.22 = {
-		holder = levantine0034 # Abdallah ibn Abd al-Rahman (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -268,37 +167,6 @@ c_moura = {
 d_toledo = {
 	867.1.1 = { change_development_level = 10 }
 	1066.1.1 = { change_development_level = 14 }
- 
-	767.1.1 = {
-		holder = 200020 # Suleyman ibn Abd al-Rahman
-		liege = k_andalusia
-		government = clan_government
-	}
-	789.1.1 = {
-		holder = 0 # Unknown Walih
-	}
-	797.1.1 = {
-		holder = levantine0006 # Abd al-Karim ibn Abd al-Wahhad
-	}
-	797.7.1 = {
-		holder = 0 # Unknown Walih
-	}
-	799.1.1 = {
-		holder = 73799 # Amrus ibn Yusuf
-	}
-	814.1.1 = {
-		holder = 0 # Unknown Walihs
-	}
-	853.1.1 = {
-		# They're actually in open revolt against Andalusia this whole time, and you could argue they're independent, but the conflicts are bubbling over in 867 and we give them a fighting chance by teaming 'em up with embattled d_porto.
-		liege = k_andalusia
-	}
-	859.4.1 = {
-		holder = 73813 # Lubb ibn Musa
-	}
-	862.9.26 = {
-		holder = 73931 # Yusuf Qutamid (placeholder)
-	}
 }
 
 
@@ -306,113 +174,48 @@ c_toledo = {
 	867.1.1 = { change_development_level = 13 }
 	1066.1.1 = { change_development_level = 17 }
  
-	767.1.1 = {
-		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
-		liege = d_toledo
-		government = clan_government
-	}
-	#789-797: Unknown Walih of Toledo
-	797.1.1 = {
-		holder = levantine0006 # Waliha Abd al-Karim ibn Abd al-Wahhad of Toledo
-	}
-	#797.7.1-799: Unknown Walih of Toledo
-	799.1.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-859.4.1: Unknown Walihs of Toledo
-	859.4.1 = {
-		holder = 73813 # Walih Lubb ibn Musa of Toledo
-	}
-	862.9.26 = {
-		holder = 73931 # Yusuf Qutamid (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_madrid = {
-	767.1.1 = {
-		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
-		liege = d_toledo
-		government = clan_government
-	}
-	#789-797: Unknown Walih of Toledo
-	797.1.1 = {
-		holder = levantine0006 # Waliha Abd al-Karim ibn Abd al-Wahhad of Toledo
-	}
-	#797.7.1-799: Unknown Walih of Toledo
-	799.1.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-859.4.1: Unknown Walihs of Toledo
-	859.4.1 = {
-		holder = 73813 # Walih Lubb ibn Musa of Toledo
-	}
-	862.9.26 = {
-		holder = 73931 # Yusuf Qutamid (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_molina = {
-	767.1.1 = {
-		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
-		liege = d_toledo
-		government = clan_government
-	}
-	#789-797: Unknown Walih of Toledo
-	797.1.1 = {
-		holder = levantine0006 # Walih Abd al-Karim ibn Abd al-Wahhad of Toledo
-	}
-	#797.7.1-799: Unknown Walih of Toledo
-	799.1.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	#814-859.4.1: Unknown Walihs of Toledo
-	859.4.1 = {
-		holder = 73813 # Walih Lubb ibn Musa of Toledo
-	}
-	862.9.26 = {
-		holder = 73931 # Yusuf Qutamid (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_cuenca = {
-	767.1.1 = {
-		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
-		liege = d_toledo
-		government = clan_government
-	}
-	#789-797: Unknown Walih of Toledo
-	792.1.1 = {
-		holder = 73799 # Walih Amrus ibn Yusuf of Toledo
-	}
-	802.1.1 = {
-		holder = 73800 # Yusuf ibn Amrus
-	}
-	#832-859.4.1: Unknown Walihs of Toledo
-	859.4.1 = {
-		holder = 73813 # Walih Lubb ibn Musa of Toledo
-	}
-	862.9.26 = {
-		holder = 73931 # Yusuf Qutamid (placeholder)
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_malagon = {
-	865.1.1 = {
-		holder = 73684 # Sultan al-Mundir ibn Muhammad of Andalusia (placeholder in 867)
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_mora = {
-	867.1.1 = {
-		holder = baranis0063 # Suleyman ibn Dhu-l-Nun
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }

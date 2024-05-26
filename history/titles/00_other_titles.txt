@@ -2,6 +2,7 @@
 	30.1.1 = {
 		holder = 145292
 		government = theocracy_government
+		liege = e_spain
 	} # Peter's first visit to Rome
 
 	64.10.13 = {

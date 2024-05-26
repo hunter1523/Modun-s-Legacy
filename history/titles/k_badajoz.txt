@@ -5,199 +5,119 @@
 	1337.1.1 = { change_development_level = 60 }
 }
 
-d_beja = {
-	840.1.1 = {
-		holder = danis0005 # Adanis ibn Awsaga, leader of the Banu Danis
-		liege = k_andalusia
-	}
-}
+#d_beja = {
+#}
 
 
 c_lisboa = {
 	867.1.1 = {	change_development_level = 9 }
 	1066.1.1 = { change_development_level = 12 }
-
-	840.1.1 = {
-		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
-		liege = d_beja
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-b_santarem = {
-}
+#b_santarem = {
+#}
 
 
-b_setubal = {
-}
+#b_setubal = {
+#}
 
 
 c_beja = {
-	852.1.1 = {
-		holder = levantine0078 # Sheik Ibrahim ibn Jalid of Elvas
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-b_beja = {
-}
+#b_beja = {
+#}
 
 
 c_alcacer_do_sal = {
-	840.1.1 = {
-		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
-		liege = d_beja
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_elvas = {
-	852.1.1 = {
-		holder = levantine0078 # Ibrahim ibn Jalid
-		liege = k_andalusia
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-d_badajoz = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = k_andalusia
-		government = clan_government
-	}
-	788.9.29 = {
-		holder = 0
-	}
-	820.1.1 = {
-		holder = 73956 # Marwan ibn Yunus al-Yiliqi
-	}
-	827.1.1 = {
-		holder = 0
-	}
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
-	}
-}
+#d_badajoz = {
+#}
 
 
 c_badajoz = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = d_badajoz
-		government = clan_government
-	}
-	#788.9.29-820: Unknown Walihs of Badajoz
-	820.1.1 = {
-		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
-	}
-	#827-867: Unknown Walihs of badajoz
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_plasencia = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = d_badajoz
-		government = clan_government
-	}
-	#788.9.29-820: Unknown Walihs of Badajoz
-	820.1.1 = {
-		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
-	}
-	#827-867: Unknown Walihs of badajoz
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_caceres = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = d_badajoz
-		government = clan_government
-	}
-	#788.9.29-820: Unknown Walihs of Badajoz
-	820.1.1 = {
-		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
-	}
-	#827-867: Unknown Walihs of badajoz
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_merida = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = d_badajoz
-		government = clan_government
-	}
-	#788.9.29-817: Unknown Walihs of Badajoz
-	817.1.1 = {
-		holder = 73955 # Yunus al-Yiliqi
-	}
-	820.1.1 = {
-		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
-	}
-	#827-867: Unknown Walihs of badajoz
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_medellin = {
-	778.1.1 = {
-		holder = 73680 # Sultan Hisham I of Andalusia
-		liege = d_badajoz
-		government = clan_government
-	}
-	#788.9.29-820: Unknown Walihs of Badajoz
-	820.1.1 = {
-		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
-	}
-	#827-867: Unknown Walihs of badajoz
-	867.1.1 = {
-		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-d_algarve = {
-	827.1.1 = {
-		holder = khali0003 # Bakr ibn Khali
-		liege = k_andalusia
-	}
-}
+#d_algarve = {
+#}
 
 
 c_faro = {
-	827.1.1 = {
-		holder = khali0003 # Walih Bakr ibn Khali of Algarve
-		liege = d_algarve
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
 c_silves = {
-	827.1.1 = {
-		holder = khali0003 # Walih Bakr ibn Khali of Algarve
-		liege = d_algarve
-		government = clan_government
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
 
-b_lagos = {
-}
+#b_lagos = {
+#}
