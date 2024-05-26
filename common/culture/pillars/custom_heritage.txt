@@ -1,0 +1,13 @@
+heritage_britannian = {
+	type = heritage
+	parameters = {
+		heritage_group_latin = yes
+		heritage_family_european = yes
+	}
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_britannian
+		}
+	}
+	audio_parameter = european
+}
