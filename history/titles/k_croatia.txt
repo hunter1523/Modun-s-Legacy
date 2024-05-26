@@ -4,62 +4,37 @@ k_croatia = {
 	1066.1.1 = { change_development_level = 8 }
 	1187.1.1 = { change_development_level = 25 }
 	1337.1.1 = { change_development_level = 50 }
-}
-k_bosnia = {
-}
 
-d_dalmatia = {
-	867.1.1 = { change_development_level = 8 }
-	1066.1.1 = { change_development_level = 11 }
-	536.7.1 = {
-		liege = "e_byzantium"
-	}
-	750.1.1 = {
-		liege = 0	#Technically the ERE, but they were ludicrously unsupported, and this allows them to be slowly eaten by their neighbours.
-		holder = 145849
-	}
-	856.1.1 = {
-		holder = 145120
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
+#k_bosnia = {
+#}
+
+#d_dalmatia = {
+#	867.1.1 = { change_development_level = 8 }
+#	1066.1.1 = { change_development_level = 11 }
+#}
 
 
 c_zadar = {
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		holder = 145120
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_knin = {
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		#holder = 145120
-		holder = 167855
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_cetina = {
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	760.1.1 = {
-		holder = 145850
-	}
-	857.1.1 = {
-		holder = 145199
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
@@ -67,62 +42,26 @@ c_cetina = {
 c_pagania = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 11 }
-	867.1.1 = {
-		liege = 0
-		holder = 303448	#Fictional Gjin
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
-d_croatia = {
-	745.1.1 = {
-		holder = 146005
-	}
-	780.1.1 = {
-		holder = 146004
-	}
-	802.1.1 = {
-		holder = 146003
-	}
-	821.1.1 = {
-		holder = 146001
-	}
-	835.1.1 = {
-		holder = 146000
-	}
-	845.1.1 = {
-		holder = 8600
-	}
-	864.1.1 = {
-		holder = 167855
-	}
-}
+#d_croatia = {
+#}
 
 
 c_gacka = {
-	536.7.1 = {
-		liege = "d_croatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		#holder = 145120
-		holder = 167856
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_lika = {
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		#holder = 145120
-		holder = 167855
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
@@ -130,359 +69,133 @@ c_lika = {
 c_cherso = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 11 }
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		holder = 145120
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_pset = {
-	757.1.1 = {
-		liege = "d_croatia"
-		holder = 146008
-	}
-	792.1.1 = {
-		holder = 146007
-	}
-	818.1.1 = {
-		holder = 146006
-	}
-	845.1.1 = {
-		holder = 167855
-	}
-	864.1.1 = {
-		holder = 167857
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_modrus = {
-	536.7.1 = {
-		liege = "d_croatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		#holder = 145120
-		holder = 167856
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
-d_slavonia = {
-	760.1.1 = {
-		holder = 168292
-	}
-	790.1.1 = {
-		holder = 168293
-	}
-	796.1.1 = {
-		holder = 168294
-	}
-	810.1.1 = {
-		holder = 168295
-	}
-	823.1.1 = {
-		holder = 168296
-	}
-	829.1.1 = {
-		holder = 168298
-	}
-	838.1.1 = {
-		holder = 168299
-	}
-}
+#d_slavonia = {
+#}
 
 
 c_zagreb = {
-	760.1.1 = {
-		liege = "d_slavonia"
-	holder = 168292
-	}
-	790.1.1 = {
-		holder = 168293
-	}
-	796.1.1 = {
-		holder = 168294
-	}
-	810.1.1 = {
-		holder = 168295
-	}
-	823.1.1 = {
-		holder = 168296
-	}
-	829.1.1 = {
-		holder = 168298
-	}
-	838.1.1 = {
-		holder = 168299
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_zagorje = {
-	760.1.1 = {
-		liege = "d_slavonia"
-	holder = 168292
-	}
-	768.1.1 = {
-		holder = 168294
-	}
-	796.1.1 = {
-		holder = 168295
-	}
-	810.1.1 = {
-		holder = 168297
-	}
-	825.1.1 = {
-		holder = 168298
-	}
-	838.1.1 = {
-		holder = 168299
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_pozega = {
-	760.1.1 = {
-		liege = "d_slavonia"
-		holder = 168292
-	}
-	766.1.1 = {
-		holder = 168293
-	}
-	796.1.1 = {
-		holder = 168296
-	}
-	829.1.1 = {
-		holder = 168299
-	}
-	864.1.1 = {
-		holder = 8601
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 c_vukovar = {
-	760.1.1 = {
-		liege = "d_slavonia"
-		holder = 168292
-	}
-
-	766.1.1 = {
-		holder = 168293
-	}
-
-	796.1.1 = {
-		holder = 168296
-	}
-
-	829.1.1 = {
-		holder = 168299
-	}
-
-	864.1.1 = {
-		holder = 8601
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
-d_lower_bosna = {
-}
+#d_lower_bosna = {
+#}
 
 c_vodica = { #krajina
-	760.1.1 = {
-		liege = "d_slavonia"
-	holder = 168292
-	}
-	790.1.1 = {
-		holder = 168293
-	}
-	796.1.1 = {
-		holder = 168294
-	}
-	810.1.1 = {
-		holder = 168295
-	}
-	823.1.1 = {
-		holder = 168296
-	}
-	829.1.1 = {
-		holder = 168298
-	}
-	838.1.1 = {
-		holder = 168299
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_vrbas = {
-	760.1.1 = {
-		liege = "d_slavonia"
-		holder = 168292
-	}
-	766.1.1 = {
-		holder = 168293
-	}
-	796.1.1 = {
-		holder = 168296
-	}
-	829.1.1 = {
-		holder = 168299
-	}
-	864.1.1 = {
-		holder = 8601
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
-d_bosna = {
-}
+#d_bosna = {
+#}
 
 
 c_rama = {
-	539.1.1 = {
-		liege = "d_rashka"
-	}
-	757.1.1 = {
-		holder = 146010
-	}
-	786.1.1 = {
-		holder = 146009
-	}
-	813.1.1 = {
-		holder = 167865
-	}
-	841.1.1 = {
-		holder = 167866
-	}
-	848.1.1 = {
-		holder = 167867
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_zavrsje = {
-	536.7.1 = {
-		liege = "d_dalmatia"
-	}
-	750.1.1 = {
-		holder = 145849
-	}
-	856.1.1 = {
-		#holder = 145120
-		holder = 167855
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_donjikraji = {
-	757.1.1 = {
-		liege = "d_croatia"
-		holder = 146008
-	}
-	792.1.1 = {
-		holder = 146007
-	}
-	818.1.1 = {
-		holder = 146006
-	}
-	845.1.1 = {
-		holder = 167855
-	}
-	864.1.1 = {
-		holder = 167857
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_vhrbosna = {
-	539.1.1 = {
-		liege = "d_rashka"
-	}
-	757.1.1 = {
-		holder = 146010
-	}
-	786.1.1 = {
-		holder = 146009
-	}
-	813.1.1 = {
-		holder = 167865
-	}
-	841.1.1 = {
-		holder = 167866
-	}
-	848.1.1 = {
-		holder = 167867
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_zachlumia = {
-	867.1.1 = {
-		liege = 0
-		holder = 303447	#Fictional Pavel
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 c_zelengora = {
-	867.1.1 = {
-		liege = 0
-		holder = 303447	#Fictional Pavel
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
-d_usora = {
-}
+#d_usora = {
+#}
 
 
 c_usora = {
-	539.1.1 = {
-		liege = "d_rashka"
-	}
-	757.1.1 = {
-		holder = 146010
-	}
-	786.1.1 = {
-		holder = 146009
-	}
-	813.1.1 = {
-		holder = 167865
-	}
-	841.1.1 = {
-		holder = 167866
-	}
-	848.1.1 = {
-		holder = 167867
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_soli = {
-	539.1.1 = {
-		liege = "d_rashka"
-	}
-	757.1.1 = {
-		holder = 146010
-	}
-	786.1.1 = {
-		holder = 146009
-	}
-	813.1.1 = {
-		holder = 167865
-	}
-	841.1.1 = {
-		holder = 167866
-	}
-	848.1.1 = {
-		holder = 167867
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
@@ -494,8 +207,7 @@ d_ragusa = {
 
 
 c_ragusa = {
-	867.1.1 = {
-		liege = d_dalmatia
-		holder = 145199#303447	#Fictional Pavel
+	850.1.1 = {
+		holder = quadi_01
 	}
 }

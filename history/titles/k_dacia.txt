@@ -6,42 +6,20 @@ k_dacia = {
 }
 
 c_campulung = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		#holder = 168067 #Gavril
-		holder = vlach_000004 #Given to a fictious local Vlach for governmental neatness.
-		liege = d_muntenia
+	850.1.1 = {
+		holder = gothic_03
 	}
 }
 
 c_polovragi = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		holder = 302082		#fictional Vlad
+	850.1.1 = {
+		holder = gothic_02
 	}
 }
 
 c_tabla_butii = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		#holder = 168067 #Gavril
-		holder = vlach_000008 #Given to a fictious local Vlach for governmental neatness.
-		liege = d_muntenia
+	850.1.1 = {
+		holder = gothic_04
 	}
 }
 
@@ -93,54 +71,26 @@ c_calarasi = {
 }
 
 c_buzau = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		#holder = 168067 #Gavril
-		holder = vlach_000006 #Given to a fictious local Vlach for governmental neatness.
-		liege = d_muntenia
+	850.1.1 = {
+		holder = gothic_04
 	}
 }
 
 c_braila = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		#holder = 168067 #Gavril
-		holder = vlach_000009 #Given to a fictious local Vlach for governmental neatness.
-		liege = d_muntenia
+	850.1.1 = {
+		holder = gothic_05
 	}
 }
 
 c_targu_jiu = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		holder = 302082		#fictional Vlad
+	850.1.1 = {
+		holder = gothic_01
 	}
 }
 
 c_severin = {
-	###Part of 1st Bulgarian Empire
-	852.1.1 = {
-		holder = 70382 #Boris
-		liege = k_bulgaria
-		government = tribal_government
-	}
-	860.1.1 = {
-		holder = 168286
+	850.1.1 = {
+		holder = gothic_01
 	}
 }
 

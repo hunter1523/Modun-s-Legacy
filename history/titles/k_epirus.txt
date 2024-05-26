@@ -136,47 +136,15 @@ c_dyrrachion = {
 
 
 c_arbanon = {
-	330.1.1 = {
-		liege = "d_dyrrachion"
-	}
-	759.1.1 = {
-		holder = 145817
-	}
-	843.1.1 = {
-		liege = "k_thessalonika"
-	}
-	865.1.1 = {
-		holder = 145124
+	850.1.1 = {
+		holder = albanian_03
 	}
 }
 
 
 c_debar = {
-	330.1.1 = {
-		liege = "d_dyrrachion"
-	}
-	640.1.1 = {
-		liege = "d_rashka"
-	}
-	748.1.1 = {
-		holder = 146011
-	}
-	787.1.1 = {
-		holder = 146012
-	}
-	806.1.1 = {
-		holder = 146013
-	}
-	# since 843.1.1 d_dyrrachion is under k_bulgaria
-	843.1.1 = {
-		liege = "d_dyrrachion"
-	}
-	852.1.1 = {
-		holder = 70382 #Boris
-	}
-	860.1.1 = {
-		holder = 70383
-		liege = "d_vidin"
+	850.1.1 = {
+		holder = albanian_04
 	}
 }
 

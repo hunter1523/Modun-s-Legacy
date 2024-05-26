@@ -1,0 +1,44 @@
+﻿albanian_01 = { #Montenegro
+	name = "Gulielm"
+	religion = "catholic"
+	culture = "arberian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+albanian_02 = { #Qytemalor
+	name = "AleksandE_r"
+	religion = "catholic"
+	culture = "arberian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+albanian_03 = { #Arbarbona
+	name = "Kostandin"
+	religion = "catholic"
+	culture = "arberian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+albanian_04 = { #Diborba
+	name = "Teodor"
+	religion = "catholic"
+	culture = "arberian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}

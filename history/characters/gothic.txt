@@ -1,0 +1,132 @@
+﻿thervingi_01 = {
+	name = "Odoacer"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+ardacian_01 = {
+	name = "Ardaric"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_01 = { #Severik
+	name = "Amalaric"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_02 = { #Skurland
+	name = "Gundemar"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_03 = { #Wermstein
+	name = "Alaric"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_04 = { #Mathljan
+	name = "Wilfred"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_05 = { #Savasbaurg
+	name = "Adalbert"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_06 = { #Hulthfaur
+	name = "Berengar"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_07 = { #Fillbaurg
+	name = "Theodorich"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_08 = { #Galati
+	name = "Bernhard"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_09 = { #Hauhster
+	name = "Liutpold"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+gothic_10 = { #Sciria
+	name = "Heinrich"
+	religion = "catholic"
+	culture = "crimean_gothic"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}

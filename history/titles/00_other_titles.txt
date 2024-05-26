@@ -4882,6 +4882,7 @@ k_pisa = {
 
 k_magyar = {
 	20.1.1 = {
+		liege = e_caspian-pontic_steppe
 		government = tribal_government
 	}
 	764.1.1 = {

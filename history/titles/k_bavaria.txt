@@ -1155,135 +1155,40 @@ c_burgau = {
 }
 
 
-d_steyermark = {
-}
+#d_steyermark = {
+#}
 
 
 c_graz = {
-	769.1.1 = {
-		holder = 260390
-		liege = "d_carinthia"
-	}
-	788.1.1 = {
-		liege = "k_bavaria"
-		holder = 6392 #Charlemagne
-	}
-	814.1.28 = {
-		holder = 30227 #Lothair I
-	}
-	817.1.1 = {
-		holder = 90095 #Louis I the Pious
-	}
-	829.1.1 = {
-		holder = 90107 #Louis II the German
-	}
-	840.1.1 = {
-		holder = 167795 #Wilhelm I
-	}
-	853.1.18 = {
-		holder = 167798 #Engelschalk I
-		liege = "d_bavaria"
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_pitten = {
-	769.1.1 = {
-		holder = 260392
-		liege = "d_carinthia"
-	}
-	788.1.1 = {
-		liege = "k_bavaria"
-		holder = 6392 #Charlemagne
-	}
-	814.1.28 = {
-		holder = 30227 #Lothair I
-	}
-	817.1.1 = {
-		holder = 90095 #Louis I the Pious
-	}
-	829.1.1 = {
-		holder = 90107 #Louis II the German
-	}
-	840.1.1 = {
-		holder = 167795 #Wilhelm I
-	}
-	853.1.18 = {
-		holder = 167798 #Engelschalk I
-		liege = "d_bavaria"
+	850.1.1 = {
+		holder = gothic_10
 	}
 }
 
 
 c_liebnitz = {
-	740.1.1 = {
-		holder = 260388
-		liege = 0
-	}
-	750.1.1 = {
-		holder = 260387
-	}
-	751.1.1 = {
-		holder = 260389
-	}
-	769.1.1 = {
-		holder = 260385 # Prince Valhun of Carantania
-	}
-	788.1.1 = {
-		liege = "k_bavaria"
-		holder = 6392 #Charlemagne
-	}
-	814.1.28 = {
-		holder = 30227 #Lothair I
-	}
-	817.1.1 = {
-		holder = 90095 #Louis I the Pious
-	}
-	829.1.1 = {
-		holder = 90107 #Louis II the German
-	}
-	840.1.1 = {
-		holder = 167795 #Wilhelm I
-	}
-	853.1.18 = {
-		holder = 167798 #Engelschalk I
-		liege = "d_bavaria"
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_murzzuschlag = {
-	769.1.1 = {
-		liege = d_carinthia
-	}
-	769.1.1 = {
-		holder = 260391 #Huosi
-	}
-	788.1.1 = {
-		liege = "k_bavaria"
-		holder = 6392 #Charlemagne
-	}
-	814.1.28 = {
-		holder = 30227 #Lothair I
-	}
-	817.1.1 = {
-		holder = 90095 #Louis I the Pious
-	}
-	829.1.1 = {
-		holder = 90107 #Louis II the German
-	}
-	840.1.1 = {
-		holder = 167795 #Wilhelm I
-	}
-	853.1.18 = {
-		holder = 167798 #Engelschalk I
-		liege = "d_bavaria"
+	850.1.1 = {
+		holder = gothic_10
 	}
 }
 
 
-d_osterreich = {
-}
+#d_osterreich = {
+#}
 
 
 c_vienna = {
@@ -1684,62 +1589,20 @@ c_villach = {
 }
 
 
-d_krain = {
-}
+#d_krain = {
+#}
 
 
 c_kranj = {
-	740.1.1 = {
-		holder = 260388
-		liege = 0
-	}
-	750.1.1 = {
-		holder = 260387
-	}
-	751.1.1 = {
-		holder = 260389
-	}
-	769.1.1 = {
-		holder = 260385 # Prince Valhun of Carantania
-	}
-	790.1.1 = {
-		holder = 260386
-	}
-
-	#Should be in east Francia from 840 onward
-	856.1.1 = {
-		liege = d_carinthia
-	}
-	#863.1.1 = {
-	#	holder = 168302
-	#}
-
-	#Fictional Carantanian character, to have the culture playable
-	865.1.1 = {
-		holder = carantanian0001	#Fictional Hoten Krajnc
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 
 
 c_ljubljana = {
-	764.1.1 = {
-		liege = d_carinthia
-	}
-	764.1.1 = {
-		holder = 190568 #Grgur
-	}
-
-	#Should be in east Francia from 840 onward
-	856.1.1 = {
-		liege = d_carinthia
-	}
-	#863.1.1 = {
-	#	holder = 168302
-	#}
-
-	#Fictional Carantanian character, to have the culture playable
-	865.1.1 = {
-		holder = carantanian0001	#Fictional Hoten Krajnc
+	850.1.1 = {
+		holder = quadi_01
 	}
 }
 

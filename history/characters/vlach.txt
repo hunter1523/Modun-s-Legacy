@@ -1,0 +1,11 @@
+﻿vlach_01 = { #Wallachia
+	name = "Gheorghe"
+	religion = "catholic"
+	culture = "vlach"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
