@@ -3,7 +3,7 @@
 ###c_cardiganshire / Ceredigion
 1657 = {	#Cardigan / Aberteifi
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1658 = {	#Aberswyth
@@ -17,7 +17,7 @@
 ###c_merioneth / Merionnydd
 1665 = {	#Dolgellau / Harlech
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1666 = {	#Corwen
@@ -28,7 +28,7 @@
 ###c_caernarfonshire / Eryri
 1667 = {	#Caernarfon
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1668 = {	#Llyn
@@ -42,7 +42,7 @@
 ###c_anglesey / Ynys Mon
 1673 = {	#Yns Mons
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1674 = {	#Holyhead / Caer Gybi
@@ -53,7 +53,7 @@
 ###c_denbighshire / Perfeddwlad
 1670 = {	#Denbigh / Dinbych
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1671 = {	#Wrexham / Tegeingl
@@ -69,7 +69,7 @@
 1663 = {	# brythonicpool / Mathrafal
 	#Technically a different town:  brythonicpool is Y Trallwng, whereas b_ brythonicpool is currently Mathrafal, historic seat of the Princes of Powys.
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1664 = {	#Newtown / Machynlleth
@@ -80,7 +80,7 @@
 ###c_sir_faesyfed
 1661 = {	#Llandrindod
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1662 = {	#Rhayader / Rhaeadr Gwy
@@ -96,7 +96,7 @@
 ###c_hereford / Ergyng
 1632 = {	#Hereford
 	culture = brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 	767.1.1 = {
 		special_building = offas_dyke_01
@@ -123,7 +123,7 @@
 ###c_carmarthenshire / Sir Gaerfyrddin
 1652 = {	#Carmarthen / Caerfyrddin
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1653 = {	#Llandovery / Llanymddyfri
@@ -137,7 +137,7 @@
 ###c_pembrokeshire / Dyfed
 1654 = {	#Pembroke / Penfro
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1655 = {	#Saint Davids / Tyddewi
@@ -154,7 +154,7 @@
 ###c_glamorgan / Morgannwg
 1649 = {	#Cardiff
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1650 = {	#Swansea / Abertawe
@@ -173,7 +173,7 @@
 ###c_monmouthshire / Gwent
 1630 = {	#Newport / Caerllion / b_casnewydd
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 	1100.11.11 = {
 		culture = english
@@ -186,7 +186,7 @@
 ###c_brecknockshire / Brycheiniog
 1659 = {	#Brecon / Aberhonddu
 	culture =  brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1660 = {	#Talgerth

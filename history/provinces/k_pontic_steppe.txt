@@ -175,7 +175,7 @@
 
 ###c_oleshye
 558 = {		#Oleshye
-	culture = khazar
+	culture = crimean_gothic
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -349,7 +349,7 @@
 ##d_crimea ###################################
 ###c_kerch
 562 = {		#Kerch
-	culture = crimean_gothic
+	culture = greek
 	religion = orthodox
 	holding = castle_holding
 	867.1.1 = {
@@ -376,7 +376,7 @@
 
 ###c_kalos_limen
 559 = {		#Kalos Limen	AKA Chornomorske
-	culture = khazar
+	culture = crimean_gothic
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -403,7 +403,7 @@
 
 ###c_perekop
 5277 = {	#Perekop
-	culture = khazar
+	culture = crimean_gothic
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
