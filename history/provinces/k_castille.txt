@@ -32,7 +32,7 @@
 1897 = {	# VALLADOLID
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -55,7 +55,7 @@
 1901 = {	# SORIA
 	#Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -80,7 +80,7 @@
 1924 = {	# SEGOVIA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -102,7 +102,7 @@
 1915 = {	# OLMEDO
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 

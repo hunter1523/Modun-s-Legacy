@@ -72,7 +72,7 @@
 1913 = {	# BEJAR
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -91,7 +91,7 @@
 1912 = {	# AVILA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	

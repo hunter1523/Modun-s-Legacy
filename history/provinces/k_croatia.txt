@@ -366,7 +366,7 @@
 3513 = {	#Srebrenik
 	culture = croatian
 	culture = serbian
-	religion = slavic_pagan
+	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -404,7 +404,7 @@
 3510 = {	#Soli
 	culture = croatian
 	culture = serbian
-	religion = slavic_pagan
+	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -435,7 +435,7 @@
 	#culture = bosnian
 	#religion = bosnian_church
 	culture = serbian
-	religion = slavic_pagan
+	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -467,7 +467,7 @@
 ###c_zelengora
 3560 = {	#Gacko
 	culture = serbian
-	religion = slavic_pagan
+	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -510,7 +510,7 @@
 ###c_pagania
 3555 = {	#Mokro
 	culture = croatian
-	religion = slavic_pagan
+	religion = catholic
 	holding = castle_holding
 	950.1.1 = {
 		#Slower spread out to the culture from the Dinaric Alps.
@@ -532,7 +532,7 @@
 ###c_ragusa #Dubrovnik
 468 = {		#Ragusa
 	culture = dalmatian #serbian
-	religion = orthodox#catholic #slavic_pagan
+	religion = orthodox#catholic #catholic
 	holding = castle_holding
 	870.1.1 = {
 		#religion = orthodox

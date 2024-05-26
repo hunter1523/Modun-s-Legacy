@@ -129,7 +129,7 @@
 1881 = {	# LLEIDA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -152,7 +152,7 @@
 1860 = {	# TARRAGONA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -174,7 +174,7 @@
 1887 = {	# ZARAGOZA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	special_building_slot = aljaferia_palace_01
@@ -204,7 +204,7 @@
 1936 = {	# ALBARRACIN
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -292,7 +292,7 @@
 1932 = {	# CALATYUD
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -307,7 +307,7 @@
 8795 = {	# MONZON/Monzón
 	#Misc
 	culture = basque
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	
@@ -322,7 +322,7 @@
 1892 = {	# ALCANIZ
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 	
 	holding = castle_holding
 	

@@ -2,7 +2,7 @@
 1837 = {	# MOURA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -78,7 +78,7 @@
 1846 = {	# MALAGA
 	#Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -108,7 +108,7 @@
 1919 = {	# TOLEDO
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -146,7 +146,7 @@
 1923 = {	# MADRID
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -169,7 +169,7 @@
 1935 = {	# MOLINA
 	#Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -192,7 +192,7 @@
 1947 = {	# 1947 - CUENCA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -218,7 +218,7 @@
 1952 = {	# UCLES
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -244,7 +244,7 @@
 1960 = {	# MALAGON
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -270,7 +270,7 @@
 1963 = {	# CALATRAVA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -296,7 +296,7 @@
 1849 = {	# ALMERIA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -329,7 +329,7 @@
 1978 = {	# GRANADA
 	#Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -442,7 +442,7 @@
 1986 = {	# ANDUJAR
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = none
 }
@@ -454,7 +454,7 @@
 1987 = {	# ALARCOS
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -474,7 +474,7 @@
 1991 = {	# NIEBLA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -500,7 +500,7 @@
 1995 = {	# CORDOBA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
