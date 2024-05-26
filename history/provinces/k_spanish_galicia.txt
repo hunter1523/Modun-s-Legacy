@@ -129,7 +129,7 @@
 1760 = {	# PORTO
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -152,7 +152,7 @@
 1763 = {	# BRAGANCA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -179,7 +179,7 @@
 1758 = {	# COIMBRA
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -202,7 +202,7 @@
 1769 = {	# VISEU
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -222,7 +222,7 @@
 1759 = {	# 1759 - AVEIRO
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
@@ -245,7 +245,7 @@
 1773 = {	# CASTELO BRANCO
 	# Misc
 	culture = visigothic
-	religion = mozarabic_church
+	religion = catholic
 
 	holding = castle_holding
 
