@@ -3,22 +3,6 @@ k_wales = {
 	1066.1.1 = { change_development_level = 7 }
 	1187.1.1 = { change_development_level = 25 }
 	1337.1.1 = { change_development_level = 50 }
-
-	1216.1.1 = {
-		holder = 214714 #Llywelyn ab Iorwerth
-	}
-	1240.4.11 = {
-		holder = 138486 #Dafydd ab Llywelyn
-	}
-	1246.1.1 = {
-		holder = 420001 #Llywelyn ap Gruffydd
-	}
-	1282.12.10 = {
-		holder = 420002 #Dafydd ap Gruffyd
-	}
-	1283.9.29 = {
-		holder = 0
-	}
 }
 
 d_gwynedd = {
