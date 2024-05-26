@@ -129,7 +129,7 @@
 
 ###c_oversticht
 2421 = {	#ZWOLLE
-	culture = saxon
+	culture = dutch
 	religion = catholic
 	holding = castle_holding
 }

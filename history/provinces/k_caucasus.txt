@@ -79,7 +79,7 @@
 ##d_azov ###################################
 ###c_tmutarakan
 598 = {		#Tmutarakan
-	culture = khazar
+	culture = greek
 	religion = tengri_pagan
 	holding = castle_holding
 	990.1.1 = {

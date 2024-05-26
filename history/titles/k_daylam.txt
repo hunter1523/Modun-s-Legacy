@@ -5,8 +5,8 @@
 	1337.1.1 = { change_development_level = 30 }
 }
 
-d_daylam = {
-}
+#d_daylam = {
+#}
 
 c_gilan = {
 	768.1.1 = {
@@ -44,7 +44,7 @@ c_zanjan = {
 	}
 
 	867.1.1 = {
-		liege = "d_tabaristan"
+		liege = k_persia
 		holder = 45108
 	}
 }
@@ -65,7 +65,7 @@ c_qazwin = {
 	}
 
 	867.1.1 = {
-		liege = "d_tabaristan"
+		liege = k_persia
 		holder = 45108
 	}
 }
@@ -93,11 +93,6 @@ d_tabaristan = {
 	761.1.1 = {
 		holder = 160290 # Surkhab Bavand II (though really an Abbasid governor)
 	}
-
-	864.1.1 = {
-		liege = 0
-		holder = 45108 # Hasan ibn Zayd
-	}
 }
 
 
@@ -114,7 +109,7 @@ c_mazandaran = {
 	}
 
 	867.1.1 = {
-		liege = "d_tabaristan"
+		liege = 0
 		holder = 45105 # Rostam II
 	}
 }
@@ -128,7 +123,7 @@ c_ruyan = {
 	}
 
 	867.1.1 = {
-		liege = "d_tabaristan"
+		liege = 0
 		holder = 216909 # Rostam II
 	}
 }
@@ -142,7 +137,7 @@ c_baduspan = {
 	}
 
 	867.1.1 = {
-		liege = "d_tabaristan"
+		liege = 0
 		holder = 45105 # Rostam II
 	}
 }
@@ -374,7 +369,6 @@ c_shaki = {
 		holder = 159977
 	}
 	780.1.1 = {
-		liege = "d_azerbaijan"
 		holder = 146071
 	}
 	816.1.1 = {
@@ -383,9 +377,9 @@ c_shaki = {
 	823.1.1 = {
 		holder = 146076
 	}
-	844.1.1 = {
-		holder = 159733
-		liege = d_shirvan
+	853.1.1 = {
+		holder = 159976
+		liege = d_georgia
 	}
 }
 
@@ -423,6 +417,7 @@ c_aran = {
 	}
 	853.1.1 = {
 		holder = 159976
+		liege = d_georgia
 	}
 }
 
@@ -462,6 +457,9 @@ c_mugan = {
 	844.1.1 = {
 		holder = 159733
 		liege = d_shirvan
+	}
+	863.1.1 = {
+		holder = sogdian0008
 	}
 }
 

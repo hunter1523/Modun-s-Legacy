@@ -419,7 +419,7 @@
 
 ###c_sayn
 2689 = {	#SAYN
-	culture = dutch
+	culture = franconian
 	religion = catholic
 	holding = castle_holding
 }

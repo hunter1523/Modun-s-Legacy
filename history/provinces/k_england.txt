@@ -897,7 +897,7 @@
 ###c_somerset
 1576 = {	#Bath
 	culture = brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 	1100.11.11 = {
 		culture = english
@@ -920,7 +920,7 @@
 ###c_devon
 1569 = {	#Exeter
 	culture = brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 	1200.1.1 = {
 		culture = english
@@ -945,7 +945,7 @@
 ###c_cornwall
 1573 = {	#Launceston
 	culture = brythonic
-	religion = catholic
+	religion = insular_celtic
 	holding = castle_holding
 }
 1574 = {	#Tintagel

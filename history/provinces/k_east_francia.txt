@@ -5,8 +5,8 @@
 	culture = old_saxon
 	religion = norse_pagan
 	800.1.1 = {
-		culture = sorbian
-		religion = slavic_pagan
+		culture = langobard 
+		religion = catholic
 	}
 	holding = tribal_holding
 	929.1.1 = {
@@ -52,7 +52,7 @@
 	culture = old_saxon
 	religion = norse_pagan
 	800.1.1 = {
-		culture = polabian
+		culture = langobard 
 		religion = catholic
 	}
 	holding = tribal_holding
@@ -481,17 +481,13 @@
 
 ###c_stendal
 2900 = {	#STENDAL
-	culture = old_saxon
+	culture = langobard
 	religion = norse_pagan
 	800.1.1 = {
-		culture = polabian
+		culture = langobard
 		religion = catholic
 	}
 	holding = castle_holding
-	1120.1.1 = {
-		culture = saxon
-		religion = catholic
-	}
 }
 2907 = {	#GARDELEGEN
 	holding = none
@@ -966,7 +962,7 @@
 
 ###c_orlamunde
 3005 = {	#ORLAMUNDE
-	culture = sorbian
+	culture = franconian
 	religion = catholic
 	holding = castle_holding
 	1120.1.1 = {

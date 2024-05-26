@@ -12,7 +12,7 @@ k_armenia = {
 
 k_armenian_principality = {
 	862.1.1 = {
-		liege = e_arabia
+		#liege = e_arabia
 		holder = 41505
 	}
 }
@@ -114,20 +114,11 @@ c_melitene = {
 
 
 c_theodosiopolis = {
-	330.1.1 = {
-		liege = "d_chaldia"
-	}
 	769.1.1 = {
 		holder = 145845
 	}
-	820.1.1 = {
-		holder = 159723
-	}
-	855.1.1 = {
-		holder = 159724
-	}
 	863.1.1 = {
-		holder = 159725
+		holder = 159722
 	}
 }
 
@@ -195,7 +186,7 @@ d_vaspurakan = {
 		holder = 41560
 	}
 	862.1.1 = {
-		liege = k_armenian_principality	#For the not-quite-a-kingdom under Ashot I, before he becomes king.
+		liege = 0
 	}
 }
 
@@ -237,10 +228,6 @@ c_turuberan = {
 	836.1.1 = {
 		holder = 41560
 	}
-	863.1.1 = {
-	    liege = e_arabia
-		holder = 159722
-	}
 }
 
 
@@ -281,10 +268,6 @@ c_apahunik = {
 	836.1.1 = {
 		holder = 41560
 	}
-	863.1.1 = {
-		holder = 159722
-		liege = e_arabia
-	}
 }
 
 
@@ -324,6 +307,10 @@ c_vaspurakan = {
 	}
 	836.1.1 = {
 		holder = 41560
+	}
+	861.1.1 = {
+		holder = kurdish0001
+		liege = d_diyarrabia
 	}
 }
 
@@ -431,8 +418,8 @@ c_bagrewand = {
 	785.1.1 = {
 		holder = 159878
 	}
-	862.1.1 = {
-		holder = 41505
+	836.1.1 = {
+		holder = 41560
 	}
 }
 
@@ -450,24 +437,16 @@ c_vanand = {
 	785.1.1 = {
 		holder = 159878
 	}
-	862.1.1 = {
-		holder = 41505
+	836.1.1 = {
+		holder = 41560
 	}
 }
 
 
 c_khachen = {
-	#VIIth century onwards : Arab rule
-	654.1.1 = {
-		liege = e_arabia
-	}
-	#821 : Principality of Khachen
-	821.1.1 = {
-		liege = 0
-		holder = 159973	#Sahak Sahl Smbatean
-	}
-	855.1.1 = {
-		holder = 159976 #Smbat, grandson of Sahak Sahl Smbatean
+	851.1.1 = {
+		holder = 159251
+		liege = d_greater_armenia
 	}
 }
 
@@ -491,7 +470,6 @@ c_suenik = {
 	}
 	750.1.1 = {
 		holder = 160013
-		liege = 0
 	}
 	780.1.1 = {
 		holder = 159243
