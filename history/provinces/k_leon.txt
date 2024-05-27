@@ -77,7 +77,7 @@
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	955.1.1 = { culture = asturleonese }
 }
 1828 = {	# SALAMANCA
@@ -96,7 +96,7 @@
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	955.1.1 = { culture = asturleonese }
 }
 1914 = {	# MEDINA DEL CAMPO

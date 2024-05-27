@@ -7,8 +7,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	811.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	811.1.1 = { religion = catholic }
 	#1264.1.1 = {
 	#	culture = portuguese
 	#	religion = catholic
@@ -25,12 +25,12 @@
 1748 = {	# Faro
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	#1264.1.1 = {
 	#	culture = portuguese
 	#	religion = catholic
@@ -47,8 +47,8 @@
 	religion = catholic
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1233.1.1 = {
 		culture = portuguese
 		religion = catholic
@@ -73,8 +73,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	944.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	944.1.1 = { religion = catholic }
 	1163.1.1 = {
 		culture = portuguese
 		religion = catholic
@@ -96,8 +96,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	944.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	944.1.1 = { religion = catholic }
 	1263.1.1 = {
 		culture = portuguese
 		religion = catholic
@@ -123,8 +123,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	811.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	811.1.1 = { religion = catholic }
 	#1253.1.1 = {
 	#	culture = portuguese
 	#	religion = catholic
@@ -143,7 +143,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	955.1.1 = { culture = asturleonese }
 	1250.1.1 = { religion = catholic }
 }
@@ -163,8 +163,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = asturleonese
 		religion = catholic
@@ -192,8 +192,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1245.3.19 = {
 	#	culture = asturleonese
 	#	religion = catholic
@@ -215,8 +215,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = asturleonese
 		religion = catholic
@@ -241,8 +241,8 @@
 	religion = catholic
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1245.3.19 = {
 	#	culture = asturleonese
 	#	religion = catholic

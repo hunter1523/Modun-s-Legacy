@@ -1089,6 +1089,37 @@
 			doctrine = tenet_rite
 		}
 
+		gothic_church = {
+			color = { 110 71 33 }
+			icon = custom_faith_icon_1
+			graphical_faith = "catholic_gfx"
+
+			holy_site = jerusalem
+			holy_site = konugardr
+			holy_site = kerch_gothic
+			holy_site = buzau
+			holy_site = constantinople
+
+			#Special Tolerance
+			doctrine = special_doctrine_ecumenical_christian
+
+			#Main Group
+			doctrine = doctrine_pluralism_pluralistic
+
+			#Crimes
+			# More used to Andalusian-Muwalladi norms than some Catholic ones.
+			doctrine = doctrine_homosexuality_accepted
+			doctrine = doctrine_deviancy_shunned
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_alms_and_pacification
+
+			#Tenets
+			doctrine = tenet_adaptive
+			doctrine = tenet_communion
+			doctrine = tenet_rite
+		}
+
 		adoptionist = {
 			color = { 255 51 51 }
 			icon = fp2_adoptionist

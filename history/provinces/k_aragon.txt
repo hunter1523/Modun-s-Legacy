@@ -180,7 +180,7 @@
 	special_building_slot = aljaferia_palace_01
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	1066.1.1 = {
 		buildings = {
 			ramparts_01
@@ -209,7 +209,7 @@
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	939.1.1 = { religion = muwalladi }
 	1235.1.1 = {
 		culture = castilian
@@ -297,7 +297,7 @@
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 }
 1934 = {	# DAROCA
 	holding = city_holding
@@ -327,7 +327,7 @@
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	939.1.1 = { religion = muwalladi }
 	1259.1.1 = {
 		culture = catalan

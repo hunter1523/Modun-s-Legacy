@@ -184,7 +184,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	931.1.1 = { culture = galician }
 	1187.1.1 = {
 		culture = portuguese
@@ -207,7 +207,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	926.1.1 = { culture = galician }
 	1187.1.1 = {
 		culture = portuguese
@@ -227,7 +227,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	931.1.1 = { culture = galician }
 	950.1.1 = { faith = catholic }
 	1187.1.1 = {
@@ -250,7 +250,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian}
+	800.1.1 = { culture = iberian}
 	926.1.1 = { culture = asturleonese }
 	1187.1.1 = { culture = portuguese }
 	1337.1.1 = { religion = catholic }

@@ -3,7 +3,7 @@
 ###c_odessa
 543 = {	#Kara-Kerman
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
@@ -30,7 +30,7 @@
 ###c_ladyzyn
 5257 = {	#Ladyzyn
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
@@ -53,7 +53,7 @@
 ###c_uman
 5260 = {	#Yary
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
@@ -76,7 +76,7 @@
 ###c_cherkassy
 5263 = {	#Cherkassy
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
@@ -102,7 +102,7 @@
 ###c_kherson
 5269 = {	#Kherson
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
@@ -126,7 +126,7 @@
 ###c_dnipro
 5274 = {	#Dnipro
 	culture = mogyer
-	religion = magyar_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg

@@ -85,7 +85,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	867.1.1 = { special_building_slot = alcazar_of_segovia_01 }
 	955.1.1 = { culture = castilian }
 	1000.1.1 = { religion = catholic }
@@ -107,7 +107,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	955.1.1 = { culture = asturleonese }
 	1000.1.1 = { religion = catholic }
 }

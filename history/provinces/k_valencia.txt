@@ -7,8 +7,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1259.1.1 = {
 	#	culture = catalan
 	#	religion = catholic
@@ -33,8 +33,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1280.1.1 = {
 		#culture = castilian
 		#religion = catholic
@@ -62,8 +62,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1259.1.1 = {
 		culture = catalan
 		religion = catholic
@@ -85,8 +85,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1259.1.1 = {
 		culture = aragonese
 		religion = catholic
@@ -108,8 +108,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1259.1.1 = {
 	#	culture = catalan
 	#	religion = catholic
@@ -132,8 +132,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1259.1.1 = {
 	#	culture = catalan
 	#	religion = catholic
@@ -152,8 +152,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -176,8 +176,8 @@
 	religion = catholic
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1245.3.19 = {
 		#culture = castilian
 		#religion = catholic
@@ -207,7 +207,7 @@
 
 	# History
 	800.1.1 = { culture = catalan }
-	928.1.1 = { religion = muwalladi }
+	928.1.1 = { religion = catholic }
 	1245.1.1 = { religion = catholic }
 }
 
@@ -221,7 +221,7 @@
 
 	# History
 	800.1.1 = { culture = catalan }
-	928.1.1 = { religion = muwalladi }
+	928.1.1 = { religion = catholic }
 	1245.1.1 = { religion = catholic }
 }
 2001 = {	# Alcudia
@@ -238,6 +238,6 @@
 
 	# History
 	800.1.1 = { culture = catalan }
-	928.1.1 = { religion = muwalladi }
+	928.1.1 = { religion = catholic }
 	1245.1.1 = { religion = catholic }
 }

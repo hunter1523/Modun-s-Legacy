@@ -7,8 +7,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1245.3.19 = {
 		#culture = castilian
 	#	religion = catholic
@@ -22,13 +22,13 @@
 1843 = {	# CADIZ
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
 	# History
 	800.1.1 = {
-		culture = andalusian
+		culture = iberian
 	}
 	#1263.1.1 = {
 		#culture = castilian
@@ -46,7 +46,7 @@
 1845 = {	# ALGECIRAS
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
@@ -56,7 +56,7 @@
 
 	# History
 	800.1.1 = {
-		culture = andalusian
+		culture = iberian
 	}
 	#1263.1.1 = {
 		#culture = castilian
@@ -83,8 +83,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	811.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	811.1.1 = { religion = catholic }
 	1066.1.1 = {
 		buildings = {
 			hill_forts_01
@@ -116,7 +116,7 @@
 	650.1.1 = { #Most of the construction was done under the visigothic king Wamba
 		special_building = city_wall_of_toledo_01
 	}
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	867.1.1 = {
 		buildings = {
 			regimental_grounds_01
@@ -151,7 +151,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	955.1.1 = { culture = castilian }
 	1337.1.1 = { religion = catholic }
 }
@@ -174,7 +174,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	950.1.1 = { culture = castilian }
 	1187.1.1 = { religion = catholic }
 }
@@ -197,8 +197,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -223,8 +223,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -249,8 +249,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	939.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	939.1.1 = { religion = catholic }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -275,8 +275,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	1245.3.19 = {
 		culture = castilian
 		religion = catholic
@@ -301,8 +301,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1280.1.1 = {
 		#culture = castilian
 		#religion = catholic
@@ -334,9 +334,9 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	811.1.1 = {
-		religion = muwalladi
+		religion = catholic
 		special_building = alhambra_01
 	}
 	867.1.1 = {
@@ -366,12 +366,12 @@
 1979 = {	# CABRA
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	#1263.1.1 = {
 		#culture = castilian
 		#religion = catholic
@@ -385,12 +385,12 @@
 1981 = {	# SEVILLE
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	867.1.1 = {
 		buildings = {
 			farm_estates_01
@@ -428,12 +428,12 @@
 1977 = {	# JAEN
 	#Misc
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
+	800.1.1 = { culture = iberian }
 	#1263.1.1 = {
 		#culture = castilian
 		#religion = catholic
@@ -459,8 +459,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	1245.3.19 = {
 		culture = castilian
 		religion = catholic
@@ -479,8 +479,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	#1245.3.19 = {
 		#culture = castilian
 	#	religion = catholic
@@ -505,8 +505,8 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = andalusian }
-	812.1.1 = { religion = muwalladi }
+	800.1.1 = { culture = iberian }
+	812.1.1 = { religion = catholic }
 	867.1.1 = {
 		special_building_slot = holy_site_great_mosque_of_cordoba_01
 		special_building = holy_site_great_mosque_of_cordoba_01

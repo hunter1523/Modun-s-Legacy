@@ -43,13 +43,12 @@
 ###c_tudela
 1902 = {	# TUDELA
 	#Misc
-	culture = visigothic
+	culture = iberian
 	religion = catholic
 	
 	holding = castle_holding
 	
 	# History
-	800.1.1 = { culture = andalusian }
 	950.1.1 = {
 		culture = castilian
 		faith = catholic
