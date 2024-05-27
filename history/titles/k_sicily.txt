@@ -139,75 +139,9 @@ d_benevento = {
 }
 
 c_benevento = {
-	571.1.1 = {
-		liege = d_benevento
-		holder = 190127 # Zotto of Benevento
-	}
-	591.1.1 = {
-		holder = 190153 # Arechis of Benevento
-	}
-	641.1.1 = {
-		holder = 190154 # Aio I of Benevento
-	}
-	642.1.1 = {
-		holder = 190130 # Radoald of Benevento
-	}
-	651.1.1 = {
-		holder = 190133 # Grimoald I of Italy
-	}
-	662.1.1 = {
-		holder = 190135 # Romuald I of Benevento
-	}
-	687.1.1 = {
-		holder = 190138 # Grimoald II of Benevento
-	}
-	689.1.1 = {
-		holder = 190139 # Gisulf I of Benevento
-	}
-	706.1.1 = {
-		holder = 190141 # Romuald II of Benevento
-	}
-	731.1.1 = {
-		holder = 190144 # Gisulf II of Benevento
-	}
-	732.1.1 = {
-		holder = lombard0091 # Audelais Audelaisidi
-	}
-	732.6.1 = {
-		holder = lombard0098 # Gregorius Ansprandidi
-	}
-	739.1.1 = {
-		holder = lombard0091 # Godescalco Godescalcidi
-	}
-	742.1.1 = {
-		holder = 190144 # Gisulf II of Benevento
-	}
-	751.1.1 = {
-		holder = 190146 # Liutprand of Benevento
-	}
-	758.1.1 = {
-		holder = 190147 # Arechis II of Benevento
-	}
-	787.8.26 = {
-		holder = 190150 # Grimoald III of Benevento
-	}
-	806.1.1 = {
-		holder = 190157 # Grimoald IV of Benevento
-	}
-	817.1.1 = {
-		holder = 190160 # Sico of Benevento
-	}
-	832.9.1 = {
-		holder = 190161 # Sicard of Benevento
-	}
-	839.8.1 = {
-		holder = 145216 # Radelchis I of Benevento
-	}
-	851.6.1 = {
-		holder = 145217 # Radelgar of Benevento
-	}
-	853.12.1 = {
-		holder = 163071 # Adelchis of Benevento
+	860.1.1 = {
+		holder = roman_emperor_01
+		liege = e_spain
 	}
 }
 
@@ -354,6 +288,10 @@ c_apulia = {
 	853.12.1 = {
 		holder = 163071 # Adelchis of Benevento
 	}
+	857.1.1 = {
+		liege = d_apulia
+		holder = 163094 # Sawdan, Emir of Bari
+	}
 }
 
 c_bari = {
@@ -462,9 +400,8 @@ c_camarda = { # Principality of Taranto
 	811.1.1 = {
 		holder = 190301 # Roderissus II
 	}
-	857.1.1 = {
-		holder = 163094 # Sawdan of Bari
-		liege = d_apulia
+	861.8.19 = {
+		holder = 163091 # Guaifer of Salerno
 	}
 }
 
