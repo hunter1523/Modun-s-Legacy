@@ -15,3 +15,25 @@
 		death = yes
 	}
 }
+suebi_01 = { #Suebian Confederation
+	name = "Hermeric"
+	religion = "catholic"
+	culture = "suebi"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+suebi_01 = { #Visburg
+	name = "Hildemir"
+	religion = "catholic"
+	culture = "suebi"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}

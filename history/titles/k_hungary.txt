@@ -107,23 +107,8 @@ c_nyitra = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 10 }
 
-	741.1.1 = {
-		holder = 187000
-	}
-	764.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		holder = 168071
-	}
 	850.1.1 = {
-		holder = 187003 #Svatopluk
+		holder = ardacian_01
 	}
 }
 
@@ -140,28 +125,8 @@ c_orava = {
 }
 
 c_trenscen = {
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-		government = tribal_government
-	}
-	764.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	869.1.1 = {
-		holder = 187003
+	850.1.1 = {
+		holder = ardacian_01
 	}
 }
 
@@ -193,56 +158,8 @@ c_poszony = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 12 }
 
-	685.1.1 = {
-		holder = 146154
-	}
-	701.1.1 = {
-		holder = 146155
-	}
-	707.1.1 = {
-		holder = 146156
-	}
-	714.1.1 = {
-		holder = 146157
-	}
-	718.1.1 = {
-		holder = 146158
-	}
-	721.1.1 = {
-		holder = 146159
-	}
-	731.1.1 = {
-		holder = 146160
-	}
-	733.1.1 = {
-		holder = 146161
-	}
-	743.1.1 = {
-		holder = 146162
-	}
-	748.1.1 = {
-		holder = 146163
-	}
-	756.1.1 = {
-		holder = 146165
-	}
-	757.1.1 = {
-		holder = 146171
-	}
-	805.1.1 = {
-		holder = 146172
-	}
-	808.1.1 = {
-		holder = 146173
-	}
-	813.1.1 = {
-		holder = 194000
-	}
-	846.8.15 = {
-		holder = 187002
-	}
 	850.1.1 = {
-		holder = 187003 #Svatopluk
+		holder = suebi_02
 	}
 }
 

@@ -3,6 +3,9 @@ k_bohemia = {
 	200.1.1 = {
 		#de_jure_liege = e_germany
 	}
+	850.1.1 = {
+		holder = marcomanni_01
+	}
 	867.1.1 = {
 		de_jure_liege = e_west_slavia
 	}
@@ -14,32 +17,6 @@ d_bohemia = {
 	1066.1.1 = { change_development_level = 8 }
 	1187.1.1 = { change_development_level = 30 }
 	1337.1.1 = { change_development_level = 50 }
-
-	720.1.1 = {
-		holder = 168345
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-#	830.1.1 = {
-#		liege = "k_moravia" # ahistorical - removed
-#	}
-	833.1.1 = {
-		holder = 168350
-	}
-
-	851.1.1 = {
-		holder = 168351
-	}
 }
 
 
@@ -49,57 +26,15 @@ c_praha = {
 	1187.1.1 = { change_development_level = 35 }
 	1337.1.1 = { change_development_level = 55 }
 
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	851.1.1 = {
-		holder = 168351
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_litomerice = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-		government = tribal_government
-	}
-	731.1.1 = {
-		holder = 168346
-	}
-	748.1.1 = {
-		holder = 168347
-	}
-	764.1.1 = {
-		holder = 168348
-	}
-	783.1.1 = {
-		holder = 168349
-	}
-	804.1.1 = {
-		holder = 168350
-	}
-	820.1.1 = {
-		holder = 168351
-	}
-	851.1.1 = {
-		holder = 168344
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
@@ -108,164 +43,43 @@ c_zatec = {
 	867.1.1 = { change_development_level = 4 }
 	1066.1.1 = { change_development_level = 10 }
 
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-		government = tribal_government
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	851.1.1 = {
-		#holder = 168351
-		holder = 168344
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_plzen = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-		government = tribal_government
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	787.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	836.1.1 = {
-		holder = 168352
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_doudleby = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-		government = tribal_government
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	851.1.1 = {
-		#holder = 168351
-		holder = 168352
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_boleslav = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	851.1.1 = {
-		holder = 168351
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_hradec = {
-	741.1.1 = {
-		liege = "d_bohemia"
-		holder = 187000
-		government = tribal_government
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	867.1.1 = {
-		holder = 168357
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_caslav = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-		government = tribal_government
-	}
-	745.1.1 = {
-		holder = 168346
-	}
-	783.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	833.1.1 = {
-		holder = 168350
-	}
-	851.1.1 = {
-		holder = 168351
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
@@ -287,30 +101,6 @@ d_moravia = {
 	1101.1.1 = {
 		change_development_level = 11
 	}
-
-	741.1.1 = {
-		liege = 0
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-		de_jure_liege = k_moravia
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	863.1.1 = {
-		holder = 187004
-	}
 }
 
 
@@ -318,47 +108,15 @@ c_olomouc = {
 	867.1.1 = { change_development_level = 5 }
 	1066.1.1 = { change_development_level = 10 }
 
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	863.1.1 = {
-		holder = 187004
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_opava = {
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	863.1.1 = {
-		holder = 187004
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
@@ -366,73 +124,22 @@ c_prerov = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
 
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	846.8.15 = {
-		holder = 187002
-	}
-	869.1.1 = {
-		holder = 187003
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_brno = {
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	846.8.15 = {
-		holder = 187002
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
 
 c_jihlava = {
-	741.1.1 = {
-		liege = "d_moravia"
-		holder = 187000
-	}
-	782.1.1 = {
-		holder = 146176
-	}
-	801.1.1 = {
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	846.8.15 = {
-		holder = 187002
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 
@@ -441,34 +148,8 @@ c_znojmo = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
 
-	731.1.1 = {
-		liege = "d_visegrad"
-		holder = 146137
-	}
-	751.1.1 = {
-		liege = k_bavaria
-	}
-	751.1.1 = {
-		holder = 190367 #Anniulf
-	}
-	780.1.1 = {
-		holder = 146139
-	}
-	785.1.1 = {
-		holder = 146140
-	}
-	804.1.1 = {
-		liege = "d_moravia"
-		holder = 146177
-	}
-	809.1.1 = {
-		holder = 187001
-	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	846.8.15 = {
-		holder = 187002
+	850.1.1 = {
+		holder = marcomanni_01
 	}
 }
 

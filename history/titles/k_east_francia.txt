@@ -1469,9 +1469,8 @@ d_anhalt = {
 
 
 c_dessau = {
-	867.1.1 = {
-		holder = 184007
-		liege = 0
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
@@ -1580,31 +1579,12 @@ c_mersenburg = {
 d_lausitz = {
 	867.1.1 = { change_development_level = 4 }
 	1066.1.1 = { change_development_level = 8 }
-
-	500.1.1 = {
-		holder = 0
-		government = tribal_government
-	}
-
-	857.1.1 = {
-		holder = 184007 #Duke Radomil
-		liege = 0
-	}
 }
 
 
 c_juterbog = {
-	740.1.1 = {
-		holder = 190455 #Theoderic
-
-		government = tribal_government
-	}
-	#781.1.1 = {
-	#	holder = 0
-	#}
-	867.1.1 = {
-		liege = d_lausitz
-		holder = 168584
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
@@ -1612,61 +1592,29 @@ c_juterbog = {
 c_wittenberg = {
 	1337.1.1 = { change_development_level = 55 }
 
-	740.1.1 = {
-		holder = 190455 #Theoderic
-
-		government = tribal_government
-	}
-	#781.1.1 = {
-	#	holder = 0
-	#}
-	867.1.1 = {
-		liege = d_lausitz
-		holder = 168584
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_brene = {
-	740.1.1 = {
-		holder = 190455 #Theoderic
-	}
-	#781.1.1 = {
-	#	holder = 0
-	#}
-	867.1.1 = {
-		liege = d_lausitz
-		holder = 184007 #Duke Radomil
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_spreewald = {
-	740.1.1 = {
-		holder = 190455 #Theoderic
-	}
-	###867 Polanian tribes
-	860.1.1 = {
-		holder = 302074		#fictional Jaromir Lusici
-		liege = 0
-
-		government = tribal_government
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_naumberg = {	#Lubsko c_lubsko
-	740.1.1 = {
-		holder = 190455 #Theoderic
-
-		government = tribal_government
-	}
-	#781.1.1 = {
-	#	holder = 0
-	#}
-	867.1.1 = {
-		liege = 0
-		holder = 184005
+	850.1.1 = {
+		holder = lugii_01
 	}
 }
 
@@ -1674,41 +1622,12 @@ c_naumberg = {	#Lubsko c_lubsko
 d_meissen = {
 	867.1.1 = { change_development_level = 4 }
 	1066.1.1 = { change_development_level = 8 }
-
-	857.1.1 = {
-		holder = 184007 #Duke Radomil
-		liege = 0
-	}
 }
 
 
 c_meissen = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	760.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	830.1.1 = {
-		liege = d_meissen
-	#	holder = 0
-	}
-
-	857.1.1 = {
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
@@ -1717,170 +1636,50 @@ c_dresden = {
 	867.1.1 = { change_development_level = 6 }
 	1066.1.1 = { change_development_level = 9 }
 
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	760.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	830.1.1 = {
-		liege = d_meissen
-	#	holder = 0
-	}
-
-	857.1.1 = {
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_wolkenstein = {
-	756.1.1 = {
-		liege = d_thuringia
-		holder = 190387 #Hardrad
-	}
-	857.1.1 = {
-		liege = d_meissen
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_osterland = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	760.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	830.1.1 = {
-		liege = d_meissen
-	#	holder = 0
-	}
-
-	857.1.1 = {
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_naumburg = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	760.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	830.1.1 = {
-		liege = d_meissen
-	#	holder = 0
-	}
-
-	857.1.1 = {
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_vogtland = {
-	756.1.1 = {
-		liege = d_thuringia
-		holder = 190387 #Hardrad
-	}
-	857.1.1 = {
-		liege = d_meissen
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_cottbus = {
-	720.1.1 = {
-		liege = "d_bohemia"
-		holder = 168345
-	}
-	738.1.1 = {
-		holder = 146174
-	}
-	760.1.1 = {
-		holder = 146175
-	}
-	801.1.1 = {
-		holder = 168347
-	}
-	804.1.1 = {
-		holder = 168348
-	}
-	820.1.1 = {
-		holder = 168349
-	}
-	830.1.1 = {
-		liege = d_meissen
-		#holder = 0
-	}
-
-	857.1.1 = {
-		holder = 184007
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
 
 c_gorlitz = {
-	#867 tribes
-	750.1.1 = {
-		holder = 194084
-		liege = d_lower_silesia
-
-		government = tribal_government
-	}
-	799.1.1 = {
-		holder = 194085
-	}
-	822.1.1 = {
-		holder = 82291
-	}
-	867.1.1 = {
-		liege = 0
-	holder = 184005
+	850.1.1 = {
+		holder = lugii_01
 	}
 }
 
@@ -2221,56 +2020,8 @@ c_schmalkalden = {
 
 
 c_lobdaburg = {
-	460.1.1 = {
-		holder = 190375 #Basinus
-	}
-	477.1.1 = {
-		holder = 190376 #Fisud
-	}
-	500.1.1 = {
-		holder = 190378 #Baderic
-	}
-	531.1.1 = {
-		holder = 190379 #Hermanfred
-	}
-	531.1.1 = {
-		liege = k_east_francia
-	}
-	534.1.1 = {
-		holder = 190381 #Berthar
-	}
-	539.1.1 = {
-		holder = 190382 #Chamar
-	}
-	588.1.1 = {
-		holder = 190383 #Radulf
-	}
-	633.1.1 = {
-		holder = 190384 #Chamar
-	}
-	666.1.1 = {
-		holder = 190385 #Berthar
-	}
-	702.1.1 = {
-		holder = 190386 #Chamar
-	}
-	741.1.1 = {
-		holder = 168224 #Radulf
-	}
-	769.1.1 = {
-		liege = k_france
-	}
-	775.1.1 = {
-		holder = 168226 #Thankulf
-	}
-	815.1.1 = {
-		holder = 168227 #Hadulf
-	}
-	855.1.1 = {
-		liege = "d_thuringia"
-	}
-	855.1.1 = {
-		holder = 33428
+	850.1.1 = {
+		holder = suebi_01
 	}
 }
 
