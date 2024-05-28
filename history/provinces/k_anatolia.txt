@@ -633,7 +633,7 @@
 5651 = {	# 5651 - Aezani
 
 	# Misc
-	culture = greek
+	culture = lydian
 	religion = orthodox
 
 	holding = castle_holding

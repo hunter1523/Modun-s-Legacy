@@ -2,7 +2,7 @@
 678 = {	# 678 - Trebizond
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -24,7 +24,7 @@
 705 = {	# 705 - Cerasus
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -34,7 +34,7 @@
 706 = {	# 706 - Colonea
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -94,7 +94,7 @@
 738 = {	# 738 - Amisos
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -107,7 +107,7 @@
 739 = {	# 739 - Sinope
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -119,7 +119,7 @@
 751 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -134,7 +134,7 @@
 752 = {	# 752 - Galatia (AKA Mikissos)
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -154,7 +154,7 @@
 5581 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -169,7 +169,7 @@
 5582 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -184,7 +184,7 @@
 5583 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -199,7 +199,7 @@
 5584 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -217,7 +217,7 @@
 5585 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -232,7 +232,7 @@
 5586 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -247,7 +247,7 @@
 5587 = {	# XXXX - XXX
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	# History
@@ -262,7 +262,7 @@
 5588 = {	# 5588 - Zagora
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -275,7 +275,7 @@
 5589 = {	# 5589 - Gadilon
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = church_holding
@@ -288,7 +288,7 @@
 5590 = {	# 5590 - Amaseia
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -301,7 +301,7 @@
 5591 = {	# 5591 - Magnopolis
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -314,7 +314,7 @@
 5592 = {	# 5592 - Andrapa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -327,7 +327,7 @@
 5593 = {	# 5593 - Pimolisa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -340,7 +340,7 @@
 5594 = {	# 5594 - Euchaita
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -356,7 +356,7 @@
 5595 = {	# 5595 - Carissa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -369,7 +369,7 @@
 5596 = {	# 5596 - Pteria
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -382,7 +382,7 @@
 5597 = {	# 5597 - Zela
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -411,7 +411,7 @@
 5599 = {	# 5599 - Sebastopolis
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -431,7 +431,7 @@
 5600 = {	# 5600 - Agranai
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -444,7 +444,7 @@
 5601 = {	# 5601 - Pedachtoe
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -643,7 +643,7 @@
 5614 = {	# 5614 - Armaxa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -663,7 +663,7 @@
 5615 = {	# 5615 - Herpha
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -683,7 +683,7 @@
 5616 = {	# 5616 - Arasaxa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -803,7 +803,7 @@
 5622 = {	# 5622 - Zeila
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -843,7 +843,7 @@
 5689 = {	# 5689 - Oinaion
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -863,7 +863,7 @@
 5690 = {	# 5690 - Polemonium
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = church_holding
@@ -883,7 +883,7 @@
 5691 = {	# 5691 - Koralla
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -906,7 +906,7 @@
 5692 = {	# 5692 - Rhizus
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = castle_holding
@@ -926,7 +926,7 @@
 5693 = {	# 5693 - Hyspiratis
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -946,7 +946,7 @@
 5694 = {	# 5694 - Baeberdon
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = church_holding
@@ -966,7 +966,7 @@
 5695 = {	# 5695 - Keltzine
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -986,7 +986,7 @@
 5698 = {	# 5698 - Neocaesara
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = church_holding
@@ -1006,7 +1006,7 @@
 5699 = {	# 5699 - Sinoria
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -1026,7 +1026,7 @@
 5700 = {	# 5700 - Hypseie
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -1046,7 +1046,7 @@
 5701 = {	# 5701 - Nicopolis
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding
@@ -1066,7 +1066,7 @@
 5702 = {	# 5702 - Kheranion
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -1105,7 +1105,7 @@
 5704 = {	# 5704 - Kamisa
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = none
@@ -1125,7 +1125,7 @@
 5705 = {	# 5705 - Tephrice
 
 	# Misc
-	culture = greek
+	culture = pontic
 	religion = orthodox
 
 	holding = city_holding

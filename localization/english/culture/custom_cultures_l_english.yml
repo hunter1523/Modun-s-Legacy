@@ -11,3 +11,10 @@
  iberian_prefix:0 "Ibero"
  iberian_collective_noun:0 "Iberians"
 
+ lydian:0 "Lydian"
+ lydian_prefix:0 "Lydio"
+ lydian_collective_noun:0 "Lydians"
+
+ pontic:0 "Pontic"
+ pontic_prefix:0 "Ponto"
+ pontic_collective_noun:0 "Pontics"
