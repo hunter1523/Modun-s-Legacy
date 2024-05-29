@@ -6,7 +6,7 @@
 ###c_rashka
 502 = {		#Rashka / b_novotrgoviste
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -32,7 +32,7 @@
 ###c_zlatibor
 3591 = {	#Sjenica
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -73,7 +73,7 @@
 ###c_podrinje
 3583 = {	# Hotca
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -101,7 +101,7 @@
 ###c_durmitor
 3584 = {	#Prijepolje
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -149,7 +149,7 @@
 ###c_macva
 3604 = {	#Macva
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -204,7 +204,7 @@
 ###c_duklja
 469 = {		#Zeta / b_ribnicapodgorica / Ribnica / Podgorica
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -243,7 +243,7 @@
 ###c_pomorje
 3575 = {	#Bar / Antivari
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
@@ -262,7 +262,7 @@
 ###c_travunia
 3572 = {	#Trebinje
 	culture = serbian
-	religion = slavic_pagan
+	religion = orthodox
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox

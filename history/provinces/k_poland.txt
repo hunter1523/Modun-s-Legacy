@@ -3,7 +3,7 @@
 ###c_krakowska
 527 = {		#Krakow
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -46,7 +46,7 @@
 ###c_sacz
 532 = {		#Sacz
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -79,7 +79,7 @@
 ###c_sandomierska
 531 = {		#Sandomierz
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -118,7 +118,7 @@
 ###c_stezycka
 4951 = {	#Stezyca
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -132,7 +132,7 @@
 ###c_radomska
 4953 = {	#Radom
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -156,7 +156,7 @@
 ###c_lubelska
 4957 = {	#Lublin
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -179,7 +179,7 @@
 ###c_tarnowska
 4965 = {	#Tarnow
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -201,7 +201,7 @@
 ###c_poznanska
 4900 = {	#Poznan
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -240,7 +240,7 @@
 ###c_gnieznienska
 4905 = {	#Gniezno
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
 		buildings = {
@@ -271,7 +271,7 @@
 ###c_kaliska
 4909 = {	#Kalisz
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -291,7 +291,7 @@
 ###c_wschowska
 4912 = {	#Wschowa
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -314,7 +314,7 @@
 ###c_krajna
 4915 = {	#Naklo
 	culture = pommeranian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -337,7 +337,7 @@
 ###c_lubusz
 3149 = {	#Lebus (Lubusz)
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -367,7 +367,7 @@
 ###c_plocka
 529 = {		#Plock
 	culture = polish
-	religion = slavic_pagan
+	religion = baltic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -399,7 +399,7 @@
 ###c_czerska
 530 = {		#Czersk
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -429,7 +429,7 @@
 ###c_gostyninska
 4940 = {	#Gostynin
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -455,7 +455,7 @@
 ###c_lomzynska
 4943 = {	#Lomza
 	culture = polish
-	religion = slavic_pagan
+	religion = baltic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -475,7 +475,7 @@
 ###c_zakroczymska
 4946 = {	#Zakroczym
 	culture = polish
-	religion = slavic_pagan
+	religion = baltic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -502,7 +502,7 @@
 ###c_opole
 3052 = {	#Opole
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -525,7 +525,7 @@
 ###c_brzeg
 3049 = {	#Brzeg
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -548,7 +548,7 @@
 ###c_nysa
 3048 = {	#Nysa
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -571,7 +571,7 @@
 ###c_cieszyn
 3040 = {	#Cieszyn
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -588,7 +588,7 @@
 ###c_ratibor
 3042 = {	#Ratibor / Raciborz
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
 		religion = catholic
@@ -605,7 +605,7 @@
 ###c_bethen
 3044 = {	#Bethen / Bytom
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -623,7 +623,7 @@
 ###c_breslau
 3045 = {	#Breslau / Wroclaw
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -647,7 +647,7 @@
 ###c_miliez
 3061 = {	#Miliez
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -664,7 +664,7 @@
 ###c_schweibus
 3145 = {	#Schweibus / Swiebodzin
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -687,7 +687,7 @@
 ###c_grunberg
 3064 = {	#Grunberg / Zielona Gora
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
 		religion = catholic
@@ -710,7 +710,7 @@
 ###c_sprottau
 3067 = {	#Sprottau / szprotawa
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -732,7 +732,7 @@
 ###c_przemkow
 3068 = {	#Przemkow
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -755,7 +755,7 @@
 ###c_legnica
 3058 = {	#Legnica
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -779,7 +779,7 @@
 ###c_kujawy
 4918 = {	#Kruszwica
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -808,7 +808,7 @@
 ###c_dobrzynska
 4922 = {	#Dobrzyn
 	culture = polish
-	religion = slavic_pagan
+	religion = baltic_pagan
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -825,7 +825,7 @@
 ###c_leczycka
 4924 = {	#Leczyca
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -842,7 +842,7 @@
 ###c_sieradzka
 528 = {		#Sieradz
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -874,7 +874,7 @@
 ###c_wielunska
 4931 = {	#Wielun
 	culture = polish
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic

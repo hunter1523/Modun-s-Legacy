@@ -431,8 +431,8 @@
 
 ###c_pitten
 3092 = {	#PITTEN
-	culture = carantanian
-	religion = slavic_pagan
+	culture = bavarian
+	religion = gothic_church
 	holding = castle_holding
 	867.1.1 = {
 		religion = catholic
@@ -470,17 +470,9 @@
 
 ###c_murzzuschlag
 3121 = {	#MURZZUSCHLAG
-	culture = carantanian
-	religion = slavic_pagan
+	culture = bavarian
+	religion = gothic_church
 	holding = castle_holding
-
-	867.1.1 = {
-		#culture = bavarian
-		religion = catholic
-	}
-	1187.1.1 = {
-		culture = bavarian
-	}
 }
 3119 = {	#OSTFURSTENFELD
 	holding = none
@@ -490,7 +482,7 @@
 ###c_vienna
 3086 = {	#VIENNA
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = castle_holding
 }
 3085 = {	#ERNSTBRUNN
@@ -518,7 +510,7 @@
 ###c_hohenau
 3081 = {	#HOHENAU
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = castle_holding
 }
 3079 = {	#LAA
@@ -538,7 +530,7 @@
 ###c_sankt_polten
 3089 = {	#SANKT POLTEN
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = church_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -563,7 +555,7 @@
 ###c_freistadt
 3073 = {	#FREISTADT
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = castle_holding
 }
 3090 = {	#SPITZ
@@ -586,7 +578,7 @@
 ###c_amstetten
 3093 = {	#AMSTETTEN
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = castle_holding
 }
 3124 = {	#WAIDHOFEN
@@ -596,7 +588,7 @@
 ###c_krems
 3088 = {	#KREMS
 	culture = bavarian
-	religion = catholic
+	religion = gothic_church
 	holding = castle_holding
 }
 3075 = {	#WILD

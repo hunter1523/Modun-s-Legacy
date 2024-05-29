@@ -3,7 +3,7 @@
 ###c_praha
 4125 = {	#PRAHA
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
@@ -11,7 +11,7 @@
 		}
 	}
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	1066.1.1 = {
 		buildings = {
@@ -50,10 +50,10 @@
 ###c_litomerice
 4129 = {	#LITOMERICE
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 	#1337.1.1 = {
@@ -82,10 +82,10 @@
 ###c_zatec
 4147 = {	#ZATEC
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 	#1337.1.1 = {
@@ -111,10 +111,10 @@
 ###c_plzen
 4145 = {	#PLZEN
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -146,10 +146,10 @@
 ###c_doudleby
 4154 = {	#DOUDLEBY
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -178,10 +178,10 @@
 ###c_boleslav
 4136 = {	#BOLESLAV
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 }
 4134 = {	#BEZDEZ
@@ -191,10 +191,10 @@
 ###c_hradec
 4138 = {	#HRADEC
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	883.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -217,12 +217,12 @@
 ###c_caslav
 4161 = {	#CASLAV
 	culture = czech
-	religion = slavic_pagan
+	religion = gothic_church
 	867.1.1 = {
 		#holding = castle_holding
 		special_building_slot = kutna_hora_mines_01
 	}
-	883.1.1 = { religion = catholic }
+	883.1.1 = { religion = gothic_church }
 	1000.1.1 = {
 		special_building = kutna_hora_mines_01
 	}
@@ -241,9 +241,9 @@
 ###c_olomouc
 4165 = {	#OLOMOUC
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
-	831.1.1 = { religion = catholic }
+	831.1.1 = { religion = gothic_church }
 	1030.1.1 = { culture = czech }
 	1066.1.1 = {
 		buildings = {
@@ -266,9 +266,9 @@
 ###c_opava
 4184 = {	#OAPVA
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
-	831.1.1 = { religion = catholic }
+	831.1.1 = { religion = gothic_church }
 	1030.1.1 = { culture = czech }
 	#1337.1.1 = {
 	#	culture = franconian
@@ -281,10 +281,10 @@
 ###c_prerov
 4182 = {	#PREROV
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
 	831.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	1030.1.1 = { culture = czech }
 }
@@ -304,9 +304,9 @@
 ###c_brno
 4168 = {	#BRNO
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
-	831.1.1 = { religion = catholic }
+	831.1.1 = { religion = gothic_church }
 	1030.1.1 = { culture = czech }
 }
 4167 = {	#IVANCICE
@@ -322,10 +322,10 @@
 ###c_jihlava
 4162 = {	#JIHLAVA
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
 	831.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	1030.1.1 = { culture = czech }
 	1337.1.1 = {
@@ -342,10 +342,10 @@
 ###c_znojmo
 4166 = {	#ZNOJMO
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = castle_holding
 	831.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	1030.1.1 = { culture = czech }
 	1250.1.1 = {

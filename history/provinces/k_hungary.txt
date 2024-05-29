@@ -3,11 +3,11 @@
 ###c_visegrad
 3803 = {	#Buda
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -19,7 +19,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 522 = {		#Pest
@@ -47,10 +47,10 @@
 ###c_komarom
 3809 = {	#Komarom
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -62,7 +62,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3916 = {	#Batorkeszi
@@ -78,10 +78,10 @@
 ###c_esztergom
 3808 = {	#Esztergom
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -93,7 +93,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	1066.1.1 = {
 		buildings = {
@@ -111,10 +111,10 @@
 ###c_szekesfehervar
 3805 = {	#Szekesfehervar
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -126,7 +126,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3806 = {	#Csakvar
@@ -145,7 +145,7 @@
 ###c_hewes
 523 = {		#Hewes
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	937.1.1 = {
@@ -158,7 +158,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3867 = {	#Tur
@@ -192,10 +192,10 @@
 ###c_somogy
 3835 = {	#Somogyvar
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -207,7 +207,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3836 = {	#Kaposvar
@@ -239,10 +239,10 @@
 ###c_kolon
 3827 = {	#Kolon
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -254,7 +254,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3828 = {	#Egerszeg AKA modern day Zalaegerszeg
@@ -274,10 +274,10 @@
 ###c_tolna
 3839 = {	#Tolna
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -289,7 +289,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3840 = {	#Simontornya
@@ -311,10 +311,10 @@
 ###c_baranya
 3842 = {	#Baranyavar
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -326,7 +326,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3843 = {	#Siklos
@@ -358,10 +358,10 @@
 ###c_nyitra
 3831 = {	#Nyitra
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -384,11 +384,11 @@
 ###c_gemer
 524 = {		#Gemer
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 	950.1.1 = {
@@ -416,13 +416,13 @@
 ###c_orava
 525 = {		#Orava
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
 	}
 	900.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3810 = {	#Twardosczino aka Tvrdošín aka Turdossin
@@ -433,11 +433,11 @@
 ###c_trenscen
 3811 = {	#Trenscen
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -469,11 +469,11 @@
 ###c_lipto
 3854 = {	#Liptoujvar
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -489,11 +489,11 @@
 ###c_zolyom
 3856 = {	#Zolyom
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -505,11 +505,11 @@
 ###c_bars
 3846 = {	#Bars
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -525,11 +525,11 @@
 ###c_hont
 3848 = {	#Hont
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -554,11 +554,11 @@
 ###c_poszony
 3815 = {	#Poszony
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	853.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 	1066.1.1 = {
@@ -582,7 +582,7 @@
 ###c_ungvar
 3897 = {	#Ungvar
 	culture = white_croatian # White Croats
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	#900.1.1 = { religion = orthodox }
@@ -605,7 +605,7 @@
 ###c_zemplen
 3885 = {	#Zemplen
 	culture = white_croatian # White Croats
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	#900.1.1 = { religion = orthodox }
@@ -615,7 +615,7 @@
 	}
 	936.1.1 = {
 		culture = slovien
-		religion = catholic
+		religion = gothic_church
 	}
 	#950.1.1 = { culture = hungarian }
 }
@@ -648,14 +648,14 @@
 ###c_borsod
 3870 = {	#Borsod
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
 	}
 
 	900.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	1300.1.1 = {
 		culture = hungarian
@@ -669,7 +669,7 @@
 ###c_saris
 533 = {		#Saris
 	culture = white_croatian # White Croats
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
 		holding = castle_holding
@@ -680,7 +680,7 @@
 	#}
 	936.1.1 = {
 		culture = slovien
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3860 = {	#Barfta
@@ -690,10 +690,10 @@
 ###c_spis
 3862 = {	#Locse
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 }
@@ -705,7 +705,7 @@
 ###c_abauj
 538 = {		#Abauj
 	culture = white_croatian # White Croats
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	861.1.1 = {
@@ -714,7 +714,7 @@
 	}
 	936.1.1 = {
 		culture = slovien
-		religion = catholic
+		religion = gothic_church
 	}
 	#950.1.1 = {
 		#culture = hungarian
@@ -733,7 +733,7 @@
 ###c_marmaros
 539 = {		#Marmaros
 	culture = white_croatian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	937.1.1 = {
@@ -782,7 +782,7 @@
 ###c_bereg
 537 = {		#Bereg
 	culture = white_croatian # White Croats
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	1066.1.1 = {
@@ -826,11 +826,11 @@
 ###c_feher
 519 = {		#Feher
 	culture = avar
-	religion = tengri_pagan
+	religion = orthodox
 	holding = tribal_holding
 
 	900.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -842,7 +842,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3935 = {	#Kukullovar
@@ -891,11 +891,11 @@
 ###c_szekelyfold
 540 = {		#Szekelyföld
 	culture = avar
-	religion = tengri_pagan
+	religion = orthodox
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -907,7 +907,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3929 = {	#Marosvasarhely aka Târgu Mures
@@ -936,11 +936,11 @@
 ###c_barcasag
 3942 = {	#Brasso
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = orthodox#gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 
 	937.1.1 = {
@@ -953,7 +953,7 @@
 	}
 	1150.1.1 = {
 		culture = franconian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3943 = {	#Balvanyos
@@ -976,11 +976,11 @@
 ###c_fogaras
 3940 = {	#Fogaras
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = orthodox#gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -992,7 +992,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	1187.1.1 = {
 		culture = vlach
@@ -1013,7 +1013,7 @@
 ###c_torda
 3924 = {	#Torda
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	867.1.1 = {
@@ -1021,7 +1021,7 @@
 	}
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	935.1.1 = {
 		holding = castle_holding
@@ -1034,7 +1034,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	#1150.1.1 = {
 		#culture = vlach
@@ -1073,11 +1073,11 @@
 ###c_beszterce
 3919 = {	#Beszterce
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1089,7 +1089,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	#1150.1.1 = {
 		#culture = vlach
@@ -1119,11 +1119,11 @@
 ###c_hunyad
 3931 = {	#Vajdahunyad
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = orthodox#gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1135,7 +1135,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	1337.1.1 = {
 		culture = vlach
@@ -1162,11 +1162,11 @@
 ###c_bihar
 520 = {		#Bihar / b_nagyvarad
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1178,7 +1178,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	#1300.1.1 = {
 		#culture = vlach
@@ -1216,7 +1216,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1228,7 +1228,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3904 = {	#Nagyhalmagy AKA Halmagiu
@@ -1247,11 +1247,11 @@
 ###c_bekes
 3873 = {	#Bekes
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1263,7 +1263,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3874 = {	#Svarvas AKA Szarvas
@@ -1278,11 +1278,11 @@
 ###c_szabolcs
 3889 = {	#Szabolcs
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1294,7 +1294,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3890 = {	#Nyír AKA Nyíregyháza
@@ -1319,11 +1319,11 @@
 ###c_szatmar
 3907 = {	#Szatmar
 	culture = avar
-	religion = tengri_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1335,7 +1335,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 	#1150.1.1 = {
 		#culture = vlach
@@ -1374,11 +1374,11 @@
 ###c_temes
 517 = {		#Temes
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = tengri_pagan
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	936.1.1 = {
 		culture = vlach
@@ -1390,7 +1390,7 @@
 	}
 	950.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3880 = {	#Lugos AKA Lugoj
@@ -1416,7 +1416,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1428,7 +1428,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3906 = {	#Lippa AKA Lipova
@@ -1443,7 +1443,7 @@
 ###c_krasso
 3882 = {	#Kraso
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = tengri_pagan
 	holding = tribal_holding
 
 	890.1.1 = {
@@ -1463,7 +1463,7 @@
 		culture = mogyer
 	}
 	1100.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		culture = hungarian
 	}
 }
@@ -1478,7 +1478,7 @@
 ###c_keve
 3877 = {	#Kevevar
 	culture = vlach#avar
-	religion = orthodox#tengri_pagan
+	religion = tengri_pagan
 	holding = tribal_holding
 
 	890.1.1 = {
@@ -1498,7 +1498,7 @@
 		religion = magyar_pagan
 	}
 	1100.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		culture = hungarian
 	}
 }
@@ -1526,7 +1526,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1538,7 +1538,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3872 = {	#Szeged
@@ -1561,7 +1561,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1573,7 +1573,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3830 = {	#Titel
@@ -1592,7 +1592,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1604,7 +1604,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3864 = {	#Zenta	AKA Senta
@@ -1625,7 +1625,7 @@
 	holding = tribal_holding
 
 	890.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 	937.1.1 = {
 		holding = castle_holding
@@ -1637,7 +1637,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3866 = {	#Kiskunhalas
@@ -1653,10 +1653,10 @@
 ###c_gyor
 3823 = {	#Gyor
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 		holding = castle_holding
 	}
 
@@ -1670,7 +1670,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3822 = {	#Moson	AKA Mosonmagyaróvár
@@ -1685,10 +1685,10 @@
 ###c_sopron
 3817 = {	#Sopron
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 
 	937.1.1 = {
@@ -1701,7 +1701,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3818 = {	#Kapuvar
@@ -1723,10 +1723,10 @@
 ###c_vas
 3820 = {	#Vasvar
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 
 	937.1.1 = {
@@ -1739,7 +1739,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3821 = {	#Kormend
@@ -1760,10 +1760,10 @@
 ###c_veszprem
 3826 = {	#Veszprem
 	culture = slovien
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
-		religion = catholic
+		religion = gothic_church
 	}
 
 	937.1.1 = {
@@ -1776,7 +1776,7 @@
 	}
 	1000.1.1 = {
 		culture = hungarian
-		religion = catholic
+		religion = gothic_church
 	}
 }
 3824 = {	#Zirc

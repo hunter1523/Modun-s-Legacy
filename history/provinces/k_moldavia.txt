@@ -3,13 +3,13 @@
 ###c_suceava
 545 = {		#Suceava
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1337.1.1 = {
@@ -38,13 +38,13 @@
 ###c_neamnt
 5031 = {	#Piatra Neamnt
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 	}
 }
 5032 = {	#Targu Neamnt
@@ -60,18 +60,18 @@
 ###c_dorohoi
 5038 = {	#Dorohoi
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1337.1.1 = {
 		culture = vlach
-		religion = orthodox
+		religion = gothic_church
 	}
 }
 5039 = {	#Harlau
@@ -81,14 +81,14 @@
 ###c_hotin
 5040 = {	#Hotin
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	special_building_slot = hotin_fort_01
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 		special_building = hotin_fort_01
 	}
@@ -116,13 +116,13 @@
 ###c_iasi
 541 = {		#Iasi
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1187.1.1 = {
@@ -139,18 +139,18 @@
 ###c_orhei
 5019 = {	#Orhei
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1187.1.1 = {
 		culture = vlach
-		religion = orthodox
+		religion = gothic_church
 	}
 }
 5020 = {	#Tuzara
@@ -160,13 +160,13 @@
 ###c_soroca
 5021 = {	#Soroca
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1337.1.1 = {
@@ -180,7 +180,7 @@
 ###c_barlad
 513 = {		#Barlad
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -199,7 +199,7 @@
 ###c_galati
 511 = {		#Galati
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -221,7 +221,7 @@
 ###c_stoenesti
 5029 = {	#Stoenesti
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -235,7 +235,7 @@
 ###c_tigheci
 5015 = {	#Tigheci
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -248,7 +248,7 @@
 ###c_cetatea_alba
 512 = {		#Cetatea Alba
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -264,7 +264,7 @@
 ###c_chilia
 5012 = {	#Chilia
 	culture = vlach
-	religion = orthodox
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -283,13 +283,13 @@
 ###c_lapusna
 5017 = {	#Lapusna
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		religion = orthodox
+		religion = gothic_church
 		culture = russian
 	}
 	1187.1.1 = {

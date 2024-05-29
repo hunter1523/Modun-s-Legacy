@@ -507,7 +507,7 @@
 ###c_meissen
 3027 = {	#MEISSEN
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -531,7 +531,7 @@
 ###c_dresden
 3030 = {	#DRESDEN
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -561,7 +561,7 @@
 ###c_wolkenstein
 3012 = {	#WOLKENSTEIN
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -581,7 +581,7 @@
 ###c_osterland
 3021 = {	#EILENBURG
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -610,7 +610,7 @@
 ###c_naumburg
 3020 = {	#NAUMBURG
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -630,7 +630,7 @@
 ###c_vogtland
 3039 = {	#REICHENBACH
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -665,7 +665,7 @@
 ###c_cottbus
 3181 = {	#COTTBUS
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -691,7 +691,7 @@
 ###c_gorlitz
 2980 = {	#GORLITZ
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
 		holding = castle_holding
@@ -717,7 +717,7 @@
 ###c_juterbog
 3180 = {	#JUTERBOG
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -744,7 +744,7 @@
 	religion = norse_pagan
 	800.1.1 = {
 		culture = sorbian
-		religion = slavic_pagan
+		religion = gothic_church
 	}
 	holding = tribal_holding
 	936.1.1 = {
@@ -762,7 +762,7 @@
 ###c_brene
 3025 = {	#TORGAU
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 
 	950.1.1 = {
@@ -778,7 +778,7 @@
 }
 3175 = {	#BRENE
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = none
 	936.1.1 = {
 		holding = castle_holding
@@ -792,7 +792,7 @@
 }
 3024 = {	#DUBEN
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = none
 	1100.1.1 = {
 		religion = catholic
@@ -802,7 +802,7 @@
 ###c_spreewald
 3140 = {	#SPREEWALD
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	937.1.1 = {
 		holding = castle_holding
@@ -826,7 +826,7 @@
 ###c_naumberg/Lubsko
 3143 = {	#NAUMBERG = LUBSKO
 	culture = sorbian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1000.1.1 = {
 		holding = castle_holding
@@ -849,7 +849,7 @@
 	religion = norse_pagan
 	800.1.1 = {
 		culture = polabian
-		religion = slavic_pagan
+		religion = gothic_church
 	}
 	holding = tribal_holding
 	# Christianity only arrived with the Danish king Valdemar I

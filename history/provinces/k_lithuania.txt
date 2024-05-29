@@ -219,8 +219,8 @@
 ##d_masuria ###################################
 ###c_torun (c_chelmno)
 3198 = {	#CHELMNO
-	culture = polish
-	religion = slavic_pagan
+	culture = prussian
+	religion = baltic_pagan
 	holding = tribal_holding
 	1065.1.1 = {
 		religion = catholic

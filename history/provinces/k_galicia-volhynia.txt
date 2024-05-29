@@ -117,7 +117,7 @@
 ###c_halych
 536 = {		#Halych
 	culture = white_croatian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -147,7 +147,7 @@
 ###c_lviv
 5063 = {	#Lviv
 	culture = volhynian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -183,7 +183,7 @@
 ###c_terebovl
 546 = {		#Terebovl
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -236,7 +236,7 @@
 ###c_cherven
 5073 = {	#Cherven
 	culture = volhynian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -270,7 +270,7 @@
 ###c_belz
 5077 = {	#Belz
 	culture = volhynian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -290,7 +290,7 @@
 ###c_peremyshl
 534 = {		#Peremyshl
 	culture = white_croatian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding

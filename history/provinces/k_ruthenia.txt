@@ -150,7 +150,7 @@
 ###c_ushytsia
 5098 = {	#Ushytsia
 	culture = tiverian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
