@@ -327,15 +327,8 @@ c_selge = {
 
 
 c_galatia_salutaris = {
-	330.1.1={
-		liege="d_anatolia"
-	}
-	769.1.1={
-		holder=145134
-	}
-	867.1.1={
-		holder=145137
-		liege = d_opsikion
+	855.1.1={
+		holder=anatolian_arab_05
 	}
 }
 
