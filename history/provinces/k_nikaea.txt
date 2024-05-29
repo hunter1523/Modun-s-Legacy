@@ -638,19 +638,6 @@
 
 }
 
-# 5563 - Pessinus
-5563 = {	# 5563 - Pessinus
-
-	# Misc
-	culture = lydian
-	religion = orthodox
-
-	holding = none
-
-	# History
-
-}
-
 # 5564 - Oka
 5564 = {	# 5564 - Oka
 

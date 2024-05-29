@@ -150,6 +150,21 @@
 	}
 }
 
+
+
+# 5563 - Pessinus
+5563 = {	# 5563 - Pessinus
+
+	# Misc
+	culture = lydian
+	religion = orthodox
+
+	holding = none
+
+	# History
+
+}
+
 # 5581 - Amastris
 5581 = {	# XXXX - XXX
 

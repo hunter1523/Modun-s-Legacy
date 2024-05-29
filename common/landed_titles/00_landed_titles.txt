@@ -10794,15 +10794,6 @@ e_byzantium = {
 
 					color = { 147 54 134 }
 				}
-				b_pessinus = {
-					province = 5563
-
-					color = { 147 54 134 }
-
-					cultural_names = {
-						name_list_turkish = cn_ballihisar
-					}
-				}
 			}
 		}
 		d_ephese = {
@@ -11280,15 +11271,7 @@ e_byzantium = {
 						name_list_turkish = cn_sorsovus
 					}
 				}
-				b_tabia = {
-					province = 5683
 
-					color = { 210 25 120 }
-
-					cultural_names = {
-						name_list_turkish = cn_buyuk_nefes
-					}
-				}
 			}
 			c_hadrianopolis = {
 				color = { 215 60 115 }
@@ -11934,6 +11917,15 @@ e_byzantium = {
 						name_list_turkish = cn_bolvadin
 					}
 				}
+				b_pessinus = {
+					province = 5563
+
+					color = { 147 54 134 }
+
+					cultural_names = {
+						name_list_turkish = cn_ballihisar
+					}
+				}
 				b_germa_anatolia = {
 					province = 5655
 
@@ -12509,7 +12501,15 @@ e_byzantium = {
 				cultural_names = {
 					name_list_turkish = cn_beyozu
 				}
+				b_tabia = {
+					province = 5683
 
+					color = { 210 25 120 }
+
+					cultural_names = {
+						name_list_turkish = cn_buyuk_nefes
+					}
+				}
 				b_euchaita = {
 					province = 5594
 

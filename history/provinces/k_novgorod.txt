@@ -3,7 +3,7 @@
 ###c_novgorod
 5137 = {	#Novgorod
 	culture = russian
-	religion = slavic_pagan
+	religion = finnish_pagan
 	holding = tribal_holding
 	867.1.1 = {
 		buildings = {
@@ -56,7 +56,7 @@
 ###c_rusa
 5143 = {	#Rusa
 	culture = ilmenian
-	religion = slavic_pagan
+	religion = finnish_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -88,7 +88,7 @@
 ###c_pskov
 5146 = {	#Pskov
 	culture = ilmenian
-	religion = slavic_pagan
+	religion = finnish_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -116,7 +116,7 @@
 ###c_sebezh
 5150 = {	#Sebezh
 	culture = ilmenian
-	religion = slavic_pagan
+	religion = finnish_pagan
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -140,7 +140,7 @@
 		holding = castle_holding
 	}
 	#1150.1.1 = {
-		#religion = slavic_pagan#orthodox
+		#religion = finnish_pagan#orthodox
 	#}
 }
 170 = {		#NOTEBORG
@@ -162,7 +162,7 @@
 	1187.1.1 = {
 		holding = castle_holding
 		culture = novgorodian
-		religion = slavic_pagan#orthodox
+		religion = finnish_pagan#orthodox
 	}
 }
 5157 = {	#Cherepovets
@@ -179,7 +179,7 @@
 	holding = tribal_holding
 	1150.1.1 = {
 		culture = novgorodian
-		religion = slavic_pagan#orthodox
+		religion = finnish_pagan#orthodox
 		holding = castle_holding
 	}
 }
@@ -206,7 +206,7 @@
 	religion = finnish_pagan
 	holding = tribal_holding
 	1150.1.1 = {
-		#religion = slavic_pagan#orthodox
+		#religion = finnish_pagan#orthodox
 		#culture = russian
 		holding = castle_holding
 	}
@@ -222,7 +222,7 @@
 ###c_luki
 5161 = {	#Luki
 	culture = ilmenian
-	religion = slavic_pagan
+	religion = finnish_pagan
 	holding = tribal_holding
 	936.1.1 = { culture = russian }
 	1187.1.1 = {
@@ -249,7 +249,7 @@
 	religion = finnish_pagan
 	holding = tribal_holding
 	1100.1.1 = {
-		religion = slavic_pagan#orthodox
+		religion = finnish_pagan#orthodox
 	}
 	1187.1.1 = {
 		culture = novgorodian
@@ -273,7 +273,7 @@
 	religion = finnish_pagan
 	holding = tribal_holding
 	1100.1.1 = {
-		religion = slavic_pagan#orthodox
+		religion = finnish_pagan#orthodox
 	}
 	1187.1.1 = {
 		holding = castle_holding
