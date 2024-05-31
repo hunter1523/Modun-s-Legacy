@@ -858,7 +858,7 @@
 5683 = {	# 5683 - Tabia
 
 	# Misc
-	culture = lydian
+	culture = pontic
 	religion = orthodox
 
 	holding = church_holding
