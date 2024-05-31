@@ -854,6 +854,19 @@
 	}
 }
 
+# 5683 - Tabia
+5683 = {	# 5683 - Tabia
+
+	# Misc
+	culture = lydian
+	religion = orthodox
+
+	holding = church_holding
+
+	# History
+
+}
+
 # 5689 - Oinaion
 5689 = {	# 5689 - Oinaion
 
