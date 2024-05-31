@@ -865,19 +865,6 @@
 
 }
 
-# 5683 - Tabia
-5683 = {	# 5683 - Tabia
-
-	# Misc
-	culture = lydian
-	religion = orthodox
-
-	holding = church_holding
-
-	# History
-
-}
-
 # 5684 - Ecobrogis
 5684 = {	# 5684 - Ecobrogis
 
