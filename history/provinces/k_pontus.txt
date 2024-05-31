@@ -156,7 +156,7 @@
 5563 = {	# 5563 - Pessinus
 
 	# Misc
-	culture = lydian
+	culture = pontic
 	religion = orthodox
 
 	holding = none
