@@ -72,7 +72,7 @@
 ###c_soldin (c_cedynia)
 3154 = {	#b_soldin CEDYNIA
 	culture = pommeranian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	972.1.1 = {
 		holding = castle_holding
@@ -279,7 +279,7 @@
 ###c_mecklenburg
 2807 = {	#WISMAR
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	936.1.1 = {
 		holding = castle_holding
@@ -316,7 +316,7 @@
 ###c_wolgast
 2817 = {	#WOLGAST
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1020.1.1 = {
 		holding = castle_holding
@@ -357,7 +357,7 @@
 ###c_rostock
 2809 = {	#ROSTOCK
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1050.1.1 = {
 		holding = castle_holding
@@ -375,7 +375,7 @@
 ###c_werle
 2812 = {	#WERLE
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1066.1.1 = {
 		holding = castle_holding
@@ -407,7 +407,7 @@
 # 3166 - BRANDENBURG
 3166 = {	#BRANDENBURG
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	948.1.1 = {
 		holding = castle_holding
@@ -436,7 +436,7 @@
 ###c_ruppin
 3168 = {	#RUPPIN
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	937.1.1 = {
 		holding = castle_holding
@@ -461,7 +461,7 @@
 ###c_berlin
 3158 = {	#BERLIN
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	950.1.1 = {
 		holding = castle_holding
@@ -484,7 +484,7 @@
 ###c_havelberg
 2814 = {	#HAVELBERG
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	946.1.1 = {
 		holding = church_holding
@@ -504,7 +504,7 @@
 ###c_prenzlau
 3160 = {	#PRENZLAU
 	culture = polabian
-	religion = slavic_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	950.1.1 = {
 		holding = castle_holding

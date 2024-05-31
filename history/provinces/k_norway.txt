@@ -3,7 +3,7 @@
 ###c_vingulmork
 234 = {	#OSLOSYSLAR	- Oslo
 	culture = norse
-	religion = norse_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1000.1.1 = {
 		holding = castle_holding
@@ -67,7 +67,7 @@
 ###c_vestfold
 286 = {	#TUNSBERG	aka Tønsberg
 	culture = norse
-	religion = norse_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	special_building_slot = heddal_stave_church_01 #Should probably be in SKIRINGSSAL, but placed here for balance and county holder access
 	1020.1.1 = {
@@ -131,7 +131,7 @@
 ###c_agdeside
 289 = {	#OTTRUNES	aka Oddernes, tied to Kristiansand
 	culture = norse
-	religion = norse_pagan
+	religion = gothic_church
 	holding = tribal_holding
 	1020.1.1 = {
 		culture = norwegian
