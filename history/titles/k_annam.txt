@@ -2,13 +2,8 @@
 #e_dai_viet = {
 #}
 
-k_jinghai = {
-    866.1.1 = {
-        holder = gao004 # Until 873
-        liege = e_celestia_china
-        government = chinese_government
-    }
-}
+#k_jinghai = {
+#}
 
 k_annam = {
     300.1.1 = { change_development_level = 3 }
@@ -19,8 +14,7 @@ k_annam = {
 d_son_tay = {
     866.1.1 = {
         holder = viet008
-        liege = k_jinghai
-        government = feudal_government
+        liege = e_nanyue
     }
 }
     c_phu_hoa ={
@@ -83,9 +77,9 @@ d_son_tay = {
 d_muong = {
 }
     c_ma_nam = {
-        866.1.1 = {
+        867.1.1 = {
             holder = viet004
-            liege = k_jinghai
+            liege = d_cuu_chan
         }
     }
     c_yen_moc = {
@@ -112,9 +106,9 @@ d_muong = {
     }
 
     c_hoa_binh = {
-        866.1.1 = {
+        867.1.1 = {
             holder = viet002
-            liege = k_jinghai
+            liege = d_cuu_chan
         }
     }
 d_cu_duc = {
@@ -124,8 +118,7 @@ d_cu_duc = {
 
     866.1.1 = {
         holder = viet010
-        liege = k_jinghai
-        government = feudal_government
+        liege = e_nanyue
     }
 }
     c_viet_thuong = {
@@ -165,8 +158,7 @@ d_cuu_chan = {
 
     866.1.1 = {
         holder = viet014
-        liege = k_jinghai
-        government = feudal_government
+        liege = e_nanyue
     }
 }
     c_truong_an = {
@@ -209,8 +201,7 @@ d_hai_dong = {
 
     866.1.1 = {
         holder = viet001
-        liege = k_jinghai
-        government = feudal_government
+        liege = e_nanyue
     }
 }
     c_tan_an = {
@@ -236,13 +227,13 @@ d_kinh_bac = {
 
     866.1.1 = {
         holder = viet017
-        liege = k_jinghai
-        government = feudal_government
+        liege = e_nanyue
     }
 }
     c_thanh_long = {
         866.1.1 = {
             holder = gao004
+            liege = d_kinh_bac
         }
     }
     c_bac_ha = {

@@ -3337,11 +3337,6 @@ e_celestia_china = {
 
                     color = { 200 140 0 }
                 }
-                b_tengxian_china = {
-                    province = 12874
-
-                    color = { 200 140 0 }
-                }
                 b_feixian_fengxian_china = {
                     province = 12828
 
@@ -3517,6 +3512,11 @@ e_celestia_china = {
                     province = 12921
 
                     color = { 66 103 215 }
+                }
+                b_tengxian_china = {
+                    province = 12874
+
+                    color = { 200 140 0 }
                 }
             }
             c_taishan_china = {

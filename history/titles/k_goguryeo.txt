@@ -171,13 +171,8 @@ k_goguryeo = {
         }
     }
         c_sheli = {
-            857.1.1 = {
-                holder = balhaev002
-                government = feudal_government
-                liege = k_balhae
-            }
-            1060.1.1 = {
-                holder = liaov036
+            850.1.1 = {
+                holder = xiongnu_04
             }
         }
         c_bakjak = {
@@ -191,13 +186,8 @@ k_goguryeo = {
             }
         }
         c_jian_an = {
-            857.1.1 = {
-                holder = balhaev002
-                government = feudal_government
-                liege = k_balhae
-            }
-            1060.1.1 = {
-                holder = liaov036
+            850.1.1 = {
+                holder = xiongnu_04
             }
         }
         c_liaocheng_goguryeo = {

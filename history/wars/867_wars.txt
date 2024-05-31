@@ -1,0 +1,10 @@
+﻿war = {
+	start_date = 867.1.1
+	end_date = 868.1.1
+	targeted_titles = {
+		e_nanyue
+	}
+	casus_belli = nation_fracturing_faction_war
+	attackers = { chinese_central_01 chinese_central_02 chinese_central_03 chinese_central_04 chinese_central_05 chinese_central_06 }
+	defenders = { chinese_nanyue_01 }
+}
