@@ -2,7 +2,7 @@
 ## d_pagan
     ### c_pagan
         9550 = { # b_pagan
-            culture = burmese
+            culture = pyu
             religion = ari
 
             holding = castle_holding
@@ -35,7 +35,7 @@
         }
     ### c_salin
         9554 = { # b_salin
-            culture = burmese
+            culture = pyu
             religion = ari
 
             holding = castle_holding
@@ -63,7 +63,7 @@
         }
     ### c_pakokku
         9555 = { # b_pakokku
-            culture = burmese
+            culture = pyu
             religion = ari
 
             holding = castle_holding
@@ -87,7 +87,7 @@
 
             holding = castle_holding
             882.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         9562 = { # b_shwesettaw
@@ -103,7 +103,7 @@
                 religion = theravada
             }
             1206.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         9564 = { # b_ngape
@@ -123,7 +123,7 @@
 
             holding = castle_holding
             893.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         9556 = { # b_ava
@@ -144,7 +144,7 @@
 
             holding = castle_holding
             873.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         9561 = { # b_remyo
@@ -160,7 +160,7 @@
 
             holding = castle_holding
             933.1.1 = {
-                culture = burmese
+                culture = pyu
             }
             1156.1.1 = {
                 religion = theravada
@@ -179,7 +179,7 @@
 
             holding = castle_holding
             933.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
 		11583 = { # b_natmauk
@@ -193,7 +193,7 @@
 
             holding = castle_holding
             1193.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         10959 = { # b_shwetaung
@@ -214,7 +214,7 @@
                 religion = theravada
             }
             1176.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         10961 = { # b_hpo_u
@@ -239,7 +239,7 @@
 
             holding = castle_holding
             1216.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
 		11578 = { # b_kanaung
@@ -252,7 +252,7 @@
             religion = ari
 
             882.1.1 = {
-                culture = burmese
+                culture = pyu
             }
             1236.1.1 = {
                 religion = theravada
@@ -274,7 +274,7 @@
             religion = ari
 
             882.1.1 = {
-                culture = burmese
+                culture = pyu
             }
             holding = castle_holding
         }
@@ -294,7 +294,7 @@
                 religion = theravada
             }
             1179.1.1 = {
-                culture = burmese
+                culture = pyu
             }
         }
         9575 = { # b_sinbaungwe
@@ -306,7 +306,7 @@
 
             holding = castle_holding
             882.1.1 = {
-                culture = burmese
+                culture = pyu
             }
             1223.1.1 = {
                 religion = theravada

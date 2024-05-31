@@ -3,8 +3,8 @@
 ## d_luang_prabang
     ### c_luang_prabang
         10040 = { # b_luang_prabang
-            culture = tai
-            religion = ban_phi
+            culture = khmu
+            religion = kuy_animism
 
             holding = tribal_holding
         }
@@ -54,8 +54,8 @@
 ## d_luang_nam_tha
     ### c_nam_tha
         10034 = { # b_nam_tha
-            culture = tai
-            religion = ban_phi
+            culture = khmu
+            religion = kuy_animism
 
             holding = tribal_holding
         }
@@ -413,8 +413,8 @@
         }
     ### c_tung_lang
         10873 = { # b_tung_lang
-            culture = palaung
-            religion = burmic
+                culture = tai
+                religion = ban_phi
 
             holding = tribal_holding
         }
@@ -433,8 +433,8 @@
         }
     ### c_muang_lay
         9950 = { # b_muang_lay
-            culture = khmu
-            religion = kuy_animism
+                culture = tai
+                religion = ban_phi
 
             holding = tribal_holding
         }

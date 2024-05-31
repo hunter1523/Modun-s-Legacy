@@ -715,8 +715,8 @@
         }
 	### c_bhamo
         9869 = { # b_cangwang # Bhamo
-            culture = kachin
-            religion = ari
+            culture = burmese
+            religion = theravada
 
             holding = tribal_holding
         }

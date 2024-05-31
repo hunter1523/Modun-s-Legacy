@@ -197,8 +197,8 @@
 # 9369 - Hohaseco
 9369 = {
 	# Misc
-	culture = tuyuhun
-	religion = tengri_pagan
+	culture = sumpa
+	religion = old_bon
 	
 	holding = tribal_holding #nomad
 	
@@ -846,8 +846,8 @@
 # 9413 - Datong
 9413 = {
 	# Misc
-	culture = tuyuhun
-	religion = tengri_pagan
+        culture = bodpa
+        religion = lamaism
 	
 	holding = castle_holding
 	

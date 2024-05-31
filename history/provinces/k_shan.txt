@@ -62,8 +62,8 @@
 	}
   ### c_mong_mit
 	9642 = { # b_mong_mit
-	    culture = palaung
-			religion = burmic
+		culture = palaung
+		religion = burmic
 
 			holding = tribal_holding
 		990.1.1 = {
@@ -105,8 +105,8 @@
 ## d_hsipaw
   ### c_hsipaw
 	9842 = { # b_hsipaw
-		culture = tai
-		religion = ban_phi
+		culture = palaung
+		religion = burmics
 
 		holding = tribal_holding
 		944.1.1 = {

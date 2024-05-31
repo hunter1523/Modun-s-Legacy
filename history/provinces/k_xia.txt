@@ -300,8 +300,8 @@
 ###c_shanzhou / tsongkha
 9418 = {	# Shanzhou/Zongge (Ping'an)
 	# Misc
-	culture = han
-	religion = zenzong
+            culture = bodpa
+            religion = lamaism
 
 	holding = castle_holding
 
@@ -350,8 +350,8 @@
 ###c_kuozhou
 9419 = {	# Kuozhou
 	# Misc
-	culture = tuyuhun
-	religion = tengri_pagan
+            culture = bodpa
+            religion = lamaism
 
 	holding = castle_holding
 

@@ -217,8 +217,8 @@
        	}
     # c_xizhou_dongchuan_china
         12141 = { # b_xizhounengzhou_china
-            culture = sichuan
-            religion = zhengyi
+            culture = hmong
+            religion = hmongism
 
             holding = castle_holding
        	}

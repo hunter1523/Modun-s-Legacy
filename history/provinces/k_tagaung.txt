@@ -7,7 +7,7 @@
 	### c_takon - County of Takon
 		9643 = {	# Takon (AKA Tagaung)
 			# Misc
-			culture = pyu
+			culture = burmese
 			religion = ari
 
 			holding = castle_holding
@@ -197,8 +197,8 @@
 		}
 	## c_mongyang
 		9870 = { 	# mongyang
-			culture = kachin
-			religion = ari
+			culture = burmese
+			religion = theravada
 
 			holding = tribal_holding
 

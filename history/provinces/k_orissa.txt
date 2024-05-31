@@ -131,8 +131,8 @@
 1156 = {	# 1156 - Kodalaka
 
 	# Misc
-	culture = oriya
-	religion = mahayana
+	culture = munda
+	religion = sarnaism
 
 	holding = tribal_holding
 
@@ -274,8 +274,8 @@
 1247 = {	# 1247 - Khijjinga
 
 	# Misc
-	culture = oriya
-	religion = mahayana
+	culture = munda
+	religion = sarnaism
 
 	holding = tribal_holding
 
@@ -291,8 +291,8 @@
 1249 = {	# 1249 - Sambalpur
 
 	# Misc
-	culture = oriya
-	religion = vaishnavism
+	culture = munda
+	religion = sarnaism
 
 	holding = tribal_holding
 
