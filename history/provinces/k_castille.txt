@@ -9,7 +9,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = castilian }
+	800.1.1 = { culture = galician }
 	1066.1.1 = {
 		buildings = {
 			curtain_walls_01
@@ -37,7 +37,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = castilian }
+	800.1.1 = { culture = galician }
 	950.1.1 = { religion = catholic }
 }
 1896 = {	# SIMANCAS
@@ -60,7 +60,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = castilian }
+	800.1.1 = { culture = galician }
 	950.1.1 = { religion = catholic }
 }
 1899 = {	# SAN ESTEBAN
@@ -87,7 +87,7 @@
 	# History
 	800.1.1 = { culture = iberian }
 	867.1.1 = { special_building_slot = alcazar_of_segovia_01 }
-	955.1.1 = { culture = castilian }
+	955.1.1 = { culture = galician }
 	1000.1.1 = { religion = catholic }
 	1120.1.1 = { special_building = alcazar_of_segovia_01 }
 }
@@ -126,7 +126,7 @@
 	religion = catholic
 
 	# History
-	800.1.1 = { culture = castilian }
+	800.1.1 = { culture = galician }
 }
 1802 = {	# SANTANDER
 	holding = city_holding
@@ -154,7 +154,7 @@
 	holding = castle_holding
 
 	# History
-	800.1.1 = { culture = castilian }
+	800.1.1 = { culture = galician }
 }
 1813 = {	# MIRANDA DE EBRO
 	holding = city_holding

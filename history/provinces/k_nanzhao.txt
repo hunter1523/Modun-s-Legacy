@@ -202,13 +202,8 @@
 ## d_yongchang
     ### c_yongchang
         9892 = { # b_yongchang
-            culture = tai
-            religion = ban_phi
-
-            900.1.1 = {
-                culture = bai
-                religion = benzhu
-            }
+            culture = achang
+            religion = burmic
 
             holding = castle_holding
         }
@@ -267,14 +262,6 @@
         10903 = { # b_mang_shuea
             culture = achang
             religion = burmic
-
-            1000.1.1 = {
-                culture = tai
-                religion = ban_phi
-            }
-            1150.1.1 = {
-                culture = shan
-            }
 
             holding = tribal_holding
         }

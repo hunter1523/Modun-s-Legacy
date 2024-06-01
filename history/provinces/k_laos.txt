@@ -352,8 +352,8 @@
         }
     ### c_meng_lun
         11402 = { # b_meng_lun
-            culture = tai
-            religion = ban_phi
+            culture = wa
+            religion = wa_animism
 
             1150.1.1 = {
                 culture = shan

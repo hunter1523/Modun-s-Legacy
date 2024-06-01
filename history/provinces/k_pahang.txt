@@ -66,8 +66,8 @@
         }
     ### c_terengganu
         10266 = {
-            culture = malay
-            religion = mahayana
+            culture = aslian
+            religion = kadai
 
             holding = castle_holding
         }
@@ -80,8 +80,8 @@
 ## d_pahang
     ### c_pekan
         10260 = { # b_pekan
-            culture = malay
-            religion = mahayana
+            culture = aslian
+            religion = kadai
 
             holding = castle_holding
 

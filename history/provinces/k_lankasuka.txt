@@ -405,8 +405,8 @@
         }
     ### c_beruas
         10250 = { # b_kuala_kangsar
-        	culture = malay
-            religion = shaivism
+            culture = mon
+            religion = mahayana
 
             holding = castle_holding
         }

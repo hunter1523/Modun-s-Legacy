@@ -26,8 +26,8 @@
 	}
   ### c_hsenwi
 	9845 = { # b_hsenwi
-		culture = tai
-		religion = ban_phi
+            culture = wa
+            religion = wa_animism
 
 		holding = tribal_holding
 		1060.1.1 = {
@@ -146,8 +146,8 @@
 	}
   ### c_laikha
 	9850 = { # b_laikha
-		culture = palaung
-		religion = burmic
+		culture = wa
+		religion = wa_animism
 
 		holding = tribal_holding
 	}
@@ -156,13 +156,8 @@
 	}
   ### c_mongnawng
 	9849 = { # b_mongnawng
-		culture = palaung
-		religion = burmic
-
-		1150.1.1 = {
-			culture = shan
-			religion = ban_phi
-		}
+		culture = wa
+		religion = wa_animism
 
 		holding = tribal_holding
 	}
@@ -172,13 +167,8 @@
 ## d_yawnghwe
   ### c_yawnghwe
 	9570 = { # b_yawnghwe
-    culture = palaung
-		religion = burmic
-
-		1150.1.1 = {
-			culture = shan
-			religion = ban_phi
-		}
+		culture = wa
+		religion = wa_animism
 
 		holding = tribal_holding
 	}
@@ -187,13 +177,8 @@
 	}
   ### c_loi_long
 	9835 = { # b_myelat
-    culture = karen
-		religion = burmic
-
-		1050.1.1 = {
-			culture = burmese
-			religion = ari
-		}
+		culture = pyu
+		religion = ari
 
 		holding = castle_holding
 	}
@@ -202,12 +187,8 @@
 	}
   ### c_hsi_hseng
 	9838 = { # b_hsi_hseng
-		culture = palaung
-		religion = burmic
-
-		900.1.1 = {
-			culture = karen
-		}
+		culture = wa
+		religion = wa_animism
 
 		holding = tribal_holding
 	}
@@ -219,13 +200,9 @@
 	}
   ### c_lawksawk
 	9840 = { # b_lawksawk
-		culture = palaung
-		religion = burmic
-
+		culture = wa
+		religion = wa_animism
 		holding = tribal_holding
-		1060.1.1 = {
-			religion = theravada
-		}
 	}
 	11406 = { # b_mongping
 		holding = none
@@ -233,21 +210,11 @@
 ## d_mongnai
   ### c_mongnai
 	9855 = { # b_mongnai
-	    culture = karen
-			religion = burmic
-
-			holding = tribal_holding
-
-			1050.1.1 = {
-				culture = tai
-				religion = ban_phi
-			}
-
-			1150.1.1 = {
-				culture = shan
-				religion = theravada
-			}
+        	culture = wa
+	  	religion = wa_animism
+		holding = tribal_holding
 	}
+
 	9856 = { # b_keng_tawng
 		holding = none
 	}
@@ -257,36 +224,18 @@
 	}
   ### c_mongpan
 	9858 = { # b_mongpan
-    culture = tai
-		religion = ban_phi
+        	culture = wa
+	  	religion = wa_animism
 
 		holding = tribal_holding
-
-		1050.1.1 = {
-			culture = tai
-			religion = ban_phi
-		}
-
-		1150.1.1 = {
-			culture = shan
-			religion = theravada
-		}
 	}
 	11396 = { # b_mongkyawt
 		holding = church_holding
 	}
   ### c_mawkmai
 	9857 = { # b_mawkmai
-    culture = karen
-		religion = burmic
-
-	  1050.1.1 = {
-	      culture = tai
-	      religion = ban_phi
-	  }
-	  1150.1.1 = {
-	      culture = shan
-	  }
+            culture = wa
+            religion = wa_animism
 
 		holding = tribal_holding
 	}
@@ -296,8 +245,8 @@
 ## d_mongpai
   ### c_mong_pai
 	9594 = { # b_mong_pai
-	    culture = karen
-		religion = burmic
+		culture = pyu
+		religion = ari
 
 		holding = tribal_holding
 	}
@@ -306,8 +255,8 @@
 	}
  ### c_karenni
 	9836 = { # b_loikaw
-	    culture = karen
-		religion = burmic
+        	culture = wa
+	  	religion = wa_animism
 
 		holding = tribal_holding
 	}

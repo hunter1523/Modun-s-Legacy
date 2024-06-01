@@ -36,9 +36,8 @@
         }
     ### c_hpa_an
         9823 = { # b_hpa_an
-            culture = karen
-            religion = burmic
-
+            culture = mon
+            religion = theravada
             holding = tribal_holding
         }
 		11538 = { # b_hlaingbwe
@@ -49,8 +48,8 @@
         }
 	### c_hpapun
         9883 = { # b_hpapun
-            culture = karen
-            religion = burmic
+            culture = wa
+            religion = wa_animism
 
 			holding = tribal_holding
         }
@@ -203,8 +202,8 @@
         }
     ### c_kawkareik
         9826 = { # b_kawkareik
-            culture = karen
-            religion = burmic
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
         }
@@ -216,8 +215,8 @@
         }
     ### c_nong_lu
 		10092 = { # b_nong_lu
-            culture = karen
-            religion = burmic
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
         }
@@ -229,8 +228,8 @@
         }
 	### c_pho_pha
 		11254 = { # b_pho_pha
-            culture = karen
-            religion = burmic
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
         }
@@ -273,8 +272,8 @@
 		}
     ### c_kainggyaung
         10664 = { # b_kainggyaung
-            culture = karen
-            religion = burmic
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
         }

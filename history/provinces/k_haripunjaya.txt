@@ -24,8 +24,8 @@
         }
     ### c_lampang
         10197 = { # b_lampang
-            culture = mon
-            religion = theravada
+            culture = karen
+            religion = burmic
 
             900.1.1 = {
                 culture = tai
@@ -44,8 +44,8 @@
         }
     ### c_phrae
         10125 = { # b_phrae
-            culture = wa
-            religion = theravada
+            culture = karen
+            religion = burmic
 
             900.1.1 = {
                 culture = tai
@@ -96,8 +96,8 @@
         }
     ### c_mae_ramat
         10087 = { # b_mae_ramat
-            culture = karen
-            religion = burmic
+            culture = mon
+            religion = theravada
 
             1050.1.1 = {
                 culture = tai
@@ -114,10 +114,6 @@
         11268 = { # b_chiang_mai
             culture = wa
             religion = theravada
-
-            1050.1.1 = {
-                culture = tai
-            }
 
             holding = tribal_holding
         }
@@ -137,19 +133,11 @@
         10076 = { # b_chang_khoeng
             holding = none
 
-            1060.1.1 = {
-                holding = church_holding
-            }
         }
     ### c_don
         10082 = { # b_ban_don
             culture = wa
             religion = wa_animism
-
-            1050.1.1 = {
-                culture = tai
-                religion = theravada
-            }
 
             holding = tribal_holding
         }
@@ -161,12 +149,8 @@
         }
     ### c_phrao
         10080 = { # b_phrao
-            culture = tai
-            religion = ban_phi
-
-            920.1.1 = {
-                religion = theravada
-            }
+            culture = wa
+            religion = theravada
 
             holding = tribal_holding
         }
@@ -181,12 +165,8 @@
         }
     ### c_hot
         11258 = { # b_hang_dong
-            culture = wa
+            culture = mon
             religion = theravada
-
-            1050.1.1 = {
-                culture = tai
-            }
 
             holding = tribal_holding
         }
@@ -198,11 +178,6 @@
             culture = wa
             religion = wa_animism
 
-            1050.1.1 = {
-                culture = tai
-                religion = theravada
-            }
-
             holding = tribal_holding
         }
         10084 = { # b_mae_sariang
@@ -211,12 +186,8 @@
 ## d_ngoenyang
     ### c_ngoenyang # Chiang Rai
         10072 = { # b_ngoenyang
-            culture = tai
-            religion = ban_phi
-
-            1050.1.1 = {
-                religion = theravada
-            }
+            culture = wa
+            religion = theravada
 
             holding = tribal_holding
         }
@@ -234,12 +205,8 @@
         }
     ### c_phayao
         10120 = { # b_phayao
-            culture = wa
-            religion = theravada
-
-            900.1.1 = {
-                culture = tai
-            }
+            culture = karen
+            religion = burmic
 
             holding = tribal_holding
         }
@@ -251,8 +218,8 @@
         }
     ### c_chiang_khong
         10074 = { # b_chiang_khong
-            culture = tai
-            religion = ban_phi
+            culture = wa
+            religion = theravada
 
             1050.1.1 = {
                 religion = theravada
@@ -266,8 +233,8 @@
 ## d_nan
     ### c_nan
         10121 = { # b_nan
-            culture = wa
-            religion = wa_animism
+            culture = karen
+            religion = burmic
 
             holding = tribal_holding
 
@@ -284,8 +251,8 @@
         }
     ### c_wiang_si_sa_ket
         11280 = { # b_si_sa_ket
-            culture = wa
-            religion = wa_animism
+            culture = karen
+            religion = burmic
 
             holding = tribal_holding
 
@@ -320,8 +287,8 @@
 ## d_phetchabun
     ### c_phetchabun
         10166 = { # b_phetchabun
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             800.1.1 = {
                 religion = theravada
@@ -362,8 +329,8 @@
         }
     ### c_dan_sai
         10137 = { # b_dan_sai
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             900.1.1 = {
                 culture = mon
@@ -380,8 +347,8 @@
         }
     ### c_ban_yaeng
         10139 = { # b_ban_yaeng
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             900.1.1 = {
                 culture = mon
