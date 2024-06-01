@@ -63,6 +63,42 @@ greek = {
 	}
 }
 
+anadulian = {
+	color = { 170 130 180 }
+	created = 800.1.1
+	parents = { levantine greek }
+	ethos = ethos_stoic
+	heritage = heritage_byzantine
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_philosopher_culture
+		tradition_medicinal_plants
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	name_list = name_list_greek
+
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		2 = european_med_greek_1
+		2 = european_med_greek_2
+		2 = european_med_greek_3
+		2 = european_med_greek_4
+		2 = european_med_italian_48
+		2 = european_med_italian_49
+		2 = european_med_italian_50
+		2 = european_med_italian_51
+	}
+}
+
 lydian = {
 	color = { 154 35 178 }
 
