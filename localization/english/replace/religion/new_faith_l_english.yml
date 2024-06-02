@@ -6,3 +6,10 @@
   gothic_church_adherent:0 "Arian"
   gothic_church_adherent_plural:0 "Arians"
   gothic_church_desc:0 "Arianism is a Christological doctrine considered heretical by all mainstream branches of Christianity. It is first attributed to Arius, a Christian presbyter who preached and studied in Alexandria, Egypt. Arian theology holds that Jesus Christ is the Son of God, who was begotten by God the Father with the difference that the Son of God did not always exist but was begotten/made before time by God the Father; therefore, Jesus was not coeternal with God the Father, but nonetheless Jesus began to exist outside time."
+
+ #Taoism
+ taiping:0 "Taiping"
+ taiping_adj:0 "Taiping"
+ taiping_adherent:0 "Taiping"
+ taiping_adherent_plural:0 "Taipings"
+ taiping_desc:0 "Taiping Taoism is a militant form of Taoism that was formed during Xiongnu rule of China as a resistance movement among the peasants. While the resulting rebellion was put down, the religion itself was not. Due to its origin, it is especially hostile towards religions perceived as foreign."

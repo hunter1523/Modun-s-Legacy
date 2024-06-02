@@ -310,5 +310,33 @@
 
 			doctrine = special_doctrine_three_teachings
 		}
+
+		taiping = {
+			color = { 67 185 158 }
+			icon = taoism_custom_1
+
+			# Base Tao Holy Sites
+			holy_site = zhuangzi
+			holy_site = louguantai
+			holy_site = wangwu_shan
+			holy_site = qingcheng_shan
+			holy_site = qiyun_shan
+
+			# Override to make them hostile towards other Eastern religions
+			doctrine = pagan_hostility_doctrine
+
+			#Main Group
+			doctrine = doctrine_pluralism_fundamentalist
+
+			#Clerical Functions
+			doctrine = doctrine_clerical_function_recruitment
+			doctrine = doctrine_clerical_succession_temporal_appointment
+
+			doctrine = tenet_mendicant_preachers
+			doctrine = tenet_communal_possessions
+			doctrine = tenet_unrelenting_faith
+
+			#doctrine = special_doctrine_three_teachings
+		}
 	}
 }
