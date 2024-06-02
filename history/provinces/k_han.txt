@@ -1,7 +1,7 @@
 ﻿
-## d_sichuanzhong_china
+## d_hanzhong_china
     # c_nanzheng_china
-        12647 = { # b_sichuanzhongnanzheng_china
+        12647 = { # b_hanzhongnanzheng_china
             culture = sichuan
             religion = zhengyi
         }
@@ -14,7 +14,7 @@
         12752 = { # b_baoxiedao_china
             #
         }
-    # c_fengzhou_sichuanzhong_china
+    # c_fengzhou_hanzhong_china
         12739 = { # b_fengzhouliangquan_china
             culture = sichuan
             religion = zhengyi
@@ -25,7 +25,7 @@
         12788 = { # b_dasanguan_china
             #
         }
-    # c_xingzhou_sichuanzhong_china
+    # c_xingzhou_hanzhong_china
         12691 = { # b_xingzhoushunzheng_china
             culture = sichuan
             religion = zhengyi
@@ -33,7 +33,7 @@
         12664 = { # b_bailaoguan_china
             #
         }
-    # c_lizhou_sichuanzhong_china
+    # c_lizhou_hanzhong_china
         12602 = { # b_lizhou_miangu_china
             culture = sichuan
             religion = zhengyi
@@ -47,7 +47,7 @@
         12570 = { # b_jiamengguan_china
             #
         }
-    # c_yangzhou_sichuanzhong_china
+    # c_yangzhou_hanzhong_china
         12634 = { # b_yangzhou_xixiang_china
             culture = sichuan
             religion = zhengyi
@@ -68,7 +68,7 @@
                 culture = sichuan
             }
         }
-        12483 = { # b_wussichuan_china
+        12483 = { # b_wushan_china
             #
         }
         12425 = { # b_yunaan_china
@@ -77,7 +77,7 @@
     # c_fuzhou_ba_china
         12261 = { # b_fuling_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
 
             900.1.1 = {
                 culture = sichuan
@@ -89,13 +89,13 @@
         12216 = { # b_binhua_china
             #
         }
-        12361 = { # b_liangssichuan_dianjiang_china
+        12361 = { # b_liangshan_dianjiang_china
             #
         }
     # c_zhongzhou_ba_china
         12345 = { # b_zhongzhou_linjiang_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
 
             900.1.1 = {
                 culture = sichuan
@@ -113,7 +113,7 @@
                 culture = sichuan
             }
         }
-        12475 = { # b_kaizhou_shengssichuan_china
+        12475 = { # b_kaizhou_shengshan_china
             #
         }
     # c_zigui_china
@@ -128,10 +128,10 @@
         12491 = { # b_badong_china
             #
         }
-## d_jinssichuang_china
-    # c_ssichuangzhou_qin_china
-        12727 = { # b_ssichuangzhou_ssichuangluo_china
-            culture = sichuan
+## d_jinshang_china
+    # c_shangzhou_qin_china
+        12727 = { # b_shangzhou_shangluo_china
+            culture = han
             religion = zenzong
         }
         12709 = { # b_wuguan_china
@@ -140,7 +140,7 @@
         12756 = { # b_luonan_china
             #
         }
-    # c_jinzhou_sichuanzhong_china
+    # c_jinzhou_hanzhong_china
         12616 = { # b_jinzhou_xicheng_china
             culture = sichuan
             religion = zenzong
@@ -148,17 +148,17 @@
         12615 = { # b_ankang_china
             #
         }
-        12635 = { # b_sichuanyin_china
+        12635 = { # b_hanyin_china
             #
         }
         12648 = { # b_xunyang_china
             #
         }
-        12609 = { # b_nvwassichuan_china
+        12609 = { # b_nvwashan_china
             #
         }
     # c_ziwudao_china
-        12662 = { # b_fangssichuanguan_china
+        12662 = { # b_fangshanguan_china
             culture = sichuan
             religion = zenzong
         }
@@ -172,7 +172,7 @@
     # c_bazhou_ba_china
         12537 = { # b_bazhou_damu_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
 
             900.1.1 = {
                 culture = sichuan
@@ -187,7 +187,7 @@
     # c_langzhou_ba_china
         12530 = { # b_langzhong_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
 
             900.1.1 = {
                 culture = sichuan
@@ -202,7 +202,7 @@
     # c_guozhou_ba_china
         12392 = { # b_guozhou_nanchong_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
         }
         12432 = { # b_xiangru_china
             #
@@ -210,7 +210,7 @@
     # c_quzhou_ba_china
         12474 = { # b_pengzhou_dayin_china
             culture = sichuan
-            religion = ssichuangqing
+            religion = shangqing
 
             900.1.1 = {
                 culture = sichuan
