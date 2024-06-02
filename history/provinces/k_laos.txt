@@ -81,11 +81,6 @@
             religion = burmic
 
             holding = tribal_holding
-
-            900.1.1 = {
-                culture = tai
-                religion = ban_phi
-            }
         }
         10032 = { # b_nam_kha
             holding = none
@@ -96,8 +91,8 @@
 ## d_phongsali
     ### c_phongsali
         10666 = { # b_phongsali
-            culture = palaung
-            religion = burmic
+            culture = tai
+            religion = ban_phi
 
             holding = tribal_holding
         }
@@ -213,8 +208,8 @@
         }
     ### c_viengthong
         11374 = { # b_viengthong
-            culture = khmu
-            religion = kuy_animism
+            culture = tai
+            religion = ban_phi
 
             holding = tribal_holding
         }

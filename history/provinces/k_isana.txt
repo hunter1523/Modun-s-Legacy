@@ -34,12 +34,8 @@
         }
     ### c_phang_phrao
         10142 = { # b_phang_phrao
-            culture = mon
-            religion = theravada
-
-            1050.1.1 = {
-                culture = tai
-            }
+            culture = tai
+            religion = ban_phi
 
             holding = castle_holding
         }
@@ -278,15 +274,8 @@
         }
     ### c_pakse
         10067 = { # b_pakse
-            culture = kuy
-            religion = kuy_animism
-
-            900.1.1 = {
-                religion = theravada
-            }
-            1050.1.1 = {
-                culture = tai
-            }
+            culture = tai
+            religion = ban_phi
 
             holding = castle_holding
         }
@@ -436,12 +425,8 @@
         }
     ### c_phra_lap
         10134 = { # b_phra_lap
-            culture = mon
-            religion = theravada
-
-            1150.1.1 = {
-                culture = tai
-            }
+            culture = tai
+            religion = ban_phi
 
             holding = castle_holding
         }

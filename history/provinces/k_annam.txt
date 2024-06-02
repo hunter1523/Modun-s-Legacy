@@ -158,8 +158,8 @@
         }
     ### c_sam_tay
         11378 = { # b_sam_tay
-            culture = khmu
-            religion = kuy_animism
+            culture = tai
+            religion = ban_phi
 
             holding = tribal_holding
         }

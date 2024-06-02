@@ -2,7 +2,7 @@
 ## d_lingnan_china
     # c_nanhai_china
         12784 = { # b_guangzhou_nanhai_china
-            culture = han
+            culture = yue
             religion = zhengyi
 
             1050.1.1 = {
@@ -58,7 +58,7 @@
         }
     # c_duanzhou_china
         12786 = { # b_duanzhou_gaoyao_china
-            culture = han
+            culture = yue
             religion = zhengyi
 
             1050.1.1 = {
@@ -73,7 +73,7 @@
         }
     # c_xinhui_china
         12720 = { # b_xinxing_fulin_china
-            culture = han
+            culture = yue
             religion = zhengyi
 
             1050.1.1 = {
@@ -282,7 +282,7 @@
 ## d_hepu_china
     # c_gaozhou_china
         12640 = { # b_gaozhou_dianbai_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -318,7 +318,7 @@
         }
     # c_qinzhou_gui_china
         12684 = { # b_qinzhou_qinjiang_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -343,7 +343,7 @@
 ## d_rongguan_china
     # c_rongzhou_gui_china
         12692 = { # b_rongzhou_beiliu_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -360,7 +360,7 @@
         }
     # c_yulinzhou_china
         12731 = { # b_yulinzhou_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {

@@ -368,15 +368,9 @@
 ## d_sayaburi
     ### c_sayaburi
         10037 = { # b_sayaburi
-            culture = khmu
-            religion = kuy_animism
+            culture = tai
+            religion = ban_phi
 
-            holding = tribal_holding
-
-            900.1.1 = {
-                culture = tai
-                religion = ban_phi
-            }
         }
         11367 = { # b_phiang
             holding = none
