@@ -348,27 +348,8 @@ c_subei = {
 
 
 c_dunhuang = {
-	770.1.1 = {
-		liege = e_tibet # conquered by Tibet
-		holder = bodpa0253
-	}
-	800.1.1 = {
-		holder = bodpa0254
-	}
-	820.1.1 = {
-		holder = bodpa0255
-	}
-	840.1.1 = {
-		holder = bodpa0256
-	}
-	860.1.1 = {
-		holder = bodpa0258
-	}
-	#Qocho
 	866.1.1 = {
-		liege = k_qocho
-		holder = uyghur0096
-		government = feudal_government
+		holder = sogdian0003
 	}
 }
 

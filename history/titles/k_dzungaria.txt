@@ -15,48 +15,21 @@
 }
 
 d_agni = {
-	#Kingdom of Qocho founded in 843
-	843.1.1 = {
-		holder = 302970	#Pangtele Ediz/Bilge
-		liege = k_qocho
-		government = feudal_government
-	}
-	864.10.1 = {
-		holder = 302972	#Bokut Bilge
-	}
 	866.1.1 = {
 		holder = sogdian0003
 	}
 }
     c_bayanbulak = {
-		843.1.1 = {
-			holder = 302970	#Pangtele Ediz/Bilge
-		}
-		864.10.1 = {
-			holder = 302972	#Bokut Bilge
-		}
 		866.1.1 = {
 			holder = sogdian0003
 		}
 	}
     c_karasahr = {
-		843.1.1 = {
-			holder = 302970	#Pangtele Ediz/Bilge
-		}
-		864.10.1 = {
-			holder = 302972	#Bokut Bilge
-		}
 		866.1.1 = {
 			holder = sogdian0003
 		}
 	}
     c_kuruk_tagh = {
-		843.1.1 = {
-			holder = 302970	#Pangtele Ediz/Bilge
-		}
-		864.10.1 = {
-			holder = 302972	#Bokut Bilge
-		}
 		866.1.1 = {
 			holder = sogdian0003
 		}
@@ -123,36 +96,27 @@ d_manas = {
 			liege = k_qocho
 		}
 	}
-d_turpan = {
-
-	#Kingdom of Qocho founded in 843
-	843.1.1 = {
-		holder = 302970	#Pangtele Ediz/Bilgä
-		government = feudal_government
-	}
-	864.10.1 = {
-		holder = 302972	#Bokut Bilgä
-	}
-}
+#d_turpan = {
+#}
     c_turfan = {
-        864.10.1 = {
-            holder = 302972 #Bokut Bilgä
-        }
+		866.1.1 = {
+			holder = sogdian0003
+		}
     }
     c_piqan = {
-    	864.10.1 = {
-            holder = 302972 #Bokut Bilgä
-        }
+		866.1.1 = {
+			holder = sogdian0003
+		}
     }
     c_wupu = {
-    	864.10.1 = {
-            holder = 302972 #Bokut Bilgä
-        }
+		866.1.1 = {
+			holder = sogdian0003
+		}
     }
     c_qara_del = {
-    	864.10.1 = {
-            holder = 302972 #Bokut Bilgä
-        }
+		866.1.1 = {
+			holder = sogdian0003
+		}
     }
 d_beiting = {
 }

@@ -16423,25 +16423,6 @@ e_qixi = {
         d_yettishar = {
             color = { 200 121 180 }
 
-            c_terek = {
-                color = { 196 110 174 }
-
-                b_taldyk = {
-                    province = 13808
-
-                    color = { 196 110 174 }
-                }
-                b_sary-tash = {
-                    province = 7967
-
-                    color = { 196 110 174 }
-                }
-                b_erkeshtam = {
-                    province = 7966
-
-                    color = { 196 110 174 }
-                }
-            }
             c_kashgar = {
                 color = { 211 146 195 }
 
@@ -16528,10 +16509,54 @@ e_qixi = {
                     color = { 203 128 184 }
                 }
             }
+            c_terek = {
+                color = { 196 110 174 }
+
+                b_taldyk = {
+                    province = 13808
+
+                    color = { 196 110 174 }
+                }
+                b_sary-tash = {
+                    province = 7967
+
+                    color = { 196 110 174 }
+                }
+                b_erkeshtam = {
+                    province = 7966
+
+                    color = { 196 110 174 }
+                }
+            }
         }
         d_shanshan = {
             color = { 121 200 200 }
 
+            c_charkliq = {
+                color = { 110 196 196 }
+
+                b_charkliq = {
+                    province = 1442
+
+                    color = { 110 196 196 }
+                }
+                b_chelik = {
+                    province = 7993
+
+                    color = { 110 196 196 }
+                }
+                b_miran = {
+                    province = 7999
+
+                    color = { 110 196 196 }
+                }
+                b_bangmo_TEMP = {
+                    province = 13782
+
+                    color = { 110 196 196 }
+                }
+
+            }
             c_saca = {
                 color = { 74 181 181 }
 
@@ -16593,31 +16618,6 @@ e_qixi = {
 
                     color = { 128 203 203 }
                 }
-            }
-            c_charkliq = {
-                color = { 110 196 196 }
-
-                b_charkliq = {
-                    province = 1442
-
-                    color = { 110 196 196 }
-                }
-                b_chelik = {
-                    province = 7993
-
-                    color = { 110 196 196 }
-                }
-                b_miran = {
-                    province = 7999
-
-                    color = { 110 196 196 }
-                }
-                b_bangmo_TEMP = {
-                    province = 13782
-
-                    color = { 110 196 196 }
-                }
-
             }
             c_lop_nur = {
                 color = { 146 211 211 }
@@ -16777,20 +16777,6 @@ e_qixi = {
         d_agni = {
             color = { 163 46 75 }
 
-            c_bayanbulak = {
-                color = { 199 56 92 }
-
-                b_bayanbulak = {
-                    province = 7206
-
-                    color = { 199 56 92 }
-                }
-                b_dashankou = {
-                    province = 12749
-
-                    color = { 199 56 92 }
-                }
-            }
             c_karasahr = {
                 color = { 159 45 73 }
 
@@ -16842,6 +16828,20 @@ e_qixi = {
                     province = 7984
 
                     color = { 179 50 83 }
+                }
+            }
+            c_bayanbulak = {
+                color = { 199 56 92 }
+
+                b_bayanbulak = {
+                    province = 7206
+
+                    color = { 199 56 92 }
+                }
+                b_dashankou = {
+                    province = 12749
+
+                    color = { 199 56 92 }
                 }
             }
         }

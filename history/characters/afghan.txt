@@ -321,9 +321,6 @@
 	846.1.1 = {
 		birth = yes
 	}
-	865.1.1 = {
-		religion = maturidi
-	}
 	868.1.1 = {
 		death = yes
 	}
@@ -337,11 +334,8 @@
 	823.1.1 = {
 		birth = yes
 	}
-	865.1.1 = {
-		death = {
-			death_reason = death_battle
-			killer = 163101
-		}
+	880.1.1 = {
+		death = yes
 	}
 }
 188712 = {
@@ -352,14 +346,6 @@
 	father = 188711
 	850.1.1 = {
 		birth = yes
-	}
-	866.1.1 = {
-		employer = 175060
-		religion = ashari
-		effect = {
-			set_relation_nemesis = character:163101 #Ya'qub Saffarid
-			make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:zun_pagan }
-		}
 	}
 	873.1.1 = {
 		death = yes
@@ -374,12 +360,6 @@
 	father = 188711
 	846.1.1 = {
 		birth = yes
-	}
-	866.1.1 = {
-		religion = ashari
-		effect = {
-			make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:zun_pagan }
-		}
 	}
 	900.1.1 = {
 		death = yes
@@ -397,7 +377,6 @@
 	}
 	866.1.1 = {
 		employer = 175060
-		religion = shaivism
 	}
 	900.1.1 = {
 		death = yes
@@ -751,16 +730,11 @@ extra_afghanis_5 = {
 extra_afghanis_6 = {
 	name = "Salih"
 	dynasty = 1042110 # Zunbil
-	religion = "ashari"
+	religion = "zun_pagan"
 	culture = "afghan"
 	father = extra_afghanis_5
 	824.10.18 = {
 		birth = yes
-	}
-	866.1.1 = {
-		effect = {
-			make_character_crypto_religionist_effect = { CRYPTO_RELIGION = faith:zun_pagan }
-		}
 	}
 	885.1.1 = {
 		death = yes

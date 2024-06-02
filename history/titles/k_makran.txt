@@ -1366,7 +1366,7 @@ c_rudbar = {
 
 c_bost = {
 	680.1.1 = {
-		liege = d_sistan
+		liege = d_zabulistan
 		holder = 188701 # Zunbil founder
 	}
 	687.1.1 = {
@@ -1389,66 +1389,5 @@ c_bost = {
 	}
 	850.1.1 = {
 		holder = 188711 # Kabak Zunbil
-	}
-	865.1.1 = {
-		holder = 188710 # Zunbil cousin
-	}
-	936.1.1 = {
-		holder = 261099
-	}
-	1066.1.1 = {
-		liege = k_kabulistan
-		holder = 93137
-	}
-	1080.1.1 = {
-		holder = 93138
-	}
-	1090.1.2 = {
-		holder = 93272
-	}
-	1103.1.1 = {
-		holder = 93273
-	}
-	1164.1.1 = {
-		holder = 93274
-	}
-	1167.1.1 = {
-		holder = 93275
-	}
-	1168.1.1 = {
-		holder = 93276
-	}
-	1215.1.1 = {
-		holder = 93277
-	}
-	1221.1.1 = {
-		holder = 93278
-	}
-	1222.1.1 = {
-		holder = 93279
-	}
-	1222.7.1 = {
-		holder = 93280
-	}
-	1223.1.1 = {
-		holder = 93281
-	}
-	1225.1.1 = {
-		liege = "d_sistan"
-		holder = 93278
-	}
-	1226.1.1 = {
-		holder = 93285
-	}
-	1255.1.1 = {
-
-		holder = 93287
-	}
-	1318.1.1 = {
-		holder = 93288
-	}
-	1331.1.1 = {
-		holder = 93291
-		liege = 0
 	}
 }
