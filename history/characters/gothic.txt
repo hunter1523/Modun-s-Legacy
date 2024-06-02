@@ -12,7 +12,7 @@
 ardacian_01 = {
 	name = "Ardaric"
 	religion = "catholic"
-	culture = "crimean_gothic"
+	culture = "gepid"
 	820.1.1 = {
 		birth = yes
 	}

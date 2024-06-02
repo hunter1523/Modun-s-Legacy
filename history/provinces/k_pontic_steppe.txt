@@ -2,7 +2,7 @@
 ##d_yedisan ###################################
 ###c_odessa
 543 = {	#Kara-Kerman
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
@@ -29,7 +29,7 @@
 
 ###c_ladyzyn
 5257 = {	#Ladyzyn
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
@@ -52,7 +52,7 @@
 
 ###c_uman
 5260 = {	#Yary
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
@@ -75,7 +75,7 @@
 
 ###c_cherkassy
 5263 = {	#Cherkassy
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
@@ -101,7 +101,7 @@
 
 ###c_kherson
 5269 = {	#Kherson
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {
@@ -125,7 +125,7 @@
 
 ###c_dnipro
 5274 = {	#Dnipro
-	culture = mogyer
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	895.1.2 = {

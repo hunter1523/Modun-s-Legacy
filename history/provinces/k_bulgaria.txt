@@ -11,7 +11,7 @@
 ##d_vidin ###################################
 ###c_vidin
 506 = {		#Vidin
-	culture = vlach
+	culture = dacian
 	religion = orthodox
 	holding = tribal_holding
 	893.1.1 = {
@@ -47,7 +47,7 @@
 
 ###c_branicevo
 3664 = {	#Branicevo
-	culture = vlach
+	culture = dacian
 	religion = orthodox
 	holding = tribal_holding
 	893.1.1 = {
@@ -436,7 +436,7 @@
 
 ###c_ohrid
 471 = {		#Ochrid
-	culture = bulgarian
+	culture = greek
 	religion = orthodox
 	holding = castle_holding
 	950.1.1 = {

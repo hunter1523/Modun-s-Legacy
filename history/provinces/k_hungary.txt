@@ -2,7 +2,7 @@
 ##d_visegrad ###################################
 ###c_visegrad
 3803 = {	#Buda
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -71,8 +71,6 @@
 	1000.1.1 = {
 		holding = city_holding
 	}
-	#1st mention in 1156 but already occupied by avars
-	#Set as city in 1000 when culture changes to hungarian
 }
 
 ###c_esztergom
@@ -144,7 +142,7 @@
 
 ###c_hewes
 523 = {		#Hewes
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -169,8 +167,6 @@
 
 	950.1.1 = {
 		holding = city_holding
-		#notably inhabited by avars and other indigenous people
-		#set as city_holding when culture changes to hungarian
 	}
 }
 3869 = {	#Gyongyospata
@@ -825,7 +821,7 @@
 ##d_transylvania ###################################
 ###c_feher
 519 = {		#Feher
-	culture = avar
+	culture = gepid
 	religion = orthodox
 	holding = tribal_holding
 
@@ -890,7 +886,7 @@
 
 ###c_szekelyfold
 540 = {		#Szekelyföld
-	culture = avar
+	culture = gepid
 	religion = orthodox
 	holding = tribal_holding
 
@@ -935,7 +931,7 @@
 
 ###c_barcasag
 3942 = {	#Brasso
-	culture = vlach#avar
+	culture = vlach
 	religion = orthodox#gothic_church
 	holding = tribal_holding
 
@@ -975,7 +971,7 @@
 
 ###c_fogaras
 3940 = {	#Fogaras
-	culture = vlach#avar
+	culture = vlach
 	religion = orthodox#gothic_church
 	holding = tribal_holding
 
@@ -1012,7 +1008,7 @@
 
 ###c_torda
 3924 = {	#Torda
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1072,7 +1068,7 @@
 
 ###c_beszterce
 3919 = {	#Beszterce
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1118,7 +1114,7 @@
 
 ###c_hunyad
 3931 = {	#Vajdahunyad
-	culture = vlach#avar
+	culture = vlach
 	religion = orthodox#gothic_church
 	holding = tribal_holding
 
@@ -1161,7 +1157,7 @@
 ##d_bihar ###################################
 ###c_bihar
 520 = {		#Bihar / b_nagyvarad
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1211,7 +1207,7 @@
 
 ###c_zarand
 3903 = {	#Zarand
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1246,7 +1242,7 @@
 
 ###c_bekes
 3873 = {	#Bekes
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1277,7 +1273,7 @@
 
 ###c_szabolcs
 3889 = {	#Szabolcs
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1318,7 +1314,7 @@
 
 ###c_szatmar
 3907 = {	#Szatmar
-	culture = avar
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -1373,7 +1369,7 @@
 ##d_temes ###################################
 ###c_temes
 517 = {		#Temes
-	culture = vlach#avar
+	culture = vlach
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1411,7 +1407,7 @@
 
 ###c_arad
 3905 = {	#Arad
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1442,7 +1438,7 @@
 
 ###c_krasso
 3882 = {	#Kraso
-	culture = vlach#avar
+	culture = vlach
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1477,7 +1473,7 @@
 
 ###c_keve
 3877 = {	#Kevevar
-	culture = vlach#avar
+	culture = vlach
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1521,7 +1517,7 @@
 
 ###c_csanad
 521 = {		#Csanad
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1556,7 +1552,7 @@
 ##d_bacs ###################################
 ###c_bacs
 518 = {		#Bacs
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1587,7 +1583,7 @@
 
 ###c_bodrog
 3863 = {	#Bodrog
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1620,7 +1616,7 @@
 
 ###c_csongrad
 3865 = {	#Csongrad
-	culture = avar
+	culture = gepid
 	religion = tengri_pagan
 	holding = tribal_holding
 

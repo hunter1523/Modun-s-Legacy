@@ -238,7 +238,7 @@
 ##d_bosna ###################################
 ###c_rama
 3527 = {	#Visoki
-	culture = bosnian
+	culture = illyrian
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -266,7 +266,7 @@
 
 ###c_donjikraji
 3507 = {	#Jajce
-	culture = bosnian
+	culture = illyrian
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -287,7 +287,7 @@
 
 ###c_vhrbosna
 3567 = {	#Vhrbosna
-	culture = bosnian
+	culture = illyrian
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -311,7 +311,7 @@
 
 ###c_pset
 3522 = {	#Bihac
-	culture = bosnian
+	culture = illyrian
 	religion = bosnian_church
 	holding = castle_holding
 }
@@ -330,10 +330,10 @@
 ###c_vodica / krajina
 3519 = {	#Vodicevo
 	culture = croatian
-	religion = catholic#bosnian_church
+	religion = catholic
 	holding = castle_holding
 	1000.1.1 = {
-		#culture = bosnian
+		#culture = illyrian
 		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
 	}
 }
@@ -347,12 +347,8 @@
 ###c_vrbas
 3516 = {	#Vrbaški Grad / b_banjaluka
 	culture = croatian
-	religion = catholic#bosnian_church
+	religion = catholic
 	holding = castle_holding
-	1000.1.1 = {
-		#culture = bosnian
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
-	}
 }
 3515 = {	#Gradiška
 	holding = city_holding
@@ -365,17 +361,12 @@
 ###c_usora
 3513 = {	#Srebrenik
 	culture = croatian
-	culture = serbian
+	culture = illyrian
 	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
 		#Serbs convert in 870
-	}
-	936.1.1 = {
-		culture = bosnian
-		religion = bosnian_church
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
 	}
 }
 463 = {		#Usora
@@ -402,18 +393,12 @@
 
 ###c_soli
 3510 = {	#Soli
-	culture = croatian
-	culture = serbian
+	culture = illyrian
 	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
 		religion = orthodox
 		#Serbs convert in 870
-	}
-	1000.1.1 = {
-		culture = bosnian
-		religion = bosnian_church
-		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
 	}
 }
 3509 = {	#Bijeljina
@@ -432,9 +417,7 @@
 ##d_usora ###################################
 ###c_zachlumia
 466 = {		#Zachlumia
-	#culture = bosnian
-	#religion = bosnian_church
-	culture = serbian
+	culture = illyrian
 	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
@@ -466,7 +449,7 @@
 
 ###c_zelengora
 3560 = {	#Gacko
-	culture = serbian
+	culture = illyrian
 	religion = catholic
 	holding = castle_holding
 	870.1.1 = {
@@ -485,8 +468,8 @@
 
 ###c_zavrsje
 3501 = {	#Hlivno
-	culture = croatian#bosnian
-	religion = catholic#bosnian_church
+	culture = croatian
+	religion = catholic
 	holding =  castle_holding
 
 }
@@ -512,11 +495,6 @@
 	culture = croatian
 	religion = catholic
 	holding = castle_holding
-	950.1.1 = {
-		#Slower spread out to the culture from the Dinaric Alps.
-		religion = catholic#bosnian_church
-		#culture = bosnian
-	}
 }
 3553 = {	#Omiš
 	holding = none
@@ -531,7 +509,7 @@
 ##d_ragusa ###################################
 ###c_ragusa #Dubrovnik
 468 = {		#Ragusa
-	culture = dalmatian #serbian
+	culture = dalmatian
 	religion = orthodox#catholic #catholic
 	holding = castle_holding
 	870.1.1 = {

@@ -147,7 +147,7 @@
 ##d_benevento ###################################
 ###c_benevento
 2609 = {	#BENEVENTO
-	culture = lombard
+	culture = italian
 	religion = catholic
 	holding = castle_holding
 	1098.1.1 = { culture = sicilian }
@@ -193,7 +193,7 @@
 ##d_capua ###################################
 ###c_capua
 2606 = {	#CAPUA
-	culture = lombard
+	culture = italian
 	religion = catholic
 	holding = castle_holding
 	1098.1.1 = { culture = sicilian }
@@ -373,8 +373,8 @@
 
 ###c_cosenza
 2628 = {	#COSENZA
-	culture = greek
-	religion = orthodox
+	culture = italian
+	religion = catholic
 	holding = castle_holding
 	1074.1.1 = {
 		culture = sicilian

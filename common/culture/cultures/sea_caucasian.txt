@@ -162,7 +162,7 @@ megrel = {
 }
 
 circassian = {
-	color = { 55 138 211 }
+	color = { 42 107 17 }
 	created = 100.1.1
 	parents = { zichian }
 	history_loc_override = NWC_history_loc
@@ -197,7 +197,7 @@ circassian = {
 }
 
 abkhaz = {
-	color = { 117 109 206 }
+	color = { 117 100 17 }
 	created = 100.1.1
 	parents = { zichian }
 	history_loc_override = NWC_history_loc
@@ -261,7 +261,7 @@ afrabasgi = {
 }
 
 alan = {
-	color = { 0.7 0.5 0.6 }
+	color = { 135 74 13 }
 	created = 100.1.1
 	parents = { saka paranakh }
     history_loc_override = alan_history_loc

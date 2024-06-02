@@ -80,7 +80,7 @@
 ##d_ancona ###################################
 ###c_ancona
 2594 = {	#ANCONA
-	culture = italian
+	culture = lombard
 	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
@@ -115,7 +115,7 @@
 
 ###c_fermo
 2598 = {	#FERMO
-	culture = italian
+	culture = lombard
 	religion = catholic
 	holding = castle_holding
 }
@@ -148,7 +148,7 @@
 
 ###c_orvieto
 2568 = {	#ORVIETO
-	culture = lombard
+	culture = italian
 	religion = catholic
 	holding = castle_holding
 	936.1.1 = {

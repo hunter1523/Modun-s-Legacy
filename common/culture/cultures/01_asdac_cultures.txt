@@ -38,6 +38,43 @@
 	}
 }
 
+dacian = {
+
+	color = asdac_illyrian
+
+	ethos = ethos_communal
+	heritage = heritage_byzantine
+	language = language_albanian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes #Albania is mountainous
+		tradition_stalwart_defenders
+		tradition_roman_legacy
+	}
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists #Illyrians
+		requires_dlc_flag = hybridize_culture
+	}
+
+	name_list = name_list_arberian
+
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		2 = european_med_greek_1
+		2 = european_med_greek_2
+		2 = european_med_greek_3
+		2 = european_med_greek_4
+		2 = european_med_italian_48
+		2 = european_med_italian_49
+		2 = european_med_italian_50
+		2 = european_med_italian_51
+	}
+}
+
 dalmatian = {
 	parents = { roman illyrian }
 
@@ -93,6 +130,47 @@ crimean_gothic = {
 	unit_gfx = { eastern_unit_gfx }
 
 	ethnicities = { #Done because in CK2 they used German portraits
+		3 = european_caucasian_blond_1
+		3 = european_caucasian_blond_2
+		3 = european_caucasian_blond_3
+		3 = european_caucasian_blond_4
+		3 = european_caucasian_blond_5
+		3 = european_caucasian_blond_6
+		3 = european_caucasian_ginger_1
+		3 = european_caucasian_ginger_2
+		3 = european_caucasian_brown_1
+		3 = european_caucasian_brown_2
+		3 = european_caucasian_brown_3
+		3 = european_caucasian_brown_4
+		3 = european_caucasian_brown_5
+		3 = european_caucasian_dark_1
+		3 = european_caucasian_dark_2
+		3 = european_caucasian_dark_3
+		3 = european_caucasian_dark_4
+		3 = european_caucasian_dark_5
+	}
+}
+
+gepid = {
+	color = { 191 99 42 }
+	ethos = ethos_bellicose
+	heritage = heritage_east_germanic
+	language = language_gepid
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_astute_diplomats
+		tradition_stand_and_fight
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
 		3 = european_caucasian_blond_1
 		3 = european_caucasian_blond_2
 		3 = european_caucasian_blond_3
@@ -577,7 +655,7 @@ luri = {
 }
 
 illyrian = { #Ancestor culture
-	color = asdac_illyrian
+	color = { 153 53 60 }
 
 	ethos = ethos_communal
 	heritage = heritage_byzantine

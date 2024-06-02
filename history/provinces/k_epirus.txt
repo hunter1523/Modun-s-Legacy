@@ -128,7 +128,7 @@
 
 ###c_antipatreia / Albanian Toskeria
 3713 = {	#Antipatreia
-	culture = arberian
+	culture = greek
 	religion = orthodox
 	holding = castle_holding
 }
@@ -151,7 +151,7 @@
 
 ###c_avlonas
 3711 = {	#Avlonas
-	culture = arberian
+	culture = greek
 	religion = orthodox
 	holding = castle_holding
 }
