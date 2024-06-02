@@ -2,7 +2,7 @@
 736 = {	# 736 - Lykandos
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -18,7 +18,7 @@
 754 = {	# 754 - Sozopolis
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -34,7 +34,7 @@
 755 = {	# 755 - Attaleia
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -47,7 +47,7 @@
 758 = {	# 758 - Seleukia
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -62,7 +62,7 @@
 759 = {	# 759 - Ikonion
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -109,7 +109,7 @@
 761 = {	# 761 - Tarsus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -132,7 +132,7 @@
 762 = {	# 762 - Adana
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -145,7 +145,7 @@
 4895 = {	# 4895 - Al-Haruniya
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	# History
@@ -160,7 +160,7 @@
 4896 = {	# 4896 - Tall Hamid
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	# History
@@ -175,7 +175,7 @@
 4897 = {	# 4897 - Ayas
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	# History
@@ -190,7 +190,7 @@
 5610 = {	# 5610 - Comana
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -203,7 +203,7 @@
 5611 = {	# 5611 - Arabissus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -216,7 +216,7 @@
 5612 = {	# 5612 - Cocussus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -229,7 +229,7 @@
 5624 = {	# 5624 - Mallus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -242,7 +242,7 @@
 5625 = {	# 5625 - Anazabirus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -255,7 +255,7 @@
 5626 = {	# 5626 - Faustinopolis
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -268,7 +268,7 @@
 5627 = {	# 5627 - Podandus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -421,7 +421,7 @@
 5635 = {	# 5635 - Corycus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -434,7 +434,7 @@
 5636 = {	# 5636 - Claudiopolis
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -447,7 +447,7 @@
 5637 = {	# 5637 - Adrasos
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -463,7 +463,7 @@
 5638 = {	# 5638 - Anemurium
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -476,7 +476,7 @@
 5639 = {	# 5639 - Selinus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -489,7 +489,7 @@
 5640 = {	# 5640 - Korakesion
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -502,7 +502,7 @@
 5641 = {	# 5641 - Side
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -515,7 +515,7 @@
 5642 = {	# 5642 - Cremna
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -527,7 +527,7 @@
 5643 = {	# 5643 - Phaselis
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -543,7 +543,7 @@
 5644 = {	# 5644 - Limyra
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -556,7 +556,7 @@
 5645 = {	# 5645 - Myra
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -569,7 +569,7 @@
 5646 = {	# 5646 - Olbasa
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -582,7 +582,7 @@
 5647 = {	# 5647 - Telmessos
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -594,7 +594,7 @@
 5648 = {	# 5648 - Cibyra
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -607,7 +607,7 @@
 5649 = {	# 5649 - Cridus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -620,7 +620,7 @@
 5650 = {	# 5650 - Aphrodisias
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -652,7 +652,7 @@
 5652 = {	# 5652 - Nakoleia
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -672,7 +672,7 @@
 5653 = {	# 5653 - Midaeum
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -692,7 +692,7 @@
 5654 = {	# 5654 - Polybotus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -712,7 +712,7 @@
 5655 = {	# 5655 - Germa
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -732,7 +732,7 @@
 5656 = {	# 5656 - Tyraion
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -752,7 +752,7 @@
 5657 = {	# 5657 - Philomelium
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -771,7 +771,7 @@
 5658 = {	# 5658 - Amorion
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -791,7 +791,7 @@
 5659 = {	# 5659 - Docimium
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -811,7 +811,7 @@
 5660 = {	# 5660 - Synnada
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -831,7 +831,7 @@
 5661 = {	# 5661 - Antiochia
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -851,7 +851,7 @@
 5662 = {	# 5662 - Neapolis
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -871,7 +871,7 @@
 5663 = {	# 5663 - Adada
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -891,7 +891,7 @@
 5664 = {	# 5664 - Selge
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -910,7 +910,7 @@
 5665 = {	# 5665 - Sagalassus
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -930,7 +930,7 @@
 5666 = {	# 5666 - Parlais
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -950,7 +950,7 @@
 5667 = {	# 5667 - Salda
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -970,7 +970,7 @@
 5668 = {	# 5668 - Kaklauma
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -990,7 +990,7 @@
 5669 = {	# 5669 - Ouasada
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -1010,7 +1010,7 @@
 5670 = {	# 5670 - Mistea
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -1030,7 +1030,7 @@
 5671 = {	# 5671 - Lystra
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -1050,7 +1050,7 @@
 5672 = {	# 5672 - Isaura
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = castle_holding
@@ -1070,7 +1070,7 @@
 5673 = {	# 5673 - Laranalia
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = city_holding
@@ -1090,7 +1090,7 @@
 5674 = {	# 5674 - Soloi
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -1110,7 +1110,7 @@
 5675 = {	# 5675 - Derbe
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -1130,7 +1130,7 @@
 5676 = {	# 5676 - Barata
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none
@@ -1150,7 +1150,7 @@
 5677 = {	# 5677 - Pappa
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = church_holding
@@ -1170,7 +1170,7 @@
 5678 = {	# 5678 - Katakekaumene
 
 	# Misc
-	culture = greek
+	culture = anadulian
 	religion = orthodox
 
 	holding = none

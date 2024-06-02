@@ -331,8 +331,8 @@
         }
     ### c_wang_saphung
         11297 = { # b_wang_saphung
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
 
@@ -362,8 +362,8 @@
         }
     ### c_nong_bua_lam_phu
         10133 = { # b_nong_bua_lam_phu
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
 
@@ -396,8 +396,8 @@
         }
     ### c_ka_long
         11444 = { # b_ka_long
-            culture = wa
-            religion = wa_animism
+            culture = mon
+            religion = theravada
 
             holding = tribal_holding
 

@@ -2,8 +2,8 @@
 ## d_haripunjaya
     ### c_haripunjaya
         10081 = { # b_haripunjaya
-            culture = mon
-            religion = theravada
+            culture = wa
+            religion = wa_animism
 
             holding = castle_holding
         }
@@ -24,8 +24,8 @@
         }
     ### c_lampang
         10197 = { # b_lampang
-            culture = karen
-            religion = burmic
+            culture = wa
+            religion = wa_animism
 
             900.1.1 = {
                 culture = tai
@@ -165,8 +165,8 @@
         }
     ### c_hot
         11258 = { # b_hang_dong
-            culture = mon
-            religion = theravada
+            culture = wa
+            religion = wa_animism
 
             holding = tribal_holding
         }
@@ -205,8 +205,8 @@
         }
     ### c_phayao
         10120 = { # b_phayao
-            culture = karen
-            religion = burmic
+            culture = wa
+            religion = wa_animism
 
             holding = tribal_holding
         }
@@ -272,8 +272,8 @@
         }
     ### c_phichai
         11281 = { # b_phichai
-            culture = mon
-            religion = theravada
+            culture = karen
+            religion = burmic
 
             holding = castle_holding
 
@@ -315,8 +315,8 @@
         }
     ### c_ken_thao
         10039 = { # b_ken_thao
-            culture = mon
-            religion = theravada
+            culture = karen
+            religion = burmic
 
             900.1.1 = {
                 culture = tai

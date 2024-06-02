@@ -349,7 +349,7 @@
 ##d_crimea ###################################
 ###c_kerch
 562 = {		#Kerch
-	culture = greek
+	culture = pontic
 	religion = orthodox
 	holding = castle_holding
 	867.1.1 = {

@@ -54,8 +54,8 @@
         }
 	### c_mindat
         11520 = { # b_mindat
-            culture = meitei
-            religion = sanamahi_pagan
+            culture = pyu
+            religion = ari
 			holding = tribal_holding
         }
 		11573 = { # b_htilin

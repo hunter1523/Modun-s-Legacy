@@ -39,11 +39,6 @@
             religion = kuy_animism
 
             holding = tribal_holding
-
-            900.1.1 = {
-                culture = tai
-                religion = ban_phi
-            }
         }
         11356 = { # b_houn_lo
             holding = none
@@ -67,8 +62,8 @@
         }
     ### c_kengcheng
         10033 = { # b_muang_sing
-            culture = khmu
-            religion = kuy_animism
+            culture = palaung
+            religion = burmic
 
             holding = tribal_holding
 
@@ -82,8 +77,8 @@
         }
     ### c_huai_sai
         11354 = { # b_huai_sai
-            culture = khmu
-            religion = kuy_animism
+            culture = palaung
+            religion = burmic
 
             holding = tribal_holding
 
@@ -101,8 +96,8 @@
 ## d_phongsali
     ### c_phongsali
         10666 = { # b_phongsali
-            culture = khmu
-            religion = kuy_animism
+            culture = palaung
+            religion = burmic
 
             holding = tribal_holding
         }
@@ -320,8 +315,8 @@
 ## d_chiang_hung
     ### c_chiang_hung
         9915 = { # b_chiang_hung
-            culture = tai
-            religion = ban_phi
+            culture = palaung
+            religion = burmic
 
             1150.1.1 = {
                 culture = shan
@@ -337,8 +332,8 @@
         }
     ### c_mengla
         10894 = { # b_mengla
-            culture = khmu
-            religion = kuy_animism
+            culture = palaung
+            religion = burmic
 
             holding = tribal_holding
         }
@@ -413,8 +408,8 @@
         }
     ### c_tung_lang
         10873 = { # b_tung_lang
-                culture = tai
-                religion = ban_phi
+            culture = tai
+            religion = ban_phi
 
             holding = tribal_holding
         }

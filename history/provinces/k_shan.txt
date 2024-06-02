@@ -16,8 +16,8 @@
 	}
   ### c_namhsan
     9844 = { # b_namhsan
-	    culture = palaung
-			religion = burmic
+		culture = palaung
+		religion = burmic
 
 		holding = tribal_holding
 	}
@@ -26,17 +26,9 @@
 	}
   ### c_hsenwi
 	9845 = { # b_hsenwi
-            culture = wa
-            religion = wa_animism
-
-		holding = tribal_holding
-		1060.1.1 = {
-			religion = theravada
-		}
-
-		1150.1.1 = {
-			culture = shan
-		}
+            culture = palaung
+            religion = burmic
+	    holding = tribal_holding
 	}
 	9846 = { # b_lashio
 		holding =  church_holding
@@ -90,10 +82,10 @@
 	}
   ### c_hopang
 	9852 = { # b_hopang
-	    culture = wa
-		religion = wa_animism
+            culture = palaung
+            religion = burmic
 
-		holding = tribal_holding
+            holding = tribal_holding
 	}
 	9947 = { # b_pangwaun
 		holding = none
@@ -105,8 +97,8 @@
 ## d_hsipaw
   ### c_hsipaw
 	9842 = { # b_hsipaw
-		culture = palaung
-		religion = burmics
+		culture = wa
+		religion = wa_animism
 
 		holding = tribal_holding
 		944.1.1 = {
@@ -128,18 +120,10 @@
 	}
   ### c_mongkung
 	9841 = { # b_mongkung
-			culture = palaung
-			religion = burmic
+		culture = wa
+		religion = wa_animism
 
 			holding = tribal_holding
-		980.1.1 = {
-			culture = tai
-			religion = ban_phi
-		}
-
-		1150.1.1 = {
-			culture = shan
-		}
   }
 	9848 = { # b_kyethi
 		holding = none

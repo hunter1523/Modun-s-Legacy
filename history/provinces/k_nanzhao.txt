@@ -297,8 +297,8 @@
 ## d_kainan
     ### c_buri_yn
         11601 = { # b_buri_yn
-            culture = wa
-            religion = wa_animism
+            culture = tai
+            religion = ban_phi
 
             holding = tribal_holding
         }

@@ -74,7 +74,7 @@ anadulian = {
 	traditions = {
 		tradition_maritime_mercantilism
 		tradition_philosopher_culture
-		tradition_medicinal_plants
+		tradition_hit_and_run
 	}
 	dlc_tradition = {
 		trait = tradition_fp2_ritualised_friendship
