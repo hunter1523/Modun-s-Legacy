@@ -9,3 +9,14 @@
 		death = yes
 	}
 }
+khorasani_02 = { #Vardanid
+	name = "Jahangir"
+	religion = "zayidi"
+	culture = "tajik"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
