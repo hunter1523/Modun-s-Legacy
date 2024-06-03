@@ -200,7 +200,7 @@
 						catalyst_raided_involved = minor_struggle_catalyst_gain
 
 						# Caliphal things.
-						catalyst_missing_caliphate_or_arabian_empire = monumental_struggle_catalyst_over_time_gain
+						catalyst_missing_roman_empire = monumental_struggle_catalyst_over_time_gain
 						catalyst_caliph_or_emperor_loses_revolt_war = major_struggle_catalyst_gain
 						catalyst_caliph_or_emperor_accepts_faction_demands = minor_struggle_catalyst_gain
 						catalyst_caliph_died_violently = massive_struggle_catalyst_gain
@@ -362,7 +362,7 @@
 						catalyst_raided_involved = minor_struggle_catalyst_gain
 
 						# Caliphal things.
-						catalyst_missing_caliphate_or_arabian_empire = monumental_struggle_catalyst_over_time_gain
+						catalyst_missing_roman_empire = monumental_struggle_catalyst_over_time_gain
 						catalyst_caliph_or_emperor_loses_revolt_war = major_struggle_catalyst_gain
 						catalyst_caliph_or_emperor_accepts_faction_demands = minor_struggle_catalyst_gain
 						catalyst_caliph_died_violently = massive_struggle_catalyst_gain

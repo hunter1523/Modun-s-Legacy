@@ -69,6 +69,7 @@ catalyst_revealed_secret_faith_non_islam = {}
 ### Passage of Time
 catalyst_passing_of_time = {}
 catalyst_missing_caliphate_or_arabian_empire = {}
+catalyst_missing_roman_empire = {}
 
 ### Prison interactions
 catalyst_execute_important = {}
