@@ -1,0 +1,3 @@
+﻿
+## custom Generic List
+gothic_eagle.dds = { colors = 3 category = animals }

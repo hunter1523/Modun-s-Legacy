@@ -1,0 +1,13 @@
+﻿#######################
+# IRANIAN INTERMEZZO  #
+#######################
+750.1.1 = {
+	effect = {
+		if = {
+			start_struggle = {
+				struggle_type = shadow_empire_struggle
+				start_phase = struggle_persia_phase_unrest
+			}
+		}		
+	}
+}
