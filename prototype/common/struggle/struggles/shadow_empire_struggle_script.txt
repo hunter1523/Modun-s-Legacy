@@ -27,18 +27,18 @@
 	}
 
 	involvement_prerequisite_percentage = 0.5 # Easier to join the struggle due to the nature of the conflict
-
-	on_start = {
+        #idk what do here 
+	#on_start = {
 		# Start the over-time catalysts.
-		trigger_event = neutral_struggle.0001
+		#trigger_event = neutral_struggle.0001
 		# Tell the AI to change sides every now and then.
-		trigger_event = {
-			id = fp3_struggle.0001
-			years = { 1 5 }
-		}
-	}
+		#trigger_event = {
+		#	id = fp3_struggle.0001
+		#	years = { 1 5 }
+		#}
+	#}
 
-	transition_state_duration = { months = 3 }
+	transition_state_duration = { months = 6 }
 
 	on_change_phase = {
 		# If relevant, gather data on when we changed phase.
@@ -46,7 +46,7 @@
 			limit = { gather_debug_variables_for_persian_struggle_trigger = yes }
 			# Are we switching out of the Concession phase?
 			if = {
-				limit = { is_struggle_phase = struggle_persia_phase_stabilisation }
+				limit = { is_struggle_phase = shadow_empire_struggle_phase_settlement }
 				increment_global_variable_effect = {
 					VAL = 1
 					VAR = sp_phase_stabil
@@ -68,8 +68,8 @@
 		if = {
 			limit = {
 				NOR = {
-					has_trait = fp3_struggle_supporter
-					has_trait = fp3_struggle_detractor
+					has_trait = s_empire_struggle_loyal
+					has_trait = s_empire_struggle_disloyal
 					culture = { has_cultural_pillar = heritage_turkic }
 					fp3_character_involved_in_struggle_trigger = no
 				}
@@ -111,16 +111,16 @@
 				}
 
 			}
-			add_trait = fp3_struggle_supporter
+			add_trait = s_empire_struggle_loyal
 		}
 		else_if = {
 			limit = {
 				NOR = {
-					has_trait = fp3_struggle_supporter
-					has_trait = fp3_struggle_detractor
+					has_trait = s_empire_struggle_loyal
+					has_trait = s_empire_struggle_disloyal
 				}
 			}
-			add_trait = fp3_struggle_detractor
+			add_trait = s_empire_struggle_disloyal
 		}
 
 		if = {
@@ -136,7 +136,7 @@
 	
 	phase_list = {
 
-		struggle_persia_phase_stabilisation = {
+		shadow_empire_struggle_phase_settlement = {
 			duration = { points = 500 }
 
 			future_phases = {
@@ -301,7 +301,7 @@
 			duration = { points = 500 }
 
 			future_phases = {
-				struggle_persia_phase_stabilisation = {
+				shadow_empire_struggle_phase_settlement = {
 					catalysts = {
 						# global catalysts
 						catalyst_yearly_influential_house_is_harmonious_major = major_struggle_catalyst_gain
