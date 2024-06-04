@@ -1,3 +1,9 @@
 ﻿
 ## custom Generic List
-gothic_eagle.dds = { colors = 3 category = animals }
+ce_eagle_gothic.dds = { colors = 3 category = animals }
+ce_eagle_parthian_left.dds = { colors = 1 category = animals }
+ce_eagle_parthian_right.dds = { colors = 1 category = animals }
+ce_bull_macedon.dds = { colors = 3 category = animals }
+ce_goat_macedon.dds = { colors = 3 category = animals }
+ce_sun_argead.dds = { colors = 1 category = nature }
+ce_sun_parthian.dds = { colors = 1 category = nature }
