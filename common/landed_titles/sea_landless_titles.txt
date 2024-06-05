@@ -180,6 +180,8 @@ e_nusantara = { # Created by decision
 e_nanyue = { # Created by decision
     color = { 111 44 88 }
 
+    capital = c_nanhai_china
+
     ai_primary_priority = {
         add = @always_primary_score
     }

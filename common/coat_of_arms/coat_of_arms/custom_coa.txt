@@ -26,3 +26,20 @@ k_dalriada = {
 
 	}
 }
+e_bashu = {
+	pattern="pattern_solid.dds"
+	color1 = "green"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "d_ba.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.3 0.45 } scale = { 1 1 }  }
+	}
+	colored_emblem = {
+		texture = "ce_seal_shu.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.7 0.45 } scale = { 0.8 0.8 }  }
+	}
+}

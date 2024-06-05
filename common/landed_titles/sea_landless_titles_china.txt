@@ -96,3 +96,10 @@ e_jin = {
 k_jeongan = {
     color = { 94 98 117 }
 }
+
+# New
+e_bashu = {
+    color = { 99 193 68 }
+
+    capital = c_chengdu_china
+}

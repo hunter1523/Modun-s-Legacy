@@ -8,16 +8,30 @@ e_nanyue = {
 	}
 }
 
+e_bashu = {
+	850.1.1 = {
+		holder = chinese_bashu_01
+	}
+}
+
 k_zhao_china = {
 	867.1.1 = { change_development_level = 14 }
 	936.1.1 = { change_development_level = 15 }
 	1032.1.1 = { change_development_level = 16 }
+
+	50.1.1 = {
+		de_jure_liege = e_jin
+	}
 }
 
 k_qin_china = {
 	867.1.1 = { change_development_level = 12 }
 	936.1.1 = { change_development_level = 10 }
 	1032.1.1 = { change_development_level = 14 }
+
+	50.1.1 = {
+		de_jure_liege = e_jin
+	}
 }
 
 d_xijing_china = {
@@ -58,6 +72,10 @@ k_yan_china = {
 	936.1.1 = { change_development_level = 18 }
 	1032.1.1 = { change_development_level = 20 }
 
+	50.1.1 = {
+		de_jure_liege = e_jin
+	}
+
 	850.1.1 = {
 		holder = xiongnu_04
 	}
@@ -69,6 +87,10 @@ k_jin_china = {
 	867.1.1 = { change_development_level = 12 }
 	936.1.1 = { change_development_level = 16 }
 	1032.1.1 = { change_development_level = 18 }
+
+	50.1.1 = {
+		de_jure_liege = e_jin
+	}
 
 	850.1.1 = {
 		holder = xiongnu_03
@@ -183,6 +205,10 @@ k_xia_china = {
 	936.1.1 = { change_development_level = 8 }
 	1032.1.1 = { change_development_level = 10 }
 
+	50.1.1 = {
+		de_jure_liege = e_jin
+	}
+
 	850.1.1 = {
 		holder = xiongnu_02
 	}
@@ -245,6 +271,10 @@ d_xiazhou_china = {
 k_longxi_china = {
 	300.1.1 = { change_development_level = 7 }
     1066.1.1 = { change_development_level = 20 }
+
+	50.1.1 = {
+		de_jure_liege = e_bashu
+	}
 }
 
 d_fengxiang_china = {
@@ -273,8 +303,8 @@ k_shu_china = {
 	936.1.1 = { change_development_level = 9 }
 	1032.1.1 = { change_development_level = 11 }
 
-	850.1.1 = {
-		holder = chinese_bashu_01
+	50.1.1 = {
+		de_jure_liege = e_bashu
 	}
 }
 
@@ -363,6 +393,10 @@ d_yongping_china = {
 k_han_china = {
 	300.1.1 = { change_development_level = 7 }
     1066.1.1 = { change_development_level = 20 }
+
+	50.1.1 = {
+		de_jure_liege = e_bashu
+	}
 }
 d_longxi_china = {
 	867.1.1 = { change_development_level = 8 }
@@ -481,6 +515,10 @@ k_zhou_china = {
 	867.1.1 = { change_development_level = 16 }
 	936.1.1 = { change_development_level = 18 }
 	1032.1.1 = { change_development_level = 22 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 
 d_heluo_china = {
@@ -543,12 +581,20 @@ d_heluo_china = {
 k_liang_china = {
 	800.1.1 = { change_development_level = 15 }
     1066.1.1 = { change_development_level = 25 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 
 k_wu_china = {
 	867.1.1 = { change_development_level = 14 }
 	936.1.1 = { change_development_level = 16 }
 	1032.1.1 = { change_development_level = 18 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 d_huainan_china = {
 	867.1.1 = { change_development_level = 14 }
@@ -638,6 +684,10 @@ k_qi_china = {
 	800.1.1 = { change_development_level = 15 }
 	900.1.1 = { change_development_level = 20 }
     1050.1.1 = { change_development_level = 25 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 
 d_zhenghua_china = {
@@ -792,6 +842,10 @@ k_yue_china = {
 	867.1.1 = { change_development_level = 14 }
 	936.1.1 = { change_development_level = 15 }
 	1032.1.1 = { change_development_level = 16 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 
 d_zhenhai_china = {
@@ -844,6 +898,10 @@ d_zhenhai_china = {
 k_nanyue_china = {
 	300.1.1 = { change_development_level = 3 }
     1066.1.1 = { change_development_level = 7 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 
 d_lingnan_china = {
@@ -987,10 +1045,18 @@ d_chaoshan_china = {
 k_qianzhong_china = {
 	867.1.1 = { change_development_level = 4 }
 	1032.1.1 = { change_development_level = 8 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 k_luodian = {
 	867.1.1 = { change_development_level = 4 }
 	1032.1.1 = { change_development_level = 8 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 c_luanzhou_china = {
 	867.1.1 = {
@@ -2323,6 +2389,10 @@ k_chu_china = {
 	850.1.1 = { change_development_level = 13 }
 	900.1.1 = { change_development_level = 16 }
 	1000.1.1 = { change_development_level = 18 }
+
+	50.1.1 = {
+		de_jure_liege = e_nanyue
+	}
 }
 d_qianzhong_china = {
 	867.1.1 = { change_development_level = 4 }
