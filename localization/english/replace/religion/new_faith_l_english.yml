@@ -15,8 +15,8 @@
    taiping_desc:0 "Taiping Taoism is a militant form of Taoism that was formed during Xiongnu rule of China as a resistance movement among the peasants. While the resulting rebellion was put down, the religion itself was not. Due to its origin, it is especially hostile towards religions perceived as foreign."
 
   #Irish paganism
-    druidism_religion:0 "Druidism"
-    druidism_religion_adj:0 "Druid"
-    druidism_religion_adherent:0 "Druid"
-    druidism_religion_adherent_plural:0 "Druids"
-    druidism_religion_desc:0 "place holder."
+    druidism:0 "Druidism"
+    druidism_adj:0 "Druid"
+    druidism_adherent:0 "Druid"
+    druidism_adherent_plural:0 "Druids"
+    druidism_desc:0 "place holder."

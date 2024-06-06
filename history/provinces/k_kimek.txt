@@ -7,7 +7,7 @@
 ##d_mugodzhar_hills ###################################
 ###c_mugodzhar_hills
 7242 = {	#Karabutak	AKA Qarabutaq
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 }
@@ -26,7 +26,7 @@
 ###c_jitikul
 7251 = {	#Jitikul
 	#Lake "Djity Koul" on map BBB, south-east of Orsk
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 }
@@ -46,7 +46,7 @@
 ###c_kos_uba
 7239 = {	#Kos Uba
 	#On map BBB, at coordinates 48°;53°, near Temir, Bis Ouba & Aïryk
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 }
@@ -62,7 +62,7 @@
 ##d_aqtobe ###################################
 ###c_aqtobe
 896 = {		#Aqtobe	AKA Aktobe
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -83,7 +83,7 @@
 
 ###c_orenburg
 5501 = {	#Orenburg
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1337.1.1 = {
@@ -105,7 +105,7 @@
 ###c_atamansku
 7247 = {	#Atamanskü/Atamansku
 	#"Atamanskü" on map BBB, near green border, at latitude 50°, more or less longitude 58°
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 }
@@ -124,7 +124,7 @@
 ##d_atyrau ###################################
 ###c_atyrau
 618 = {		#Atyrau
-	culture = khazar
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -145,7 +145,7 @@
 
 ###c_sagiz
 7227 = {	#Sagiz
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -171,7 +171,7 @@
 ###c_manatau
 7221 = {	#Manatau
 	#Appears as "Mana-Taou" on map BBB, at latitude 50° & longitutde 48°
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -194,7 +194,7 @@
 ###c_baisary
 7238 = {	#Baisary
 	#As "Baïsary" on map BBB, north west of the Aral Sea
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -213,7 +213,7 @@
 ###c_basagha
 7233 = {	#Basagha
 	#As "Bassagha mountain" on map AAA, north east of the Caspian Sea
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {

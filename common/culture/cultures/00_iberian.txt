@@ -111,7 +111,7 @@ castilian = {
 }
 
 iberian = {
-	color = { 215 145 40 }
+	color = { 205 80 20 }
 	created = 400.1.1
 	parents = { roman }
 

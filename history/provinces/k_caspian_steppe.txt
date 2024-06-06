@@ -2,7 +2,7 @@
 ##d_itil ###################################
 ###c_itil
 620 = {		#Itil	#Khazar capital
-	culture = khazar
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	750.1.2 = {
@@ -53,7 +53,7 @@
 ###c_saqsin
 5313 = {	#Saqsin
 	#Khazar settlement
-	culture = khazar
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -83,7 +83,7 @@
 ###c_uzen
 617 = {		#Uzen
 	#Settlement from XIXth century Russian Empire atlas
-	culture = khazar
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -118,7 +118,7 @@
 ###c_pecheneg
 616 = {		#Pecheneg
 	#somewhat placeholder name, more or less region where the pechenegs come from
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -141,7 +141,7 @@
 ###c_jambalar
 5504 = {	#Jambalar
 	#Khazar/Bolghar settlement south of Banja, found on old arabic maps
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	965.1.2 = {
@@ -169,7 +169,7 @@
 
 ###c_yaitsk
 5319 = {	#Yaitsk		AKA Uralsk
-	culture = pecheneg
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {

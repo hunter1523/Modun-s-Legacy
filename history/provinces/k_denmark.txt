@@ -274,7 +274,7 @@
 ##d_slesvig ###################################
 ###c_slesvig
 62 = {		#HEDEBY
-	culture = norse
+	culture = anglian
 	religion = gothic_church
 	holding = tribal_holding
 	special_building_slot = danevirke_01
@@ -309,7 +309,7 @@
 
 ###c_vorbasse
 59 = {		#VORBASSE
-	culture = norse
+	culture = anglian
 	religion = gothic_church
 	holding = tribal_holding
 	965.1.1 = {
@@ -330,12 +330,10 @@
 
 ###c_ribe
 60 = {		#RIBE
-	culture = norse
+	culture = anglian
 	religion = norse_pagan
 	holding = tribal_holding
 	965.1.1 = {
-		culture = danish
-		religion = catholic
 		holding = castle_holding
 	}
 	1066.1.1 = {
@@ -344,7 +342,6 @@
 			curtain_walls_01
 			#military_camps_01
 		}
-		culture = frisian
 	}
 }
 83 = {		#VARDE

@@ -214,7 +214,7 @@ druidism_religion = {
 
 	faiths = {
 		druidism = {
-			color = { 5 115 5 }
+			color = { 39 91 34 }
 			icon = custom_faith_icon_2
 			reformed_icon = hellenic_reformed
 
