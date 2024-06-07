@@ -93,8 +93,8 @@ c_tamentit = {
 }
 
 
-d_taghaza = {
-}
+#d_taghaza = {
+#}
 
 
 c_taghaza = {

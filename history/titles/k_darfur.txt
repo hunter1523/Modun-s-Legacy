@@ -159,5 +159,5 @@ c_south_kordofan = {
 	}
 }
 
-d_wadai = {
-}
+#d_wadai = {
+#}

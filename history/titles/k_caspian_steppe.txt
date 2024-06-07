@@ -101,8 +101,8 @@ c_itil = {
 		holder = 74025
 	}
 }
-b_saray = {
-}
+#b_saray = {
+#}
 
 c_saqsin = {
 	691.1.1 = {
@@ -148,8 +148,8 @@ c_saqsin = {
 	}
 }
 
-d_pecheneg = {
-}
+#d_pecheneg = {
+#}
 
 c_uzen = {
 	20.1.1 = {

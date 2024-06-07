@@ -180,8 +180,8 @@ c_qashtiliya = {
 	}
 }
 
-d_jerid = {
-}
+#d_jerid = {
+#}
 
 c_souf = {
 	768.1.1 = {

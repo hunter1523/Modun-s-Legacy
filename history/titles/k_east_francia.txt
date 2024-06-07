@@ -87,8 +87,8 @@ c_mainz = {
 }
 
 
-b_katzenelnbogen = {
-}
+#b_katzenelnbogen = {
+#}
 
 
 c_frankfurt = {
@@ -730,8 +730,8 @@ c_wiltberg = {
 		holder = 42019 #Ludwig II
 	}
 }
-b_henneberg = {
-}
+#b_henneberg = {
+#}
 
 
 c_kassel = {
@@ -895,8 +895,8 @@ c_zurich = {
 }
 
 
-b_basel = {
-}
+#b_basel = {
+#}
 
 
 d_alsace = {
@@ -1439,6 +1439,9 @@ c_oldenburg = {
 	844.1.1 = {
 		liege = "d_angria"
 		holder = 7959
+	}
+	866.1.1 = {
+		holder = 167785
 	}
 }
 
@@ -2089,8 +2092,8 @@ c_tecklenburg = {
 }
 
 
-b_bentheim = {
-}
+#b_bentheim = {
+#}
 
 
 c_munster = {
@@ -2169,8 +2172,8 @@ d_rhine = {
 	1.1.1 = { de_jure_liege = k_east_francia }
 }
 
-d_hesse = {
-}
+#d_hesse = {
+#}
 
-b_ahrensburg = {
-}
+#b_ahrensburg = {
+#}

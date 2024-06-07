@@ -78,8 +78,8 @@ d_son_tay = {
             holder = taiviet006
         }
     }
-d_muong = {
-}
+#d_muong = {
+#}
     c_ma_nam = {
         867.1.1 = {
             holder = viet004
@@ -333,8 +333,8 @@ d_muang_thaeng = {
             liege = d_muang_thaeng
         }
     }
-d_lo = {
-}
+#d_lo = {
+#}
     c_tu_long = {
         866.1.1 = {
             holder = taiviet004

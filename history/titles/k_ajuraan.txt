@@ -1,5 +1,5 @@
-﻿k_ajuraan = {
-}
+﻿#k_ajuraan = {
+#}
 
 c_ras_hafun = {
 	867.1.1 = {	change_development_level = 1 }

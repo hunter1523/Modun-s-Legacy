@@ -26,7 +26,7 @@ suebi_01 = { #Suebian Confederation
 		death = yes
 	}
 }
-suebi_01 = { #Visburg
+suebi_02 = { #Visburg
 	name = "Hildemir"
 	religion = "catholic"
 	culture = "suebi"

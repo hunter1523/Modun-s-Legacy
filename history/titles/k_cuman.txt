@@ -1,6 +1,6 @@
 ﻿
-e_cumania = {
-}
+#e_cumania = {
+#}
 
 k_cuman = {
 	867.1.1 = { change_development_level = 0 }
@@ -242,11 +242,11 @@ c_teke = {
 	}
 }
 
-d_kurgan = {
-}
+#d_kurgan = {
+#}
 
-d_kush-murun = {
-}
+#d_kush-murun = {
+#}
 
-d_kazakh = {
-}
+#d_kazakh = {
+#}

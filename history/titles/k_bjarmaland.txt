@@ -47,8 +47,8 @@ c_pudozh = {
 	}
 }
 
-d_chudia = {
-}
+#d_chudia = {
+#}
 c_kargopol = {
 	#867
 	867.1.1 = {
@@ -121,8 +121,8 @@ c_choklema = {
 	}
 }
 
-d_ustyug = {
-}
+#d_ustyug = {
+#}
 
 c_ustyug = {
 	#867

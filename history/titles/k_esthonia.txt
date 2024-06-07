@@ -56,8 +56,8 @@ c_osel = {
 }
 
 
-b_hiiumaa = {
-}
+#b_hiiumaa = {
+#}
 
 
 c_wiek = { #Laanemaa
@@ -119,6 +119,6 @@ c_dorpat = { #Tartu
 }
 
 
-b_tartu = {
-}
+#b_tartu = {
+#}
 

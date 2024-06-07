@@ -45,8 +45,8 @@ c_wuda = {
 	}
 }
 
-d_zhenfan = {
-}
+#d_zhenfan = {
+#}
 
 c_zhenfan = {
 	850.1.1 = {

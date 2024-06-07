@@ -608,8 +608,8 @@ c_vaucouleurs = {
 }
 
 
-b_toul = {
-}
+#b_toul = {
+#}
 
 
 d_flanders = {
@@ -671,7 +671,7 @@ c_boulogne = {
 	}
 }
 
-d_burgundy = {
+#d_burgundy = {
 	#100.1.1 = {
 	#	liege = "k_france"
 	#}
@@ -705,7 +705,7 @@ d_burgundy = {
 	#879.1.1 = {
 	#	holder = 90155 #Carloman
 	#}
-}
+#}
 
 c_dijon = {
 	867.1.1 = { change_development_level = 6 }
@@ -793,8 +793,8 @@ c_reims = {
 }
 
 
-b_chatillon = {
-}
+#b_chatillon = {
+#}
 
 
 c_troyes = {
@@ -895,5 +895,5 @@ c_sens = {
 	}
 }
 
-b_montfort = {
-}
+#b_montfort = {
+#}

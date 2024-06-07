@@ -934,8 +934,8 @@ c_hohenburg = {
 }
 
 
-d_salzburg = {
-}
+#d_salzburg = {
+#}
 
 
 c_salzburg = {
@@ -1124,8 +1124,8 @@ c_ravensburg = {
 	}
 }
 
-b_bregenz = {
-}
+#b_bregenz = {
+#}
 
 
 c_burgau = {
@@ -1374,8 +1374,8 @@ c_krems = {
 }
 
 
-d_tyrol = {
-}
+#d_tyrol = {
+#}
 
 
 c_innsbruck = {

@@ -209,8 +209,8 @@ c_aalborg = {
 	}
 }
 
-d_slesvig = {
-}
+#d_slesvig = {
+#}
 c_slesvig = {
 	867.1.1 = {	change_development_level = 3 }
 	1066.1.1 = { change_development_level = 12 }
@@ -291,12 +291,12 @@ c_lubeck = {
 }
 
 
-b_lubeck = {
-}
+#b_lubeck = {
+#}
 
 
-b_kiel = {
-}
+#b_kiel = {
+#}
 
 
 c_stade = {

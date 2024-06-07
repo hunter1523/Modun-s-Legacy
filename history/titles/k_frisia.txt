@@ -89,8 +89,8 @@ c_zeeland = {
 }
 
 
-d_gelre = {
-}
+#d_gelre = {
+#}
 
 
 c_guelders = {
@@ -251,5 +251,5 @@ c_frisia = {
 	}
 }
 
-d_utrecht = {
-}
+#d_utrecht = {
+#}

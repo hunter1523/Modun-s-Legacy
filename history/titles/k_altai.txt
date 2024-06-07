@@ -1,6 +1,6 @@
 
-k_altai = {
-}
+#k_altai = {
+#}
 
     d_dzungar = {
         #Kingdom of Qocho founded in 843

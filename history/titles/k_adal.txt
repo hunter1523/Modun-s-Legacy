@@ -266,8 +266,8 @@ c_berbera = {
 	}
 }
 
-d_sanaag = {
-}
+#d_sanaag = {
+#}
 
 c_mait = {
 	867.1.1 = {	change_development_level = 5 }

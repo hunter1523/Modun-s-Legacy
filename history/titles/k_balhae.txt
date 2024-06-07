@@ -43,12 +43,12 @@ k_balhae = {
 	}
 }
 
-k_jeongan = {
+#k_jeongan = {
 
     # Jeongan / Later Balhae
-}
-    d_hyundeok = {
-    }
+#}
+#    d_hyundeok = {
+#    }
         c_junggyeong = {
             857.1.1 = {
                 holder = balhaev007
@@ -213,8 +213,8 @@ k_jeongan = {
                 liege = k_balhae
             }
         }
-    d_buyeo = {
-    }
+#    d_buyeo = {
+#    }
         c_buyeo = {
             857.1.1 = {
                 holder = balhaev004

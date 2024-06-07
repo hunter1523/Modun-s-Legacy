@@ -209,8 +209,8 @@ c_harikela = {
 		holder = tripuri009 #Mukunda Fa
 	}
 }
-d_sandoway = {
-}
+#d_sandoway = {
+#}
 c_sandoway = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 18 }

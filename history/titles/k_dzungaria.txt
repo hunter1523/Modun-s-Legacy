@@ -118,8 +118,8 @@ d_manas = {
 			holder = sogdian0003
 		}
     }
-d_beiting = {
-}
+#d_beiting = {
+#}
     c_satanghu = {
 		#Kirghiz khanate
 		840.1.1 = {

@@ -1,6 +1,6 @@
 
-k_cyprus = {
-}
+#k_cyprus = {
+#}
 
 
 d_cyprus = {

@@ -1023,5 +1023,5 @@ c_duqm = {
 	}
 }
 
-d_al-hasa = {
-}
+#d_al-hasa = {
+#}

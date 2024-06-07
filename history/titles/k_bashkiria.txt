@@ -5,8 +5,8 @@ k_bashkiria = {
 	1337.1.1 = { change_development_level = 8 }
 }
 
-d_bashkiria = {
-}
+#d_bashkiria = {
+#}
 
 c_ufa = {
 	#860
