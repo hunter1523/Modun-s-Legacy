@@ -103,3 +103,16 @@ e_bashu = {
 
     capital = c_chengdu_china
 }
+# Historical, for family tree
+k_ancient_han2 = {
+    capital = c_zhengzhou_china
+}
+k_ancient_chu = {
+    capital = c_xuzhou_xu_china
+}
+k_ancient_huainan = {
+    capital = c_shouchun_china
+}
+k_ancient_changsha = {
+    capital = c_changsha_china
+}

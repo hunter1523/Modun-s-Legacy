@@ -3,12 +3,93 @@
 #}
 
 e_nanyue = {
+	203.1.1 = {
+		holder = chinese_nanyue_ancestor_real_01
+	}
+	263.1.1 = {
+		holder = chinese_nanyue_ancestor_real_03
+	}
+	276.1.1 = {
+		holder = chinese_nanyue_ancestor_real_04
+	}
+	285.1.1 = {
+		holder = chinese_nanyue_ancestor_real_05
+	}
+	320.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_14
+	}
+	380.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_13
+	}
+	430.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_12
+	}
+	480.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_11
+	}
+	530.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_10
+	}
+	580.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_09
+	}
+	610.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_08
+	}
+	640.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_07
+	}
+	670.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_06
+	}
+	700.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_05
+	}
+	730.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_04
+	}
+	760.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_03
+	}
+	790.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_02
+	}
+	820.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_01
+	}
 	850.1.1 = {
 		holder = chinese_nanyue_01
 	}
 }
 
 e_bashu = {
+	580.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_09
+	}
+	610.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_08
+	}
+	640.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_07
+	}
+	670.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_06
+	}
+	700.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_05
+	}
+	730.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_04
+	}
+	760.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_03
+	}
+	790.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_02
+	}
+	820.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_01
+	}
 	850.1.1 = {
 		holder = chinese_bashu_01
 	}
@@ -305,6 +386,36 @@ k_shu_china = {
 
 	50.1.1 = {
 		de_jure_liege = e_bashu
+	}
+	210.1.1 = {
+		holder = chinese_bashu_ancestor_real_08
+	}
+	230.1.1 = {
+		holder = chinese_bashu_ancestor_real_09
+	}
+	244.1.1 = {
+		holder = chinese_bashu_ancestor_real_10
+	}
+	280.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_15
+	}
+	330.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_14
+	}
+	380.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_13
+	}
+	430.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_12
+	}
+	480.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_11
+	}
+	530.1.1 = {
+		holder = chinese_bashu_ancestor_fictional_10
+	}
+	600.1.1 = {
+		holder = 0
 	}
 }
 
@@ -777,9 +888,8 @@ d_jingxiang_china = {
 		300.1.1 = { change_development_level = 7 }
 	    1066.1.1 = { change_development_level = 20 }
 
-		867.1.1 = {
-			holder = tangv011
-			liege = d_eyue_china
+		850.1.1 = {
+			holder = chinese_southern_03
 		}
 	}
 
@@ -788,19 +898,62 @@ d_jiangxi_china = {
 	936.1.1 = { change_development_level = 12 }
 	1032.1.1 = { change_development_level = 14 }
 
-	867.1.1 = {
-		holder = tangv012
+	330.1.1 = {
+		liege = k_yue_china
+		holder = chinese_huainan_ancestor_fictional_14
+	}
+	380.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_13
+	}
+	430.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_12
+	}
+	480.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_11
+	}
+	530.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_10
+	}
+	580.1.1 = {
 		liege = e_nanyue
+		holder = chinese_huainan_ancestor_fictional_09
+	}
+	610.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_08
+	}
+	640.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_07
+	}
+	670.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_06
+	}
+	700.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_05
+	}
+	730.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_04
+	}
+	760.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_03
+	}
+	790.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_02
+	}
+	820.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_01
+	}
+	850.1.1 = {
+		holder = chinese_southern_02
 	}
 }
 	c_hongzhou_china = {
-		867.1.1 = {
-			holder = tangv012
+		850.1.1 = {
+			holder = chinese_southern_02
 		}
 	}
 	c_jiangzhou_wu_china = {
-		867.1.1 = {
-			holder = tangv012
+		850.1.1 = {
+			holder = chinese_southern_02
 		}
 	}
 	c_fuzhou_jiangxi_china = {
@@ -809,18 +962,22 @@ d_jiangxi_china = {
 		}
 	}
 	c_raozhou_china = {
-		867.1.1 = {
-			holder = tangv012
+		850.1.1 = {
+			holder = chinese_southern_02
 		}
 	}
 	c_xinzhou_wu_china = {
-		867.1.1 = {
-			holder = tangv012
+		850.1.1 = {
+			holder = chinese_southern_02
 		}
 	}
 
-#d_luling_china = {
-#}
+d_luling_china = {
+	867.1.1 = {
+		holder = tangv012
+		liege = e_nanyue
+	}
+}
 
 	c_jizhou_jiangxi_china = {
 		867.1.1 = {
@@ -845,6 +1002,15 @@ k_yue_china = {
 
 	50.1.1 = {
 		de_jure_liege = e_nanyue
+	}
+	520.1.1 = {
+		holder = chinese_minyue_ancestor_fictional_01
+	}
+	570.1.1 = {
+		holder = chinese_nanyue_ancestor_fictional_09
+	}
+	600.1.1 = {
+		holder = 0
 	}
 }
 
@@ -1457,8 +1623,8 @@ d_rongguan_china = {
 	}
 
 c_changsha_china = {
-	867.1.1 = {
-		holder = tangv025
+	850.1.1 = {
+		holder = chinese_southern_03
 	}
 }
 c_hengshan_china = {
@@ -1654,29 +1820,60 @@ d_xuanshe_china = {
 	936.1.1 = { change_development_level = 16 }
 	1032.1.1 = { change_development_level = 19 }
 
-	867.1.1 = {
-		holder = tangv029
+	530.1.1 = {
+		liege = k_yue_china
+		holder = chinese_huaiyin_ancestor_fictional_10
+	}
+	580.1.1 = {
 		liege = e_nanyue
+		holder = chinese_huaiyin_ancestor_fictional_09
+	}
+	610.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_08
+	}
+	640.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_07
+	}
+	670.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_06
+	}
+	700.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_05
+	}
+	730.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_04
+	}
+	760.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_03
+	}
+	790.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_02
+	}
+	820.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_01
+	}
+	850.1.1 = {
+		holder = chinese_southern_01
 	}
 }
 	c_xuanzhou_china = {
-		867.1.1 = {
-			holder = tangv029
+		850.1.1 = {
+			holder = chinese_southern_01
 		}
 	}
 	c_shezhou_china = {
-		867.1.1 = {
-			holder = tangv029
+		850.1.1 = {
+			holder = chinese_southern_01
 		}
 	}
 	c_chizhou_china = {
-		867.1.1 = {
-			holder = tangv029
+		850.1.1 = {
+			holder = chinese_southern_01
 		}
 	}
 	c_guangde_china = {
-		867.1.1 = {
-			holder = tangv029
+		850.1.1 = {
+			holder = chinese_southern_01
 		}
 	}
 
@@ -1801,14 +1998,56 @@ d_eyue_china = {
 	936.1.1 = { change_development_level = 14 }
 	1032.1.1 = { change_development_level = 16 }
 
-	866.1.1 = {
-		holder = tangv033
+	330.1.1 = {
 		liege = e_nanyue
+		holder = chinese_changsha_ancestor_fictional_14
+	}
+	380.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_13
+	}
+	430.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_12
+	}
+	480.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_11
+	}
+	530.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_10
+	}
+	580.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_09
+	}
+	610.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_08
+	}
+	640.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_07
+	}
+	670.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_06
+	}
+	700.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_05
+	}
+	730.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_04
+	}
+	760.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_03
+	}
+	790.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_02
+	}
+	820.1.1 = {
+		holder = chinese_changsha_ancestor_fictional_01
+	}
+	850.1.1 = {
+		holder = chinese_southern_03
 	}
 }
 	c_ezhou_china = {
-		867.1.1 = {
-			holder = tangv033
+		50.1.1 = {
+			holder = chinese_southern_03
 		}
 	}
 	c_anzhou_china = {
@@ -1832,8 +2071,8 @@ d_eyue_china = {
 		}
 	}
 	c_yuezhou_chu_china = {
-		867.1.1 = {
-			holder = tangv033
+		50.1.1 = {
+			holder = chinese_southern_03
 		}
 	}
 
@@ -2058,6 +2297,16 @@ d_hezhong_china = {
 	867.1.1 = { change_development_level = 12 }
 	936.1.1 = { change_development_level = 16 }
 	1032.1.1 = { change_development_level = 18 }
+
+	55.1.1 = {
+		holder = chinese_bashu_ancestor_real_00 #Lord of Quwo
+	}
+	70.1.1 = {
+		holder = chinese_bashu_ancestor_real_11 #Lord of Quwo
+	}
+	85.1.1 = {
+		holder = 0
+	}
 }
 	c_jiangzhou_china = {
 		850.1.1 = {
@@ -2913,5 +3162,100 @@ c_sizhou_qian_china = {
 	}
 	1387.1.1 = {
 		holder = zangke0135
+	}
+}
+
+# Historical, for family tree
+k_ancient_han2 = {
+	88.1.1 = {
+		holder = chinese_bashu_ancestor_real_01
+	}
+	104.1.1 = {
+		holder = chinese_bashu_ancestor_real_03
+	}
+	127.1.1 = {
+		holder = chinese_bashu_ancestor_real_04
+	}
+	161.1.1 = {
+		holder = chinese_bashu_ancestor_real_05
+	}
+#	170.1.1 = {
+#		holder = 0
+#	}
+	195.1.1 = {
+		holder = chinese_bashu_ancestor_real_07
+	}
+	220.1.1 = {
+		holder = 0
+	}
+}
+k_ancient_chu = {
+	200.1.1 = { # Escaped Chang'an after the Battle of Baideng
+		holder = chinese_huaiyin_ancestor_real_01
+	}
+	215.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_17
+	}
+	240.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_16
+	}
+	280.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_15
+	}
+	330.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_14
+	}
+	380.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_13
+	}
+	430.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_12
+	}
+	480.1.1 = {
+		holder = chinese_huaiyin_ancestor_fictional_11
+	}
+	540.1.1 = {
+		holder = 0
+	}
+}
+k_ancient_huainan = {
+	194.1.1 = {
+		holder = chinese_huainan_ancestor_real_01
+	}
+	221.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_17
+	}
+	240.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_16
+	}
+	280.1.1 = {
+		holder = chinese_huainan_ancestor_fictional_15
+	}
+	350.1.1 = {
+		holder = 0
+	}
+}
+k_ancient_changsha = {
+	198.1.1 = {
+		holder = chinese_changsha_ancestor_real_01
+	}
+	198.7.1 = {
+		holder = chinese_changsha_ancestor_real_03
+	}
+	207.1.1 = {
+		holder = chinese_changsha_ancestor_real_04
+	}
+	213.1.1 = {
+		holder = chinese_changsha_ancestor_real_05
+	}
+	222.1.1 = {
+		holder = chinese_changsha_ancestor_real_06
+	}
+	253.1.1 = {
+		liege = e_nanyue
+		holder = chinese_changsha_ancestor_fictional_15
+	}
+	350.1.1 = {
+		holder = 0
 	}
 }
