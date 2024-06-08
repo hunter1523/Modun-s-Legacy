@@ -29,36 +29,6 @@ language_gothic = {
 	color = { 0.7 0.65 0.6 }
 }
 
-language_gepid = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_gepid
-		}
-	}
-	parameters = {
-		language_group_germanic = yes
-		language_family_indo_european = yes
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_gothic }
-			multiply = same_language_choice_factor
-		}
-		else_if = {
-			limit = { has_cultural_parameter = language_group_germanic }
-			multiply = same_language_group_choice_factor
-		}
-		else_if = {
-			limit = { has_cultural_parameter = language_family_indo_european }
-			multiply = same_language_family_choice_factor
-		}
-	}
-
-	color = { 165 110 74 }
-}
-
 language_vandalic = {
 	type = language
 	is_shown = {

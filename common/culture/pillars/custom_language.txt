@@ -32,3 +32,123 @@ language_britannian = {
 
 	color = { 195 35 80 }
 }
+
+language_gepid = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gepid
+		}
+	}
+	parameters = {
+		language_group_germanic = yes
+		language_family_indo_european = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gepid }
+			multiply = same_language_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_group_germanic }
+			multiply = same_language_group_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_indo_european }
+			multiply = same_language_family_choice_factor
+		}
+	}
+
+	color = { 165 110 74 }
+}
+
+language_sarmatian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_sarmatian
+		}
+	}
+	parameters = {
+		language_group_indo_iranian = yes
+		language_family_indo_european = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_sarmatian }
+			multiply = same_language_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_group_indo_iranian }
+			multiply = same_language_group_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_indo_european }
+			multiply = same_language_family_choice_factor
+		}
+	}
+
+	color = { 76 7 48 }
+}
+
+language_western_scythian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_western_scythian
+		}
+	}
+	parameters = {
+		language_group_indo_iranian = yes
+		language_family_indo_european = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_western_scythian }
+			multiply = same_language_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_group_indo_iranian }
+			multiply = same_language_group_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_indo_european }
+			multiply = same_language_family_choice_factor
+		}
+	}
+
+	color = { 50 152 100 }
+}
+
+language_eastern_scythian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eastern_scythian
+		}
+	}
+	parameters = {
+		language_group_indo_iranian = yes
+		language_family_indo_european = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eastern_scythian }
+			multiply = same_language_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_group_indo_iranian }
+			multiply = same_language_group_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_indo_european }
+			multiply = same_language_family_choice_factor
+		}
+	}
+
+	color = { 126 76 255 }
+}

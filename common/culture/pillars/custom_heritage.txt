@@ -11,3 +11,46 @@ heritage_britannian = {
 	}
 	audio_parameter = european
 }
+
+heritage_western_scythian = {
+	type = heritage
+
+	parameters = {
+		heritage_group_iranian = yes
+		heritage_family_european = yes
+	}
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_iranian
+		}
+	}
+	audio_parameter = european
+}
+heritage_sarmatian = {
+	type = heritage
+
+	parameters = {
+		heritage_group_iranian = yes
+		heritage_family_middle_eastern = yes
+	}
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_iranian
+		}
+	}
+	audio_parameter = european
+}
+heritage_eastern_scythian = {
+	type = heritage
+
+	parameters = {
+		heritage_group_iranian = yes
+		heritage_family_middle_eastern = yes
+	}
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_iranian
+		}
+	}
+	audio_parameter = european
+}
