@@ -60623,7 +60623,7 @@ e_turan = {
         d_ferghana = {
             color = { 50 160 80 }
 
-            capital = c_ferghana    #    Akhsikath
+            capital = c_khojand    #    Alexandria Eschate
 
             c_ferghana = {
                 color = { 55 166 88 }
@@ -60687,6 +60687,11 @@ e_turan = {
 
                     color = { 55 165 75 }
                 }
+                b_khokand = {
+                    province = 4428
+
+                    color = { 55 155 70 }
+                }
             }
             c_isfara = {
                 color = { 45 155 75 }
@@ -60727,11 +60732,6 @@ e_turan = {
                 }
                 b_quba = {
                     province = 4427
-
-                    color = { 55 155 70 }
-                }
-                b_khokand = {
-                    province = 4428
 
                     color = { 55 155 70 }
                 }

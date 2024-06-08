@@ -20,3 +20,58 @@ greco_bactrian_02 = { #Bactria
 		death = yes
 	}
 }
+sogdian_01 = {
+	name = "Hormazd"
+	religion = "khurmazta"
+	culture = "sogdian"
+	831.1.1 = {
+		birth = yes
+	}
+	890.1.1 = {
+		death = yes
+	}
+}
+sogdian_02 = {
+	name = "Eskander"
+	religion = "khurmazta"
+	culture = "sogdian"
+	825.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+sogdian_03 = {
+	name = "Tahmasb"
+	religion = "khurmazta"
+	culture = "sogdian"
+	801.1.1 = {
+		birth = yes
+	}
+	870.1.1 = {
+		death = yes
+	}
+}
+sogdian_04 = {
+	name = "Nanaizanch"
+	religion = "khurmazta"
+	culture = "sogdian"
+	840.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
+sogdian_05 = {
+	name = "Wakhunam"
+	religion = "khurmazta"
+	culture = "sogdian"
+	818.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
