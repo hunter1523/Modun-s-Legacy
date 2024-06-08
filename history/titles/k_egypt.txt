@@ -28,9 +28,6 @@ k_egypt = {
 	866.1.1 = {
 		holder = 163115
 	}
-	866.1.1 = {
-		liege = 0
-	}
 }
 
 
@@ -516,6 +513,7 @@ d_eastern_desert = {
 	}
 
 	860.1.1 = {
+		liege = "e_arabia"
 		holder = bedouin0018 #Abu Abdallah al-Umari
 	}
 }

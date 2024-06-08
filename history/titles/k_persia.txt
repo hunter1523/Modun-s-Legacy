@@ -1990,6 +1990,6 @@ c_saimara = {
 
 	866.1.1 = {
 		liege = "d_wasit"
-		holder = 73685
+		holder = levantine000010
 	}
 }

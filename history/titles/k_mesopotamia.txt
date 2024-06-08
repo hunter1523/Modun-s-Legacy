@@ -12,21 +12,15 @@ d_samarra = {
 
 c_samarra = {
 	#Bagdad
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 
@@ -37,7 +31,7 @@ c_hulwan = {
 		holder = 188659
 	}
 	866.1.1 = {
-		holder = 73683
+		holder = 159732
 		liege = e_arabia
 	}
 }
@@ -84,7 +78,8 @@ d_wasit = {
 	}
 
 	866.1.1 = {
-		holder = 73685
+		holder = levantine000010
+		liege = e_arabia
 	}
 }
 
@@ -96,7 +91,7 @@ c_wasit = {
 	}
 	866.1.1 = {
 		liege = d_wasit
-		holder = 73685
+		holder = levantine000010
 	}
 }
 
@@ -112,7 +107,7 @@ c_tib = {
 
 	866.1.1 = {
 		liege = "d_wasit"
-		holder = 73685
+		holder = levantine000010
 	}
 }
 
@@ -128,10 +123,18 @@ c_kufa = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -141,10 +144,18 @@ c_safata = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -154,10 +165,18 @@ c_qadisiya = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -172,7 +191,7 @@ c_batiha = {
 	}
 
 	866.1.1 = {
-		holder = 73685
+		holder = levantine000010
 	}
 }
 
@@ -182,10 +201,18 @@ c_akhadid = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -195,10 +222,18 @@ c_waqisa = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -207,11 +242,18 @@ d_basra = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 12 }
 
-	866.1.1 = {
-		liege = "e_arabia"
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
 	}
 	866.1.1 = {
-		holder = 73684
+		liege = e_arabia
+		holder = 146080
 	}
 }
 
@@ -224,10 +266,18 @@ c_basra = {
 		liege = e_arabia
 		holder = 188608 # Jabir b Tubah al-Kibani
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -237,10 +287,18 @@ c_ubulla = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
 	}
-
+	815.1.1 = {
+		holder = 146073
+	}
+	822.1.1 = {
+		holder = 159731
+	}
+	847.1.1 = {
+		holder = 159732
+	}
 	866.1.1 = {
 		liege = d_basra
-		holder = 73684
+		holder = 146080
 	}
 }
 
@@ -258,7 +316,7 @@ c_rusafa = {
 		liege = "d_wasit"
 	}
 	866.1.1 = {
-		holder = 73685
+		holder = levantine000010
 	}
 }
 
@@ -268,20 +326,15 @@ d_baghdad = {
 	1066.1.1 = { change_development_level = 16 }
 
 	#Bagdad
-	750.1.1 = {
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = e_arabia
+		holder = 159732
 	}
 }
 
@@ -301,105 +354,75 @@ c_baghdad = {
 		change_development_level = 26
 	}
 
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 
 
 c_iskaf = {
 	#Bagdad
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 
 
 c_anbar = {
 	#Bagdad
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 
 
 c_karbala = {
 	#Bagdad
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 
 
 c_badaraya = {
 	#Bagdad
-	750.1.1 = {
-		liege = "d_baghdad"
-		holder = 73679 # Abd al-Rahman I Umayyad
+	815.1.1 = {
+		holder = 146073
 	}
-	788.10.7 = {
-		holder = 73680 # Hisham I Umayyad
+	822.1.1 = {
+		holder = 159731
 	}
-	796.6.12 = {
-		holder = 73681 # al-Hakam I Umayyad
-	}
-	822.5.21 = {
-		holder = 73682 # Abd al-Rahman II Umayyad
-	}
-	852.9.22 = {
-		holder = 73683 # Muhammad I Umayyad
+	847.1.1 = {
+		liege = d_baghdad
+		holder = 159732
 	}
 }
 

@@ -72,6 +72,11 @@ d_amman = {
 	1066.1.1 = { change_development_level = 10 }
 	1187.1.1 = { change_development_level = 30 }
 	1337.1.1 = { change_development_level = 60 }
+
+	866.1.1 = {
+		liege = e_arabia
+		holder = 73685
+	}
 }
 
 
@@ -93,7 +98,7 @@ c_balqa = {
 		holder = bedouin0052
 	}
 	866.1.1 = {
-		holder = 146080
+		holder = 73685
 	}
 }
 
@@ -115,17 +120,8 @@ c_maab = {
 	754.1.1 = {
 		holder = 188576
 	}
-	815.1.1 = {
-		holder = 146073
-	}
-	822.1.1 = {
-		holder = 159731
-	}
-	847.1.1 = {
-		holder = 159732
-	}
 	866.1.1 = {
-		holder = 146080
+		holder = 73685
 	}
 }
 
@@ -144,18 +140,8 @@ c_jilat = {
 	754.1.1 = {
 		holder = 188576
 	}
-	815.1.1 = {
-		holder = 146073
-	}
-	822.1.1 = {
-		holder = 159731
-	}
-	847.1.1 = {
-		holder = 159732
-	}
 	866.1.1 = {
-		holder = 146080
-		liege = "d_damascus"
+		holder = 73685
 	}
 }
 
