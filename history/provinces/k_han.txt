@@ -131,7 +131,7 @@
 ## d_jinshang_china
     # c_shangzhou_qin_china
         12727 = { # b_shangzhou_shangluo_china
-            culture = han
+            culture = gaoche
             religion = zenzong
         }
         12709 = { # b_wuguan_china

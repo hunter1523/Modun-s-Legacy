@@ -35,3 +35,27 @@
  anglian:0 "Anglian"
  anglian_prefix:0 "Anglic"
  anglian_collective_noun:0 "Angles"
+ 
+ gekun:0 "Gekun"
+ gekun_prefix:0 "Gekun"
+ gekun_collective_noun:0 "Gekuns"
+
+ xinli:0 "Xinli"
+ xinli_prefix:0 "Xinli"
+ xinli_collective_noun:0 "Xinlis"
+
+ xianbei:0 "Xianbei"
+ xianbei_prefix:0 "Xianbei"
+ xianbei_collective_noun:0 "Xianbeis"
+
+ wuhuan:0 "Wuhuan"
+ wuhuan_prefix:0 "Wuhuan"
+ wuhuan_collective_noun:0 "Wuhuans"
+
+ gaoche:0 "Gaoche"
+ gaoche_prefix:0 "Gaoche"
+ gaoche_collective_noun:0 "Gaoches"
+
+ guanzhong:0 "Guanzhong"
+ guanzhong_prefix:0 "Guanzhong"
+ guanzhong_collective_noun:0 "Guanzhongs"

@@ -4,75 +4,75 @@
         # c_qingzhou_qi_china
             11885 = { # b_qingzhou_yidu_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11879 = { # b_beihai_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11839 = { # b_linqu_qingzhou_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
         # c_zibo_china
             11833 = { # b_zizhou_zichuan_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11924 = { # b_zouping_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11914 = { # b_linzi_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
         # c_qizhou_qi_china
             11874 = { # b_qizhou_licheng_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11904 = { # b_linji_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
     ## d_denglai_china
         # c_laizhou_china
             11888 = { # b_laizhou_donglai_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11842 = { # b_jimo_laoshan_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
         # c_penglai_china
             11954 = { # b_dengzhou_penglai_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11915 = { # b_wendeng_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
         # c_mizhou_qi_china
             11841 = { # b_mizhou_zhucheng_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             11840 = { # b_gaomi_yiancheng_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             12911 = { # b_juxian_langya_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
     ## d_taining_china
         # c_yanzhou_china
             12929 = { # b_yanzhou_xiaqiu_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
 
                 special_building = china_grand_canal_01
             }
@@ -82,14 +82,14 @@
         # c_kongmeng_china
             12961 = { # b_qufu_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             12921 = { # b_zouxian_china
             }
         # c_taishan_china
             11830 = { # b_taishan_qianfeng_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
 
                 holding = castle_holding
 
@@ -105,7 +105,7 @@
         # c_yizhou_taining_china
             12835 = { # b_yizhou_linyi_china
                 religion = zhengyi
-                culture = han
+                culture = gekun
             }
             12944 = { # b_mulingguan_yishui_china
             }
@@ -114,13 +114,13 @@
         # c_haizhou_xu_china
             12805 = { # b_haizhou_qushan_china
                 religion = zhengyi
-                culture = han
+                culture = xinli
             }
             12848 = { # b_yuzhou_donghai_china
                 religion = zhengyi
-                culture = han
+                culture = xinli
             }
             12757 = { # b_shuyang_china
                 religion = zhengyi
-                culture = han
+                culture = xinli
             }

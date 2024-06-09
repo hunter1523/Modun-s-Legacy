@@ -32,8 +32,8 @@
         }
     # c_shaoguan_guang_china
         11811 = { # b_shaozhou_qujiang_china
-            culture = yao
-            religion = hmongism
+            culture = yue
+            religion = shendao
 
             1050.1.1 = {
                 culture = hakka
@@ -217,7 +217,7 @@
         }
     # c_haka_china
         12948 = { # b_meizhou_chengxiang_china
-            culture = min
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -229,7 +229,7 @@
         }
     # c_xunzhou_china
         12945 = { # b_longchuan_xunzhou_china
-            culture = min
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -296,8 +296,8 @@
         }
     # c_leizhou_china
         12542 = { # b_leizhou_haikang_china
-            culture = hlai
-            religion = moism
+            culture = yue
+            religion = shendao
 
             1050.1.1 = {
                 culture = min
@@ -308,8 +308,8 @@
         }
     # c_luzhou_annan_china
         12651 = { # b_luzhou_wulei_china
-            culture = tai
-            religion = moism
+            culture = yue
+            religion = shendao
 
             1050.1.1 = {
                 culture = yue
@@ -332,8 +332,8 @@
         }
     # c_lianzhou_gui_china
         12612 = { # b_lianzhou_hepu_china
-            culture = tai
-            religion = moism
+            culture = yue
+            religion = shendao
 
             1050.1.1 = {
                 culture = yue

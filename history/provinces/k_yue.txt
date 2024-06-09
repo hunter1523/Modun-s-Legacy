@@ -2,7 +2,7 @@
 ## d_zhexi_china
     # c_hangzhou_china
         12368 = { # b_hangzhou_qiantang_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -27,7 +27,7 @@
         }
     # c_wuzhou_yue_china
         12219 = { # b_yiwu_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -39,7 +39,7 @@
         }
     # c_muzhou_yue_china
         12254 = { # b_muzhou_jiande_china
-            culture = han
+            culture = yue
             religion = shendao
 
             1050.1.1 = {
@@ -51,7 +51,7 @@
         }
     # c_quzhou_china
         12180 = { # b_quzhou_xinan_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -64,7 +64,7 @@
 ## d_zhedong_china
     # c_yuezhou_yue_china
         12314 = { # b_yuezhou_kuaiji_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -82,7 +82,7 @@
         }
     # c_mingzhou_china
         12282 = { # b_mingzhou_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -97,7 +97,7 @@
         }
     # c_taizhou_china
         12174 = { # b_taizhou_linhai_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -115,7 +115,7 @@
         }
     # c_wenzhou_yue_china
         12112 = { # b_wenzhou_yongjia_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {
@@ -127,7 +127,7 @@
         }
     # c_kuozhou_yue_china
         12117 = { # b_kuozhou_kuocang_china
-            culture = han
+            culture = min
             religion = shendao
 
             1050.1.1 = {

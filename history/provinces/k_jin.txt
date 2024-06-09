@@ -230,7 +230,7 @@
             }
         # c_puzhou_china
             12873 = { # b_puzhou_china
-                culture = han
+                culture = guanzhong
                 religion = shendao
             }
             12909 = { # b_baoding_china

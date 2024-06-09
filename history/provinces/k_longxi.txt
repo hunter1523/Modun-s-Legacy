@@ -2,7 +2,7 @@
 ## d_fengxiang_china
     # c_fengxiang_china
         12819 = { # b_fengxiang_china
-            culture = han
+            culture = guanzhong
             religion = zhengyi
         }
         12842 = { # b_linyou_china
@@ -19,7 +19,7 @@
         }
     # c_longzhou_china
         12856 = { # b_longzhouqianyuan_china
-            culture = han
+            culture = guanzhong
             religion = vajrayana
         }
         12902 = { # b_huating_china

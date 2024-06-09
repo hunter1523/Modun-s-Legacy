@@ -4,7 +4,7 @@
         # c_luoyang_china
             12834 = { # b_luoyang_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
 
                 holding = castle_holding
                 buildings = { castle_04 }
@@ -38,7 +38,7 @@
         # c_yaohan_china
             12779 = { # b_gaomenguan_changshui_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
             }
             12804 = { # b_shouan_fuchang_china
             }
@@ -47,14 +47,14 @@
         # c_yichuan_china
             12795 = { # b_yique_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
             }
             12755 = { # b_luhun_china
             }
         # c_songshan_china
             12803 = { # b_songshan_dengfeng_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
                 special_building_slot = mount_song
                 special_building = mount_song
                 holding = church_holding
@@ -64,7 +64,7 @@
         # c_ruzhou_china
             12768 = { # b_ruzhou_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
             }
             12728 = { # b_chiyang_lushan_china
             }
@@ -76,14 +76,14 @@
         # c_guozhou_zhou_china
             12812 = { # b_hongnong_guozhou_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
             }
             12789 = { # b_zhuyang_china
             }
         # c_shaanzhou_china
             12839 = { # b_shanxian_shanzhou_china
                 religion = zhengyi
-                culture = han
+                culture = guanzhong
             }
             12857 = { # b_ruicheng_china
             }
@@ -93,7 +93,7 @@
         # c_zhengzhou_china
             12837 = { # b_zhengzhou_guancheng_china
                 religion = zhengyi
-                culture = han
+                culture = xianbei
 
                 holding = castle_holding
             }
@@ -111,7 +111,7 @@
         # c_huazhou_liang_china
             12939 = { # b_huazhou_baima_china
                 religion = zhengyi
-                culture = han
+                culture = xianbei
             }
             12913 = { # b_kuangcheng_yanjin_china
             }
@@ -119,7 +119,7 @@
         # c_xuuzhou_china
             12740 = { # b_xuchang_china
                 religion = zhengyi
-                culture = han
+                culture = xianbei
             }
             12750 = { # b_yanling_china
             }
@@ -128,7 +128,7 @@
         # c_caizhou_china
             12628 = { # b_yuzhou_ruyang_china
                 religion = zhengyi
-                culture = han
+                culture = xianbei
             }
             12700 = { # b_yancheng_linying_china
             }
@@ -139,7 +139,7 @@
         # c_chenzhou_china
             12724 = { # b_chenzhou_wanqiu_china
                 religion = zhengyi
-                culture = han
+                culture = xianbei
             }
             12687 = { # b_xiangcheng_china
             }

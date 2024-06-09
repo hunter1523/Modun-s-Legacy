@@ -2,7 +2,7 @@
 ## d_jingxiang_china
     # c_xiangfan_china
         12581 = { # b_fancheng_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -20,7 +20,7 @@
         }
     # c_junzhou_china
         12625 = { # b_wudang_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -36,7 +36,7 @@
         }
     # c_fangzhou_chu_china
         12563 = { # b_shangyong_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -46,7 +46,7 @@
         }
     # c_dengzhou_china
         12630 = { # b_dengzhou_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -62,7 +62,7 @@
         }
     # c_tangzhou_chu_china
         12632 = { # b_tangzhou_miyang_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -78,7 +78,7 @@
         }
     # c_suizhou_china
         12519 = { # b_suizhou_china
-            culture = han
+            culture = gaoche
             religion = shangqing
 
             holding = castle_holding
@@ -89,7 +89,7 @@
 ## d_jingnan_china
     # c_jingzhou_chu_china
         12326 = { # b_jiangling_jingzhou_china
-            culture = han
+            culture = yue
             religion = zenzong
             holding = castle_holding
             buildings = { castle_04 }
@@ -114,7 +114,7 @@
         }
     # c_yingzhou_chu_china
         12467 = { # b_jingshan_yingzhou_china
-            culture = han
+            culture = gaoche
             religion = zenzong
 
             holding = castle_holding
@@ -124,7 +124,7 @@
         }
     # c_fuzhou_chu_china
         12336 = { # b_mianyang_fuzhou_china
-            culture = han
+            culture = yue
             religion = zenzong
 
             holding = castle_holding
@@ -137,7 +137,7 @@
         }
     # c_xiazhou_chu_china
         12346 = { # b_yidu_chu_china
-            culture = han
+            culture = yue
             religion = zenzong
 
             holding = castle_holding
@@ -177,7 +177,7 @@
 ## d_eyue_china
     # c_ezhou_china
         12306 = { # b_jiangxia_ezhou_china
-            culture = han
+            culture = yue
             religion = shangqing
 
             1050.1.1 = {
@@ -200,7 +200,7 @@
         }
     # c_anzhou_china
         12477 = { # b_anzhou_anlu_china
-            culture = han
+            culture = wuhuan
             religion = shangqing
 
             holding = castle_holding
@@ -210,7 +210,7 @@
         }
     # c_shenzhou_china
         12568 = { # b_shenzhou_yiyang_china
-            culture = han
+            culture = wuhuan
             religion = shangqing
 
             holding = castle_holding
@@ -220,7 +220,7 @@
         }
     # c_huangzhou_china
         12401 = { # b_huangzhou_huanggang_china
-            culture = han
+            culture = wuhuan
             religion = shangqing
 
             holding = castle_holding
@@ -233,7 +233,7 @@
         }
     # c_qichun_china
         12337 = { # b_qichun_qizhou_china
-            culture = han
+            culture = wuhuan
             religion = shangqing
 
             holding = castle_holding
@@ -246,7 +246,7 @@
         }
     # c_yuezhou_chu_china
         12229 = { # b_baling_yuezhou_china
-            culture = han
+            culture = yue
             religion = shangqing
 
             1050.1.1 = {
@@ -267,7 +267,7 @@
 ## d_hunan_china
     # c_changsha_china
         12111 = { # b_changsha_tanzhou_china
-            culture = han
+            culture = yue
             religion = shangqing
 
             1050.1.1 = {
@@ -296,8 +296,8 @@
         }
     # c_hengshan_china
         12004 = { # b_hengyang_hengzhou_china
-            culture = yao
-            religion = hmongism
+            culture = yue
+            religion = shendao
 
             1050.1.1 = {
                 culture = xiang

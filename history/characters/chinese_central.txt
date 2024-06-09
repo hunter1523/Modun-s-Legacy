@@ -1,7 +1,7 @@
 ﻿chinese_central_01 = {
 	name = "Bixian"
 	religion = "shendao"
-	culture = "han"
+	culture = "gaoche"
 	820.1.1 = {
 		birth = yes
 	}
@@ -12,7 +12,7 @@
 chinese_central_02 = {
 	name = "Derang"
 	religion = "shendao"
-	culture = "han"
+	culture = "xianbei"
 	820.1.1 = {
 		birth = yes
 	}
@@ -23,7 +23,7 @@ chinese_central_02 = {
 chinese_central_03 = {
 	name = "Shouxin"
 	religion = "shendao"
-	culture = "han"
+	culture = "wuhuan"
 	820.1.1 = {
 		birth = yes
 	}
@@ -34,7 +34,7 @@ chinese_central_03 = {
 chinese_central_04 = {
 	name = "Yunwen"
 	religion = "shendao"
-	culture = "han"
+	culture = "gekun"
 	820.1.1 = {
 		birth = yes
 	}
@@ -45,7 +45,7 @@ chinese_central_04 = {
 chinese_central_05 = {
 	name = "Kuangsi"
 	religion = "shendao"
-	culture = "han"
+	culture = "xinli"
 	820.1.1 = {
 		birth = yes
 	}
@@ -56,7 +56,7 @@ chinese_central_05 = {
 chinese_central_06 = {
 	name = "Chuanyong"
 	religion = "shendao"
-	culture = "han"
+	culture = "guanzhong"
 	820.1.1 = {
 		birth = yes
 	}

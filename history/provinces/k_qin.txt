@@ -3,7 +3,7 @@
     # c_changan_china
         12761 = { # b_changan_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
 
             holding = castle_holding
             buildings = { castle_04 }
@@ -36,7 +36,7 @@
     # c_xianyang_china
         12793 = { # b_xianyang_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
         }
         12825 = { # b_liquan_china
             #
@@ -52,7 +52,7 @@
     # c_wugong_china
         12792 = { # b_wugong_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
         }
         12765 = { # b_zhouzhi_china
             #
@@ -61,7 +61,7 @@
     # c_huazhou_pingyi_china
         12801 = { # b_huazhou_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
         }
         12836 = { # b_xiagui_china
             # Zhengguoqu
@@ -74,7 +74,7 @@
     # c_tongguan_china
         12829 = { # b_tongguan_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
         }
         12858 = { # b_pujinguan_china
             # Zhengguoqu
@@ -87,7 +87,7 @@
     # c_tongzhou_pingyi_china
         12851 = { # b_tongzhoupingyi_china
             religion = zenzong
-            culture = han
+            culture = guanzhong
 
             # Zhengguoqu
             special_building_slot = zhengguoqu_01
