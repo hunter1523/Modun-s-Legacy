@@ -44,10 +44,10 @@ k_lotharingia = {
 		holder = 168700 #Sigebert III
 	}
 	656.2.1 = {
-		holder = 168699 #Clovis II, le Fainéant
+		holder = 168699 #Clovis II, le Fainï¿½ant
 	}
 	657.10.31 = {
-		holder = 168699 #Childéric II
+		holder = 168699 #Childï¿½ric II
 	}
 	675.1.1 = {
 		holder = 168704 #Dagobert II
@@ -65,19 +65,19 @@ k_lotharingia = {
 		holder = 168712 #Dagobert III
 	}
 	715.12.31 = {
-		holder = 168706 #Chilpéric II
+		holder = 168706 #Chilpï¿½ric II
 	}
 	717.1.1 = {
 		holder = 168710 #Clotaire IV
 	}
 	719.1.1 = {
-		holder = 168706 #Chilpéric II
+		holder = 168706 #Chilpï¿½ric II
 	}
 	721.2.13 = {
 		holder = 168713 #Thierry IV
 	}
 	743.2.15 = {
-		holder = 168707 #Childéric III
+		holder = 168707 #Childï¿½ric III
 	}
 	##
 	768.9.24 = {
@@ -1798,7 +1798,7 @@ c_saarbrucken = {
 		holder = 70825
 	}
 
-	#Counts of Saarbrücken
+	#Counts of Saarbrï¿½cken
 	1080.1.1 = {
 		holder = 260463
 	}
@@ -2237,7 +2237,7 @@ c_cologne = {
 		holder = 33173
 	}
 	1332.1.5 = {
-		holder = 487032 #Walram von Jülich
+		holder = 487032 #Walram von Jï¿½lich
 	}
 }
 
@@ -2250,10 +2250,10 @@ c_dortmund = {
 		holder = 190566 #Ricolf
 	}
 	855.1.1 = {
-		liege = "k_lotharingia"
+		liege = "k_east_francia"
 	}
 	865.1.1 = {
-		holder = 163052
+		holder = 163054
 	}
 
 	936.1.1 = {
@@ -2340,7 +2340,7 @@ c_dortmund = {
 		holder = 33173
 	}
 	1332.1.5 = {
-		holder = 487032 #Walram von Jülich
+		holder = 487032 #Walram von Jï¿½lich
 	}
 }
 
@@ -2402,10 +2402,10 @@ c_mark = {
 		holder = 190566 #Ricolf
 	}
 	855.1.1 = {
-		liege = "k_lotharingia"
+		liege = "k_east_francia"
 	}
 	865.1.1 = {
-		holder = 163052
+		holder = 163054
 	}
 	936.7.2 = {
 		holder = 1292
@@ -2550,10 +2550,10 @@ c_bergh = {
 		holder = 190566 #Ricolf
 	}
 	855.1.1={
-		liege = "k_lotharingia"
+		liege = "k_east_francia"
 	}
 	865.1.1={
-		holder = 163052
+		holder = 163054
 	}
 	936.7.2 = {
 		holder = 1292

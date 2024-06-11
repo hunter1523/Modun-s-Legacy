@@ -1219,7 +1219,7 @@ c_vienna = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1249,7 +1249,7 @@ c_hohenau = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1279,7 +1279,7 @@ c_sankt_polten = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1309,7 +1309,7 @@ c_freistadt = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1339,7 +1339,7 @@ c_amstetten = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1369,7 +1369,7 @@ c_krems = {
 	}
 	853.1.18 = {
 		holder = 167796 #Wilhelm II
-		liege = "d_bavaria"
+		liege = 0
 	}
 }
 
@@ -1515,7 +1515,7 @@ c_karnten = {
 
 	#Should be in east Francia from 840 onward
 	856.1.1 = {
-		liege = d_carinthia
+		liege = 0
 	}
 	863.1.1 = {
 		holder = 168302
@@ -1533,7 +1533,7 @@ c_kammersberg = {
 
 	#Should be in east Francia from 840 onward
 	856.1.1 = {
-		liege = d_carinthia
+		liege = 0
 	}
 	863.1.1 = {
 		holder = 168302
@@ -1550,7 +1550,7 @@ c_knittelfeld = {
 
 	#Should be in east Francia from 840 onward
 	856.1.1 = {
-		liege = d_carinthia
+		liege = 0
 	}
 	863.1.1 = {
 		holder = 168302
@@ -1581,7 +1581,7 @@ c_villach = {
 
 	#Should be in east Francia from 840 onward
 	856.1.1 = {
-		liege = d_carinthia
+		liege = 0
 	}
 	863.1.1 = {
 		holder = 168302

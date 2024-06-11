@@ -59,7 +59,7 @@ d_gascogne = {	#AKA Vasconia
 	}
 	768.1.1 = {
 		holder = 168104	#Lop / Loup II
-		liege = k_france
+		liege = 0
 	}
 	812.1.1 = {
 		holder = 168105	#Semen I Lop
@@ -177,7 +177,7 @@ c_albret = {
 		holder = 190501 #Guillaume
 	}
 	864.1.1 = {
-		liege = "d_gascogne"
+		liege = 0
 		holder = 163060
 	}
 }
@@ -497,15 +497,15 @@ c_auvergne = {
 
 c_clermont_sur_allier = {
 	864.1.1 = {
-		liege = d_aquitaine
+		liege = 0
 		holder = 127021	#Bernard I
 	}
 }
 
 c_thiers = {
 	864.1.1 = {
-		liege = d_aquitaine
-		holder = 127021	#Bernard I
+		liege = k_east_francia
+		holder = 168238
 	}
 }
 
@@ -514,9 +514,9 @@ c_velay = {
 	688.1.1 = {
 		liege = d_aquitaine
 	}
-	866.10.1 = {	#No data, was under duchy of Aquitaine so we default to its owner
-		holder = 90128 #Ramnulf II
-		liege = d_aquitaine
+	866.10.1 = {
+		holder = 168148
+		liege = k_east_francia
 	}
 }
 
@@ -662,7 +662,7 @@ c_lusignan = {
 
 c_montaigu = {
 	865.1.1 = {
-		liege = 0
+		liege = k_france
 		holder = 6878 # Hastein, the feared Viking chieftain
 		#Hastein had a base on the island of Noirmoutier
 	}

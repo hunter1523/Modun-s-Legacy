@@ -230,7 +230,7 @@ c_ostfriesland = {
 		holder = 168621
 	}
 	860.1.1 = {
-		liege = "d_holland"
+		liege = "d_angria"
 	}
 
 	860.1.1 = {

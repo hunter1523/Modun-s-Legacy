@@ -9,7 +9,7 @@ k_brittany = {
 		holder = 159965	#Erispo�
 	}
 	857.11.2 = {
-		holder = 163105	#Salomon
+		holder = 90104
 	}
 }
 

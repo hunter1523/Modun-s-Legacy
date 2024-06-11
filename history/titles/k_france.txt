@@ -173,7 +173,7 @@ c_vermandois = {
 		holder = 6392
 	}
 	834.1.1 = {
-		liege = "k_france"
+		liege = "k_lotharingia"
 		holder = 6398 #P�pin
 	}
 }
@@ -181,10 +181,10 @@ c_vermandois = {
 c_valois = {
 	829.1.1 = {
 		holder = 7976	#Boson/Boso the Old, founder of Bosonid dynasty
-		liege = k_france
+		liege = k_lotharingia
 	}
 	867.1.1 = {
-		holder = 90104	#Charles the Bad, no historical data so we give it to him to default
+		holder = 6398
 	}
 }
 
@@ -192,7 +192,7 @@ c_valois = {
 c_amiens = {
 	840.1.1 = {
 		holder = 303408	#B�ranger I of Amiens
-		liege = k_france
+		liege = k_lotharingia
 	}
 	859.1.1 = {
 		holder = 303409	#B�ranger II of Amiens
@@ -230,7 +230,7 @@ c_clermont = {
 	#No data, placeholder
 	840.1.1 = {
 		holder = 303408	#B�ranger I of Amiens
-		liege = k_france
+		liege = k_lotharingia
 	}
 	859.1.1 = {
 		holder = 303409	#B�ranger II of Amiens
@@ -426,12 +426,8 @@ c_avranches = {
 		holder = 6440 #Robert le fort
 	}
 	866.7.2 = {
-		holder = 168041
-		liege = "d_normandy"	#as March of Neustria against the Normands/Vikings
-	}
-	867.8.1 = {	#Treaty of Compi�gne
-		liege = "d_brittany"
-		holder = 163105 # Solomon of Brittany takes it
+		holder = 168171
+		liege = 0
 	}
 }
 
@@ -475,7 +471,7 @@ c_eu = {
 		holder = 6440 #Robert le fort
 	}
 	866.7.2 = {
-		holder = 168171
+		holder = 168041
 		liege = "d_normandy"	#as March of Neustria against the Normands/Vikings
 	}
 }
@@ -581,7 +577,7 @@ c_langres = {
 	#? - Richard ?
 	853.1.1 = {
 		holder = 303414	#Milon I Milonid
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
@@ -618,7 +614,7 @@ d_flanders = {
 	#	holder = 91487
 	#}
 	865.1.1 = {
-		liege = "k_france"
+		liege = "k_lotharingia"
 		holder = 90109 #Boudewijn I "Iron Arm"
 	}
 }
@@ -713,14 +709,14 @@ c_dijon = {
 
 	867.1.1 = {
 		holder = 303420	#Raoul I of Dijon
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
 c_chalon = {
 	863.1.1 = {
 		holder = 163066	#Ecchard of M�con
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
@@ -740,16 +736,16 @@ c_auxerre = {
 
 c_tonnerrois = {
 	#814-954 : bishops of Langres
-	867.1.1 = {	#Placeholder-ish to the king of France
-		holder = 90104	#king Charles the Bald
-		liege = k_france
+	867.1.1 = {
+		holder = 303420
+		liege = k_lotharingia
 	}
 }
 
 c_avalois = {
 	867.1.1 = {
 		holder = 303419	#Jean, placeholder as there's no data
-		liege = k_france
+		liege = k_lotharingia
 		government = theocracy_government
 	}
 }
@@ -758,7 +754,7 @@ c_macon = {
 	863.1.1 = {
 		holder = 163066	#Ecchard of M�con
 		#Technically should only be from 876-876, but can't find info on his predecessor, Eudes I, son of Arduin I
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
@@ -787,7 +783,7 @@ c_reims = {
 	}
 	845.1.1 = {
 		government = theocracy_government
-		liege = "k_france"
+		liege = "k_lotharingia"
 		holder = 163049		#Hincmar of Reims
 	}
 }
@@ -812,13 +808,13 @@ c_troyes = {
 	#820 - Aleran
 	853.1.1 = {
 		holder = 163065	#Eudes Ie of Troyes
-		liege = k_france
+		liege = k_lotharingia
 	}
 	#858.1.1 = {
 	#	holder = Rodolphe de Ponthieu
 	#}
 	866.1.1 = {
-		holder = 163065	#Eudes Ie of Troyes
+		holder = 303406
 	}
 }
 
@@ -841,13 +837,13 @@ c_coulommiers = { #c_provins
 	#820 - Aleran
 	853.1.1 = {
 		holder = 163065	#Eudes Ie of Troyes
-		liege = k_france
+		liege = k_lotharingia
 	}
 	#858.1.1 = {
 	#	holder = Rodolphe de Ponthieu
 	#}
 	866.1.1 = {
-		holder = 163065	#Eudes Ie of Troyes
+		holder = 168244
 	}
 }
 
@@ -859,9 +855,9 @@ c_meaux = {
 	#	liege = k_france
 	#}
 
-	866.1.1 = {	#Placeholder, to keep Meaux within Champagne/France in 867
-		holder = 163065	#Eudes Ie of Troyes
-		liege = k_france
+	866.1.1 = {
+		holder = 168244
+		liege = k_lotharingia
 	}
 }
 
@@ -869,7 +865,7 @@ c_meaux = {
 c_chalons = {
 	857.1.1 = {
 		holder = 303406	#Erchenrad bishop of Chalons in 857-868
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
@@ -877,14 +873,14 @@ c_chalons = {
 c_rethel = {
 	867.1.1 = {
 		holder = 303407	#placeholder, couldn't find data
-		liege = k_france
+		liege = k_lotharingia
 	}
 }
 
 
 c_sens = {
 	817.1.1 = {
-		liege = k_france
+		liege = k_lotharingia
 		holder = 144975	#Arnoul / Arnulf
 	}
 	841.1.1 = {
