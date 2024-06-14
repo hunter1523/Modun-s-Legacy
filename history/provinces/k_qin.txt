@@ -6,12 +6,12 @@
             culture = guanzhong
 
             holding = castle_holding
-            buildings = { castle_04 }
+            #buildings = { castle_04 }
 
-            duchy_capital_building = daming_palace_01
+            #duchy_capital_building = daming_palace_01
 
             special_building_slot = wild_goose_pagoda_01
-            special_building = wild_goose_pagoda_01
+            #special_building = wild_goose_pagoda_01
         }
         12766 = { # b_wannian_china
             holding = castle_holding

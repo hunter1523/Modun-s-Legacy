@@ -9,10 +9,10 @@
                 holding = castle_holding
 
                 960.1.1 = {
-                    buildings = { castle_04 }
+                    #buildings = { castle_04 }
                 }
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12807 = { # b_chenliu_china
             }
@@ -36,12 +36,12 @@
             12844 = { # b_chuqiu_china
                 holding = city_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12791 = { # b_dangshan_china
                 holding = church_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12769 = { # b_xiangyi_zhecheng_china
             }
@@ -55,7 +55,7 @@
             12734 = { # b_yongcheng_mapu_china
                 holding = city_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12675 = { # b_mengcheng_shansang_china
             }
@@ -99,7 +99,7 @@
                 religion = zenzong
                 culture = xianbei
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12907 = { # b_shengshi_lihu_china
             }
@@ -122,12 +122,12 @@
 
                 holding = castle_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12666 = { # b_hongxian_xiaqiu_china
                 holding = city_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
         # c_sizhou_xu_china
             12672 = { # b_sizhou_linhuai_china
@@ -136,7 +136,7 @@
 
                 holding = castle_holding
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12725 = { # b_lianshui_china
             }

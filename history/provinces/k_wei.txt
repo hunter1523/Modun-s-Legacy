@@ -6,13 +6,13 @@
                 religion = zhengyi
                 culture = shatuo
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             11807 = { # b_guantao_china
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             12977 = { # b_changle_china
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             11808 = { # b_zhaocheng_xinxian_china
             }
@@ -21,7 +21,7 @@
                 religion = zhengyi
                 culture = shatuo
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
         # c_bozhou_wei_china
             11868 = { # b_bozhouliaocheng_china
@@ -37,13 +37,13 @@
                 religion = zhengyi
                 culture = shatuo
 
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             11922 = { # b_beizhouqinghe_china
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
             11910 = { # b_yongjixian_china
-                special_building = china_grand_canal_01
+                #special_building = china_grand_canal_01
             }
     ## d_xiangwei_china
         # c_weizhou_ji_china

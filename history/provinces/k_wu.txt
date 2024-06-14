@@ -7,12 +7,12 @@
 
             holding = castle_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12629 = { # b_gaoyou_china
             holding = city_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12586 = { # b_hailing_china
             #
@@ -41,7 +41,7 @@
         12644 = { # b_xuyi_china
             holding = city_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12682 = { # b_yancheng_china
             #
@@ -123,7 +123,7 @@
                 culture = wu
             }
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12502 = { # b_shanghai_wusong_china
             #
@@ -134,7 +134,7 @@
         12386 = { # b_jiaxing_haiyan_china
             holding = castle_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12422 = { # b_huating_kunshan_china
             #
@@ -146,7 +146,7 @@
 
             937.1.1 = {
                 holding = castle_holding
-                buildings = { castle_04 }
+                #buildings = { castle_04 }
             }
         }
         12554 = { # b_gourong_china
@@ -159,7 +159,7 @@
 
             holding = castle_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12539 = { # b_maoshan_china
 
@@ -182,12 +182,12 @@
                 culture = wu
             }
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12524 = { # b_jiangyin_junshan_china
             holding = city_holding
 
-            special_building = china_grand_canal_01
+            #special_building = china_grand_canal_01
         }
         12499 = { # b_wuxi_china
             #

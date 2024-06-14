@@ -92,7 +92,7 @@
             culture = yue
             religion = zenzong
             holding = castle_holding
-            buildings = { castle_04 }
+            #buildings = { castle_04 }
         }
         12466 = { # b_changmen_jingmen_china
             #
