@@ -10,7 +10,7 @@
 ##d_transcaspiana ###################################
 ###c_mangyshlak
 624 = {		#Aktau
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -35,7 +35,7 @@
 
 ###c_garabogazkol
 627 = {		#Kyzyl-Su
-	culture = turkish
+	culture = khwarezmian
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -60,7 +60,7 @@
 
 ###c_ustyurt
 625 = {		#Bailjar
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -81,7 +81,7 @@
 ##d_jemba ###################################
 ###c_qoshagyl
 7065 = {	#Qoshagyl
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -109,7 +109,7 @@
 
 ###c_akkityk
 621 = {		#Akkityk
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -136,7 +136,7 @@
 ###c_kos-buwak
 7070 = {	#Kos-Buwak
 	#Based on Kos-boolak lake, found on map reference AAA
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -175,8 +175,8 @@
 7110 = {	#Kazalinsk	AKA Kazaly
 	holding = none
 }
-7114 = {	#Buzaï/Buzai
-	#Found as "Bousaï" south-east quadrant of Aral Sea on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
+7114 = {	#Buzaï¿½/Buzai
+	#Found as "Bousaï¿½" south-east quadrant of Aral Sea on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
 	holding = none
 }
 7115 = {	#Koskul
@@ -210,7 +210,7 @@
 ###c_ak-dzulpas
 622 = {		#Ak-Dzulpas
 	#Found as "Ak-Djoulpas" on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -231,7 +231,7 @@
 ###c_aralkizil
 623 = {		#Kassarma
 	#Found as "Kasarma" on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -257,7 +257,7 @@
 ###c_terekli
 7103 = {	#Terekli
 	#Found as "Terekli" on map reference AAA
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -284,7 +284,7 @@
 
 ###c_barsuki
 7096 = {	#Barsuki
-	culture = turkish
+	culture = alan
 	religion = tengri_pagan
 	holding = tribal_holding
 	1066.1.1 = {
@@ -302,7 +302,7 @@
 	#Based on Emba river, there's also a settlement of that name
 	holding = none
 }
-7098 = {	#Chushka-Köl/Chushka-Kol
+7098 = {	#Chushka-Kï¿½l/Chushka-Kol
 	holding = none
 }
 

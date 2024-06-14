@@ -9,14 +9,6 @@
 	holding = castle_holding
 
 	# History
-	850.1.1 = {
-		culture = tangut
-		religion = vajrayana
-	} #Lingzhou/Lingwu area captured by Tanguts
-	1230.1.1 = {
-		culture = han
-		religion = zenzong
-	}#Tanguts flee the capital region
 }
 9544 = {	# Dingzhou (Helan)
 	holding = city_holding
@@ -37,14 +29,6 @@
 	holding = castle_holding
 
 	# History
-	850.1.1 = {
-		culture = tangut
-		religion = vajrayana
-	} #Lingzhou/Lingwu area captured by Tanguts
-	1230.1.1 = {
-		culture = han
-		religion = zenzong
-	}#Tanguts flee the capital region
 }
 9534 = {	# Shapotou
 	holding = church_holding
@@ -64,14 +48,6 @@
 	holding = tribal_holding
 
 	# History
-	800.1.1 = {
-		culture = shatuo
-		religion = nestorian
-	}
-	1000.1.1 = {
-		culture = ongud
-		holding = castle_holding
-	}
 }
 9538 = {	# Wuyuan/Uyuvan
 	holding = none #nomad
@@ -94,20 +70,6 @@
 	holding = tribal_holding
 
 	# History
-	1002.1.1 = {
-		culture = tangut
-		religion = melieism
-	} #Lingzhou/Lingwu area captured by Tanguts
-	1050.1.1 = {
-		holding = castle_holding
-	}
-	1100.1.1 = {
-		religion = vajrayana
-	}
-	1230.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tanguts flee the capital region
 }
 9540 = {	# Zhongcun
 	holding = none #nomad
@@ -121,23 +83,12 @@
 ###c_zhenfan (Minqin/Sogo Khoto)
 9518 = {	# Zhenfan/Sogo Khoto (Minqin)
 	# Misc
-	culture = tuyuhun #Tuoba
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding #farmlands
 
 	# History
-	700.1.1 = {
-		religion = melieism
-		culture = tangut
-	}
-	1032.1.1 = {
-		religion = vajrayana
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9519 = {	# Jiahe
 	holding = none #farmlands
@@ -146,20 +97,12 @@
 ###c_tenggeli (Tengger)
 9532 = {	# Nanhu
 	# Misc
-	culture = tuyuhun #Tuoba
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding #nomad
 
 	# History
-	700.1.1 = {
-		religion = melieism
-		culture = tangut
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9533 = {	# Chaganbulage
 	holding = none #nomad
@@ -172,20 +115,12 @@
 # 9509 - Alxa (Alashan)
 9509 = {	# Alxa/Alashan
 	# Misc
-	culture = tuyuhun #Tuoba
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding #nomad
 
 	# History
-	700.1.1 = {
-		religion = melieism
-		culture = tangut
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9520 = {	# Yabulai
 	holding = none
@@ -199,24 +134,12 @@
 ###c_liangzhou (Wuwei)
 9523 = {	# Gulang
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	900.1.1 = {
-		culture = bodpa
-		religion = lamaism
-	}
-	1032.1.1 = {
-		culture = tangut
-		religion = vajrayana
-	}
-	1250.1.1 = {
-		culture = han
-		religion = zenzong
-	}#Tangut culture begins to be absorbed
 }
 9521 = {	# Liangzhou (Wuwei)
 	holding = city_holding
@@ -228,7 +151,7 @@
 ###c_fanhe
 9516 = {	# Fanhe (Yongchang)
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -242,20 +165,12 @@
 ###c_dajing
 9525 = {	# Dajing
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	1032.1.1 = {
-		culture = tangut
-		religion = vajrayana
-	}
-	1250.1.1 = {
-		culture = han
-		religion = zenzong
-	}#Tangut culture begins to be absorbed
 }
 9529 = {	# Jingtai
 	holding = city_holding
@@ -264,7 +179,7 @@
 ###c_baiyin
 9531 = {	# Baiyin
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -281,7 +196,7 @@
 ###c_yongdeng
 9528 = {	# Yongdeng
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -379,16 +294,12 @@
 ###c_qilin
 9511 = {	# Babao (Qilin)
 	# Misc
-	culture = tuyuhun
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-		religion = lamaism
-	}
 }
 9512 = {	# Semnyi
 	holding = none #tribal
@@ -397,16 +308,12 @@
 ###c_yalong
 9490 = {	# Yalong
 	# Misc
-	culture = tuyuhun
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-		religion = manichean
-	}
 }
 9497 = {	# Yeniugou
 	holding = none #tribal
@@ -417,18 +324,12 @@
 ###c_ganzhou
 9513 = {	# Ganzhou (Zhangye)
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-	}
-	926.1.1 = { #To reflect the new ruler's faith and ensure capital is the same
-		religion = vajrayana
-	}
 }
 9514 = {	# Shandan
 	holding = city_holding
@@ -440,15 +341,12 @@
 ###c_linze
 9501 = {	# Linze
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-	}
 }
 9500 = {	# Ganjun
 	holding = city_holding
@@ -460,19 +358,12 @@
 ###c_gaotai
 9502 = {	# Gaotai
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-		religion = manichean
-	}
-	1080.1.1 = {
-		religion = zenzong
-	}
 }
 9499 = {	# Sunan
 	holding = church_holding
@@ -481,15 +372,12 @@
 ###c_jinta
 9496 = {	# Jinta
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-	}
 }
 9495 = {	# Xiba
 	holding = city_holding
@@ -498,16 +386,12 @@
 ###c_suzhou
 9493 = {	# Jiayuguan
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-	}
-
 }
 9494 = {	# Suzhou (Jiuquan)
 	holding = city_holding
@@ -519,15 +403,12 @@
 ###c_yumen
 9491 = {	# Chijin
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-	}
 }
 9487 = {	# Yumen
 	holding = city_holding
@@ -541,22 +422,12 @@
 ###c_yijinai
 9506 = {	# Yijinai
 	# Misc
-	culture = tangut
+	culture = shatuo
 	religion = melieism
 
 	holding = tribal_holding
 
 	# History
-	1000.1.1 = {
-		religion = vajrayana
-	}
-	1032.1.1 = {
-		holding = castle_holding
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9507 = {	# Juyan
 	holding = none #nomad - initially a church_holding, but changed due to holder being tribal
@@ -570,20 +441,12 @@
 ###c_wentugaole
 9510 = {	# Wentugaole
 	# Misc
-	culture = tuyuhun #Tuoba
+	culture = shatuo
 	religion = tengri_pagan
 
 	holding = tribal_holding #nomad
 
 	# History
-	700.1.1 = {
-		religion = melieism
-		culture = tangut
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9548 = {	# Gurinai
 	holding = none #nomad
@@ -592,24 +455,12 @@
 ###c_heihe
 9505 = {	# Hangtian
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
 
 	# History
-	894.1.1 = {
-		culture = yughur
-		religion = manichean
-	}
-	1050.1.1 = {
-		culture = tangut
-		religion = vajrayana
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9504 = {	# Heihe
 	holding = city_holding
@@ -623,20 +474,12 @@
 ###c_mazongshan
 9489 = {	#  Mazongshan
 	# Misc
-	culture = yughur
+	culture = shatuo
 	religion = manichean #zenzong
 
 	holding = tribal_holding #nomad
 
 	# History
-	1032.1.1 = {
-		culture = tangut
-		religion = melieism
-	}
-	1250.1.1 = {
-		culture = mongol
-		religion = tengri_pagan
-	}#Tangut culture begins to be absorbed
 }
 9508 = {	# Saihantaolai
 	holding = none #nomad
@@ -647,7 +490,7 @@
 ###c_guazhou
 9482 = {	# Guazhou
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -664,7 +507,7 @@
 ###c_changma
 9485 = {	# Changma
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -678,7 +521,7 @@
 ###c_hongliuyuan
 9483 = {	# Hongliuyuan
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -695,7 +538,7 @@
 ###c_shazhou
 9476 = {	# Shazhou (Dunhuang/Dukhan)
 	# Misc
-	culture = sogdian
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding
@@ -712,7 +555,7 @@
 ###c_yumenguan
 9474 = {	# Yumenguan
 	# Misc
-	culture = han
+	culture = shatuo
 	religion = zenzong
 
 	holding = castle_holding

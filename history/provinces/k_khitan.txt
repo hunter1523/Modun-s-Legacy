@@ -2,7 +2,7 @@
 ## d_xiliao
     # c_dongyi
         13622 = { # b_kayilu
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -18,7 +18,7 @@
         }
     # c_sumu
         13956 = { # b_wadan_khitan
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -34,12 +34,8 @@
         }
     # c_13958
         13958 = { # b_tuhe
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            1150.1.1 = {
-                culture = jurchen
-            }
 
             holding = tribal_holding
         }
@@ -54,12 +50,8 @@
         }
     # c_shangjing
         13656 = { # b_shangjing
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            900.1.1 = {
-                religion = mahayana
-            }
 
             holding = tribal_holding
         }
@@ -77,12 +69,8 @@
         }
     # c_qingzhou
         12614 = { # b_qingzhou
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            900.1.1 = {
-                religion = mahayana
-            }
 
             holding = tribal_holding
         }
@@ -97,7 +85,7 @@
         }
     # c_13598
         12565 = { # b_songmo
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -110,7 +98,7 @@
         }
     # c_sira_moren
         13597 = { # b_dalu
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -124,12 +112,8 @@
 ## d_taoer
     # c_hure
         13953 = { # b_hure
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            1150.1.1 = {
-                culture = jurchen
-            }
 
             holding = tribal_holding
         }
@@ -141,12 +125,8 @@
         }
     # c_jirem
         12607 = { # b_bayisingtu
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            1150.1.1 = {
-                culture = jurchen
-            }
 
             holding = tribal_holding
         }
@@ -164,7 +144,7 @@
         }
     # c_huangtou
         12705 = { # b_taizhou
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -181,12 +161,8 @@
 ## d_irkin
     # c_13797
         11837 = { # b_baoshi
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
-
-            900.1.1 = {
-                culture = khitan
-            }
 
             holding = tribal_holding
         }
@@ -198,12 +174,8 @@
         }
     # c_shi
         13713 = { # b_urd_najai
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
-
-            900.1.1 = {
-                culture = khitan
-            }
 
             holding = tribal_holding
         }
@@ -215,7 +187,7 @@
         }
     # c_juyuan
         12716 = { # b_alahumaki
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -232,12 +204,8 @@
 ## d_raole
     # c_liaocheng
         13919 = { # b_liaocheng
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
-
-            1150.1.1 = {
-                culture = jurchen
-            }
 
             holding = tribal_holding
         }
@@ -255,7 +223,7 @@
         }
     # c_12344
         12344 = { # b_wei_le
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -265,7 +233,7 @@
         }
     # c_raole
         13908 = { # b_qili
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -278,7 +246,7 @@
         }
     # c_13886
         13886 = { # b_ruoshui
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -294,7 +262,7 @@
         }
     # c_13876
         13876 = { # b_13876
-            culture = khitan
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding

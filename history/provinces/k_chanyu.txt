@@ -2,7 +2,7 @@
 ## d_ujumuchin
     # c_merten_tolgod_nuurud
         13968 = { # b_dongoin_shire
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -12,7 +12,7 @@
         }
     # c_barayun
         13977 = { # b_alatanheli
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -25,7 +25,7 @@
         }
     # c_jejun
         13635 = { # b_diem_keer
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
 
             holding = tribal_holding
@@ -41,13 +41,8 @@
         }
     # c_12758
         12758 = { # b_12758
-            culture = barsil
+            culture = shatuo
             religion = tengri_pagan
-
-            900.1.1 = {
-                culture = qay
-                religion = eastern_tengri
-            }
 
             holding = tribal_holding
         }
@@ -60,13 +55,8 @@
 ## d_sanggan
     # c_dingxiang
         13630 = { # b_dzamin_uude
-            culture = barsil
+            culture = shatuo
             religion = tengri_pagan
-
-            900.1.1 = {
-                culture = qay
-                religion = eastern_tengri
-            }
 
             holding = tribal_holding
         }
@@ -75,15 +65,8 @@
         }
     # c_abaga
         13596 = { # b_abaga
-            culture = qay
+            culture = shatuo
             religion = eastern_tengri
-
-            1050.1.1 = {
-                culture = khitan
-            }
-            1150.1.1 = {
-                culture = qay
-            }
 
             holding = tribal_holding
         }
@@ -98,14 +81,6 @@
             culture = shatuo
             religion = tengri_pagan
 
-            900.1.1 = {
-                culture = qay
-                religion = eastern_tengri
-            }
-            1000.1.1 = {
-                culture = ongud
-            }
-
             holding = tribal_holding
         }
         13913 = { # b_13913
@@ -116,10 +91,6 @@
         12283 = { # b_chengle
             culture = shatuo
             religion = mahayana
-
-            1000.1.1 = {
-                culture = ongud
-            }
 
             holding = tribal_holding
         }
@@ -146,13 +117,6 @@
             culture = shatuo
             religion = mahayana
 
-            900.1.1 = {
-                culture = khitan
-            }
-            1150.1.1 = {
-                culture = ongud
-            }
-
             holding = tribal_holding
         }
         12394 = { # b_12394
@@ -168,10 +132,6 @@
         13857 = { # b_tungsheng
             culture = shatuo
             religion = manichean
-
-            1000.1.1 = {
-                culture = ongud
-            }
 
             holding = tribal_holding
         }
@@ -192,10 +152,6 @@
             culture = shatuo
             religion = manichean
 
-            1000.1.1 = {
-                culture = ongud
-            }
-
             holding = tribal_holding
         }
         13894 = { # b_qaraqum
@@ -208,10 +164,6 @@
         12452 = { # b_ulan_hua
             culture = shatuo
             religion = tengri_pagan
-
-            1000.1.1 = {
-                culture = ongud
-            }
 
             holding = tribal_holding
         }
@@ -226,10 +178,6 @@
             culture = shatuo
             religion = manichean
 
-            1000.1.1 = {
-                culture = ongud
-            }
-
             holding = tribal_holding
         }
         12189 = { # b_hebin_china
@@ -238,15 +186,8 @@
 ## d_omnogobi
     # c_mangasiin
         12459 = { # b_mangasiin_khuree
-            culture = qun
+            culture = shatuo
             religion = tengri_pagan
-
-            900.1.1 = {
-                culture = barsil
-            }
-            1000.1.1 = {
-                culture = ongud
-            }
 
             holding = tribal_holding
         }
@@ -255,15 +196,8 @@
         }
     # c_dalanzadgad
         12557 = { # b_dalanzadgad
-            culture = qun
+            culture = shatuo
             religion = tengri_pagan
-
-            900.1.1 = {
-                culture = barsil
-            }
-            1000.1.1 = {
-                culture = ongud
-            }
 
             holding = tribal_holding
         }
@@ -278,13 +212,8 @@
         }
     # c_berke
         12770 = { # b_berke
-            culture = barsil
+            culture = shatuo
             religion = tengri_pagan
-
-            1000.1.1 = {
-                culture = mongol
-                religion = eastern_tengri
-            }
 
             holding = tribal_holding
         }

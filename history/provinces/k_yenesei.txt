@@ -84,7 +84,7 @@
         }
     # c_mana
         7736 = { # b_kyzyl-char
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -103,7 +103,7 @@
         }
     # c_bogotul
         7443 = { # b_bogotul
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -120,7 +120,7 @@
 ## d_shoria
     # c_chultuk
         13891 = { # b_esaulka
-            culture = shor
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -136,7 +136,7 @@
         }
     # c_alatau
         7436 = { # b_chebaki
-            culture = shor
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -149,7 +149,7 @@
         }
     # c_taglig_shor
         7664 = { # b_kabyrza
-            culture = shor
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -166,7 +166,7 @@
 ## d_min_usa
     # c_altyr
         13902 = { # b_altyr
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -179,7 +179,7 @@
         }
     # c_abakan
         7668 = { # b_abakan
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -198,7 +198,7 @@
         }
     # c_irik
         7652 = { # b_ust-tuba
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -214,7 +214,7 @@
         }
     # c_mator
         7659 = { # b_ergaki
-            culture = kirghiz
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -233,7 +233,7 @@
         }
     # c_issar
         7665 = { # b_tashtyp
-            culture = cik
+            culture = mogyer
             religion = ulganism
 
             900.1.1 = {

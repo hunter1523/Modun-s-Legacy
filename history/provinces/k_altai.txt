@@ -27,7 +27,7 @@
         }
     # c_xinggenqi_TEMP
         7475 = { # b_tamay_iduk_bash
-            culture = ograk
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -51,7 +51,7 @@
         }
     # c_qinggil
         7480 = { # b_qinggil
-            culture = ograk
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -69,7 +69,7 @@
         }
     # c_changhanzheng_TEMP
         7478 = { # b_turkut
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -93,7 +93,7 @@
 ## d_altai
     # c_ukok
         7515 = { # b_ukok
-            culture = az
+            culture = bolghar
             religion = ulganism
 
             holding = tribal_holding
@@ -106,7 +106,7 @@
         }
     # c_olgii
         7607 = { # b_olgii
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -126,7 +126,7 @@
         }
     # c_kupanwei_TEMP
         7611 = { # b_nogoonuur
-            culture = basmyl
+            culture = mogyer
             religion = tengri_pagan
 
             900.1.1 = {
@@ -146,7 +146,7 @@
         }
     # c_xiaozuozhai_TEMP
         7614 = { # b_tal_tugal
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -163,7 +163,7 @@
         }
     # c_gaoran_TEMP
         13307 = { # b_munkh_bulgan
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -182,7 +182,7 @@
 ## d_ubsunur
     # c_myangad
         7613 = { # b_myangad
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -197,7 +197,7 @@
         }
     # c_bayanuur
         7598 = { # b_bayanuur
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -221,7 +221,7 @@
         }
     # c_oold
         7606 = { # b_guchugut
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -242,7 +242,7 @@
         }
     # c_sharga
         7591 = { # b_tonkhil
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -264,7 +264,7 @@
 ## d_altaigobi
     # c_andri-anqa
         7595 = { # b_andri-anqa
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -285,7 +285,7 @@
         }
     # c_qulan_qol
         1453 = { # b_otegu_qualn
-            culture = qun
+            culture = bolghar
             religion = tengri_pagan
 
             1005.1.1 = {
@@ -305,7 +305,7 @@
         }
     # c_yeson_bulag
         7592 = { # b_yeson_bulag
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -326,7 +326,7 @@
         }
     # c_jiucai_TEMP
         1456 = { # b_haomu_TEMP
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {

@@ -186,7 +186,7 @@
         }
     # c_wupu
         7987 = { # b_wupu
-            culture = uigur
+            culture = bolghar
             religion = manichean
 
             870.1.1 = {
@@ -199,7 +199,7 @@
         }
     # c_qara_del
         13928 = { # b_kumul
-            culture = uigur
+            culture = bolghar
             religion = manichean
 
             870.1.1 = {
@@ -217,7 +217,7 @@
 ## d_beiting
     # c_satanghu
         7509 = { # b_araturak
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -231,7 +231,7 @@
         }
     # c_bolchu
         7507 = { # b_yizhan
-            culture = basmyl
+            culture = bolghar
             religion = tengri_pagan
 
             900.1.1 = {
@@ -252,7 +252,7 @@
         }
     # c_barkol
         7510 = { # b_barkol
-            culture = basmyl
+            culture = bolghar
             religion = vajrayana
 
             900.1.1 = {

@@ -2,7 +2,7 @@
 ##d_salair ###################################
 ###c_ob
 7427 = {	#Ob	AKA Novossibirsk
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -18,7 +18,7 @@
 
 ###c_biia
 1132 = {	#Biia	#Fictional, based on local river
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 	1227.1.1 = {
@@ -35,7 +35,7 @@
 
 ###c_torema
 7426 = {	#Torema	#Fictional, based on local river
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -48,7 +48,7 @@
 
 ###c_sorok
 7422 = {	#Sorok	#Fictional
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -61,7 +61,7 @@
 
 ###c_kondoma
 7421 = {	#Kondoma	#Fictional, based on local river
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -74,7 +74,7 @@
 
 ###c_kyin
 7419 = {	#Kyin	#Fictional, based on local mountain
-	culture = laktan
+	culture = mogyer
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -87,7 +87,7 @@
 
 ###c_aley
 7406 = {	#Aley	#Fictional, based on local river
-	culture = laktan
+	culture = mogyer
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -103,7 +103,7 @@
 
 ###c_korgon
 7405 = {	#Korgon	#Fictional
-	culture = laktan
+	culture = mogyer
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -116,7 +116,7 @@
 
 ###c_terektai
 7412 = {	#Terektai	#Fictional, based on local mountain
-	culture = laktan
+	culture = mogyer
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -392,7 +392,7 @@
 
 ###c_barnaul
 7397 = {	#Barnaul
-	culture = laktan
+	culture = solqumyt
 	religion = ulganism
 	holding = tribal_holding
 }
@@ -413,7 +413,7 @@
 	holding = tribal_holding
 }
 7401 = {	#Dolons
-	#AKA "Dolonskaïa" on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
+	#AKA "Dolonskaï¿½a" on map of Turkestan by Vivien of Saint-Martin & Fr.Schrader
 	holding = none
 }
 7402 = {	#Molibay	#Fictional, based on local lake
@@ -440,13 +440,13 @@
 ## Placeholder
 
 7411 = {
-	culture = az
+	culture = mogyer
 	religion = ulganism
 
 	holding = tribal_holding
 }
 7417 = {
-	culture = az
+	culture = mogyer
 	religion = ulganism
 
 	holding = tribal_holding

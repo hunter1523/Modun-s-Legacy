@@ -4,14 +4,14 @@
         # c_zhaozhou_china
             11995 = { # b_zhaozhoupingji_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11975 = { # b_baixiang_china
             }
         # c_jizhou_zhao_china
             11983 = { # b_jizhou_xindu_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11950 = { # b_nangong_jingcheng_china
             }
@@ -20,14 +20,14 @@
         # c_shenzhou_hebei_china
             12006 = { # b_shenzhouluze_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             12044 = { # b_raoyang_china
             }
         # c_hengzhou_china
             12030 = { # b_hengzhouzhending_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             12027 = { # b_jingxing_china
             }
@@ -37,21 +37,21 @@
         # c_xingzhou_china
             11923 = { # b_xingzhoulonggang_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11934 = { # b_julu_china
             }
         # c_cizhou_china
             11803 = { # b_cizhoufuyang_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11802 = { # b_yexian_china
             }
         # c_mingzhou_hebei_china
             11895 = { # b_mingzhouyongnian_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11894 = { # b_handan_china
             }
@@ -59,7 +59,7 @@
         # c_luzhou_jin_china
             11798 = { # b_shangdang_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             11887 = { # b_yaoguling_china
             }
@@ -72,7 +72,7 @@
         # c_zezhou_china
             12925 = { # b_zezhou_china
                 religion = zhengyi
-                culture = han
+                culture = shatuo
             }
             12973 = { # b_changpingguan_china
             }

@@ -2,7 +2,7 @@
 ## d_xiazhou_china
     # c_xiazhou_china
         12011 = { # b_tongwan_china
-            culture = tangut
+            culture = shatuo
             religion = melieism
         }
         11962 = { # b_ningshuo_china
@@ -16,7 +16,7 @@
         }
     # c_yinzhou_china
         12005 = { # b_yinzhou_china
-            culture = tangut
+            culture = shatuo
             religion = melieism
         }
         12039 = { # b_kaiguang_china
@@ -30,7 +30,7 @@
         }
     # c_suizhou_xia_china
         11964 = { # b_shangxian_china
-            culture = tangut
+            culture = shatuo
             religion = melieism
         }
         11977 = { # b_yanfu_china
@@ -48,7 +48,7 @@
 ## d_shuofang_china
     # c_gaolan_china
         11944 = { # b_mingsha_china
-            culture = tangut
+            culture = shatuo
             religion = vajrayana
         }
         11929 = { # b_weiruhe_china
@@ -56,7 +56,7 @@
         }
     # c_yanzhou_shuofang_china
         11953 = { # b_yanzhouwuyuan_china
-            culture = tangut
+            culture = shatuo
             religion = melieism
         }
         12015 = { # b_baiyanchi_china
@@ -64,7 +64,7 @@
         }
     # c_anle_china
         11942 = { # b_wenchi_china
-            culture = tangut
+            culture = shatuo
             religion = melieism
         }
         11933 = { # b_anlechuan_china
@@ -75,7 +75,7 @@
         }
     # c_huizhou_china
         11764 = { # b_huining_china
-            culture = tuyuhun
+            culture = shatuo
             religion = vajrayana
         }
         11890 = { # b_wulan_china
@@ -84,7 +84,7 @@
 ## d_ordos_china
     # c_ordos_china
         12170 = { # b_ordos_china
-            culture = tuyuhun
+            culture = shatuo
             religion = vajrayana
         }
         12153 = { # b_ulanmulun_china
@@ -98,7 +98,7 @@
         }
     # c_linzhou_shaan_china
         12071 = { # b_linzhou_china
-            culture = tuyuhun
+            culture = shatuo
             religion = vajrayana
         }
         12108 = { # b_liangu_china
@@ -114,11 +114,6 @@
         12104 = { # b_chengwei_china
             culture = shatuo
             religion = tengri_pagan
-
-            850.1.1 = {
-                culture = tangut
-                religion = vajrayana
-            }
         }
         12107 = { # b_luotuogang_china
             #

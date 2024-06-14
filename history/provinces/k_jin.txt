@@ -3,7 +3,7 @@
     ## d_hedong_china
         # c_taiyuan_china
             11990 = { # b_taiyuan_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11974 = { # b_yuci_china
@@ -28,7 +28,7 @@
            }
         # c_chengtianjun_china
             12016 = { # b_shouyang_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11981 = { # b_shiai_china
@@ -36,7 +36,7 @@
             }
         # c_yizhou_hedong_china
             11911 = { # b_liaoshan_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11925 = { # b_yushe_china
@@ -44,7 +44,7 @@
             }
         # c_lanzhou_hedong_china
             12025 = { # b_yifang_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             12043 = { # b_jingle_china
@@ -58,7 +58,7 @@
             }
         # c_hequ_china
             12109 = { # b_baodejun_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             12151 = { # b_hequ_china
@@ -66,7 +66,7 @@
             }
         # c_shizhou_china
             11980 = { # b_lishi_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11971 = { # b_mengmenguan_china
@@ -77,7 +77,7 @@
             }
         # c_qinzhou_hedong_china
             11796 = { # b_qinyuan_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11903 = { # b_mianshang_china
@@ -85,7 +85,7 @@
             }
         # c_fenzhou_china
             11938 = { # b_xicheng_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11909 = { # b_lingshi_china
@@ -176,7 +176,7 @@
     ## d_hezhong_china
         # c_jiangzhou_china
             12962 = { # b_zhengping_china
-                culture = han
+                culture = shatuo
                 religion = shendao
 
                 # White Deer Grotto Academy
@@ -205,7 +205,7 @@
             }
         # c_xizhou_hezhong_china
             11892 = { # b_xichuan_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11930 = { # b_shangpingjin_china
@@ -222,7 +222,7 @@
             }
         # c_cizhou_hezhong_china
             12975 = { # b_jichang_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             11784 = { # b_wencheng_china
@@ -250,7 +250,7 @@
             }
         # c_jinzhou_hezhong_china
             12979 = { # b_linfen_china
-                culture = han
+                culture = shatuo
                 religion = shendao
             }
             12980 = { # b_fuchengguan_china

@@ -85,12 +85,8 @@
 ## d_liaodong
     # c_sheli
         13818 = { # b_jili
-            culture = goguryeo
+            culture = shatuo
             religion = mahayana
-
-            1150.1.1 = {
-                culture = han
-            }
 
             holding = castle_holding
         }
@@ -119,15 +115,8 @@
         }
     # c_jian_an
         12246 = { # b_gaolicheng
-            culture = goguryeo
+            culture = shatuo
             religion = mahayana
-
-            900.1.1 = {
-                culture = balhae
-            }
-            1150.1.1 = {
-                culture = han
-            }
 
             holding = castle_holding
         }
@@ -139,7 +128,7 @@
         }
     # c_liaocheng_goguryeo
         12398 = { # b_liaoyang
-            culture = han
+            culture = goguryeo
             religion = zenzong
 
             holding = castle_holding
@@ -155,18 +144,8 @@
 ## d_jilin
     # c_shenzhou
         13936 = { # b_shenzhou
-            culture = han
+            culture = goguryeo
             religion = zenzong
-
-            900.1.1 = {
-                culture = balhae
-            }
-            1050.1.1 = {
-                culture = khitan
-            }
-            1150.1.1 = {
-                culture = jurchen
-            }
 
             holding = castle_holding
         }

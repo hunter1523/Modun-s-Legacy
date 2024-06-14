@@ -2,7 +2,7 @@
 ## d_otuken
     # c_qarabalgasun
         1457 = { # b_qarabalgasun
-            culture = uigur
+            culture = bolghar
             religion = manichean
 
             holding = tribal_holding
@@ -63,7 +63,7 @@
         }
     # c_arkhangai
         7581 = { # b_tariat
-            culture = uigur
+            culture = bolghar
             religion = tengri_pagan
 
             holding = tribal_holding
@@ -125,7 +125,7 @@
 ## d_ovorkhangai
     # c_ongqin
         7568 = { # b_khutagt
-            culture = qun
+            culture = bolghar
             religion = tengri_pagan
 
             holding = tribal_holding
@@ -163,7 +163,7 @@
         }
     # c_ongi
         7569 = { # b_ongii_sume-tur
-            culture = bayirku
+            culture = bolghar
             religion = tengri_pagan
 
             holding = tribal_holding
@@ -186,7 +186,7 @@
         }
     # c_ikh_khoshoot
         7522 = { # b_ikh_khoshoot
-            culture = uigur
+            culture = bolghar
             religion = tengri_pagan
 
             holding = tribal_holding

@@ -3,7 +3,7 @@
 ## d_tuva
     # c_hourenshe_TEMP
         7673 = { # b_xingongshen_TEMP
-            culture = cik
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -16,7 +16,7 @@
         }
     # c_saryg-sep
         13744 = { # b_saryg-sep
-            culture = cik
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -42,7 +42,7 @@
         }
     # c_elegest
         13712 = { # b_elegest
-            culture = cik
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -61,7 +61,7 @@
         }
     # c_maad
         7640 = { # b_chaa-kol
-            culture = cik
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -77,7 +77,7 @@
         }
     # c_kara-sayan
         7633 = { # b_kara-khol
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -91,7 +91,7 @@
 ## d_tofalar
     # c_zhanbiaoze_TEMP
         7672 = { # b_dingmianmiao_TEMP
-            culture = todzh
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -101,7 +101,7 @@
         }
     # c_tofalar
         7682 = { # b_shityy
-            culture = todzh
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -114,7 +114,7 @@
         }
     # c_ahyn_khadalig_ghazar
         7786 = { # b_dubo
-            culture = todzh
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -124,7 +124,7 @@
         }
     # c_chunsayan
         7674 = { # b_bendingji_TEMP
-            culture = todzh
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -140,7 +140,7 @@
         }
     # c_toora
         7623 = { # b_zhousheshun_TEMP
-            culture = todzh
+            culture = solqumyt
             religion = ulganism
 
             holding = tribal_holding
@@ -247,7 +247,7 @@
 ## d_songualtai
     # c_katanda
         13529 = { # b_katanda
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -260,7 +260,7 @@
         }
     # c_kalbak-tash
         13632 = { # b_kalbak-tash
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -273,7 +273,7 @@
         }
     # c_chuya
         13531 = { # b_chuya
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -283,7 +283,7 @@
         }
     # c_ak-sayan
         7625 = { # b_ak_khol
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
@@ -299,7 +299,7 @@
         }
     # c_chunnengjian_TEMP
         7669 = { # b_kudyrge
-            culture = az
+            culture = mogyer
             religion = ulganism
 
             holding = tribal_holding
