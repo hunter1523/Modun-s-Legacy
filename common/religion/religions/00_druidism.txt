@@ -236,13 +236,8 @@ druidism_religion = {
 	faiths = {
 		druidism = {
 			color = { 39 91 34 }
-<<<<<<< Updated upstream
-			icon = custom_faith_icon_2
-			reformed_icon = hellenic_reformed
-=======
 			icon = custom_faith_icon_3
 			reformed_icon = custom_faith_icon_3_reformed
->>>>>>> Stashed changes
 
 			holy_site = rome
 			holy_site = athens
