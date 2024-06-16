@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿ji_zhou = {
 	name = "dynn_Ji"
 	culture = "han"
@@ -17,4 +18,25 @@ wu_changsha = {
 zhao_nanyue = {
 	name = "dynn_Zhao"
 	culture = "han"
+=======
+﻿ji_zhou = {
+	name = "dynn_Ji"
+	culture = "han"
+}
+han_huaiyin = {
+	name = "dynn_HA_n"
+	culture = "han"
+}
+ying_huainan = {
+	name = "dynn_Ying"
+	culture = "han"
+}
+wu_changsha = {
+	name = "dynn_Wu"
+	culture = "han"
+}
+zhao_nanyue = {
+	name = "dynn_Zhao"
+	culture = "han"
+>>>>>>> Stashed changes
 }

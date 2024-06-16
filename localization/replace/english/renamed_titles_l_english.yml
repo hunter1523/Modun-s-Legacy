@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿l_english:
  k_croatia:0 "Quadia"
  k_croatia_adj:0 "Quadi"
@@ -16,4 +17,24 @@
  k_poland_pre:0 "Lugi"
  k_sorbia:0 "Suebia"
  k_sorbia_adj:0 "Suebian"
+=======
+﻿l_english:
+ k_croatia:0 "Quadia"
+ k_croatia_adj:0 "Quadi"
+ k_croatia_pre:0 "Quado"
+ k_bulgaria:0 "Thervingia"
+ k_bulgaria_adj:0 "Thervingian"
+ k_bulgaria_pre:0 "Thervingi"
+ k_thessalonika:0 "Macedonia"
+ k_thessalonika_adj:0 "Macedonian"
+ k_thessalonika_pre:0 "Macedon"
+ k_hungary:0 "Ardacia"
+ k_hungary_adj:0 "Gepid"
+ k_hungary_pre:0 "Gepid"
+ k_poland:0 "Lugia"
+ k_poland_adj:0 "Lugian"
+ k_poland_pre:0 "Lugi"
+ k_sorbia:0 "Suebia"
+ k_sorbia_adj:0 "Suebian"
+>>>>>>> Stashed changes
  k_sorbia_pre:0 "Suebo"

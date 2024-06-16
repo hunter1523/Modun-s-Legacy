@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿l_english:
  dynn_Ji: "Ji" #姬
  dynn_HA_n: "Hán" #韓
@@ -26,4 +27,34 @@
  name_Zhongshi: "Zhongshi" #仲始/Trọng Thủy
  name_Mo: "Mo" #眜/Mạt
  name_Yingqi: "Yingqi" #嬰齊/Anh Tề
+=======
+﻿l_english:
+ dynn_Ji: "Ji" #姬
+ dynn_HA_n: "Hán" #韓
+ dynn_Ying: "Ying" #英
+ k_ancient_han2: "$dynn_HA_n$"
+ k_ancient_chu: "$k_chu_china$"
+ k_ancient_huainan: "$d_huainan_china$"
+ k_ancient_changsha: "$c_changsha_china$"
+ name_Chengshi: "Chengshi" #成師
+ name_Shan: "Shan" #鱔
+ name_Cang: "Cang" #倉
+ name_Ying: "Ying" #嬰
+ name_Jiu: "Jiu" #咎
+ name_Huanhui: "Huanhui" #桓惠
+ name_An: "An" #安
+ name_Jishi: "Jishi" #蟣蝨
+ name_Xin: "Xin" #信
+ name_Shizhi: "Shizhi" #釋之
+ name_Rui: "Rui" #芮
+ name_Chen: "Chen" #臣
+ name_Hui: "Hui" #回
+ name_You: "You" #右
+ name_Zhu: "Zhu" #著
+ name_Bu: "Bu" #布
+ name_Tuo: "Tuo" #佗/Đà
+ name_Zhongshi: "Zhongshi" #仲始/Trọng Thủy
+ name_Mo: "Mo" #眜/Mạt
+ name_Yingqi: "Yingqi" #嬰齊/Anh Tề
+>>>>>>> Stashed changes
  name_Jiande: "Jiande" #建德/Kiến Đức

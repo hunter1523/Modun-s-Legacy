@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 ﻿house_han2 = {
     name = "dynn_HA_n"
     dynasty = ji_zhou
 }
+=======
+﻿house_han2 = {
+    name = "dynn_HA_n"
+    dynasty = ji_zhou
+}
+>>>>>>> Stashed changes
