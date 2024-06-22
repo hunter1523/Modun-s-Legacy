@@ -96,16 +96,10 @@
 682 = {	# 682 - Van
 
 	# Misc
-	culture = armenian
+	culture = kurdish
 	religion = armenian_apostolic
 
 	holding = castle_holding
-
-	# History
-	1091.8.26 = {
-		culture = kurdish
-		religion = ashari
-	}
 
 }
 

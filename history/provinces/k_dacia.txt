@@ -63,7 +63,7 @@
 ##d_muntenia ###################################
 ###c_giurgiu
 4990 = {	#Giurgiu
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -94,7 +94,7 @@
 
 ###c_bucuresti
 4995 = {	#Bucuresti
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -110,7 +110,7 @@
 
 ###c_calarasi
 4997 = {	#Calarasi
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -132,7 +132,7 @@
 
 ###c_buzau
 5000 = {	#Buzau
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -151,7 +151,7 @@
 
 ###c_braila
 5003 = {	#Braila
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {

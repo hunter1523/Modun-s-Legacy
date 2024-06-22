@@ -2,7 +2,7 @@
 ##d_bukovina ###################################
 ###c_suceava
 545 = {		#Suceava
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -59,7 +59,7 @@
 
 ###c_dorohoi
 5038 = {	#Dorohoi
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -80,7 +80,7 @@
 
 ###c_hotin
 5040 = {	#Hotin
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	special_building_slot = hotin_fort_01
@@ -115,7 +115,7 @@
 ##d_moldova ###################################
 ###c_iasi
 541 = {		#Iasi
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -138,7 +138,7 @@
 
 ###c_orhei
 5019 = {	#Orhei
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -159,7 +159,7 @@
 
 ###c_soroca
 5021 = {	#Soroca
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -179,7 +179,7 @@
 
 ###c_barlad
 513 = {		#Barlad
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -198,7 +198,7 @@
 
 ###c_galati
 511 = {		#Galati
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -234,7 +234,7 @@
 ##d_bugeac ###################################
 ###c_tigheci
 5015 = {	#Tigheci
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -247,7 +247,7 @@
 
 ###c_cetatea_alba
 512 = {		#Cetatea Alba
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -263,7 +263,7 @@
 
 ###c_chilia
 5012 = {	#Chilia
-	culture = vlach
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -282,7 +282,7 @@
 
 ###c_lapusna
 5017 = {	#Lapusna
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {

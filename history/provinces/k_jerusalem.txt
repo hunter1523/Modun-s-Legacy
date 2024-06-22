@@ -42,11 +42,8 @@
 5958 = {	# 5958 - Irbid
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
-
-	# History
-	867.1.1 = { religion = ashari }
 
 }
 

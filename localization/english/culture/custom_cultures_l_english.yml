@@ -59,3 +59,11 @@
  guanzhong:0 "Guanzhong"
  guanzhong_prefix:0 "Guanzhong"
  guanzhong_collective_noun:0 "Guanzhongs"
+
+ syriac: "Syriac"
+ syriac_prefix: "Syriac"
+ syriac_collective_noun: "Syriacs"
+
+ cimmerian: "Cimmerian"
+ cimmerian_prefix: "Cimmeri"
+ cimmerian_collective_noun: "Cimmerians"

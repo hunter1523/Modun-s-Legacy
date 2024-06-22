@@ -129,7 +129,7 @@ crimean_gothic = {
 	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 
-	ethnicities = { #Done because in CK2 they used German portraits
+	ethnicities = {
 		3 = european_caucasian_blond_1
 		3 = european_caucasian_blond_2
 		3 = european_caucasian_blond_3

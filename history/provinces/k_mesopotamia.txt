@@ -291,18 +291,14 @@
 
 # 4805 - SAMARRA
 4805 = {	#Misc
-	culture = assyrian
-	religion = nestorian
+	culture = levantine
+	religion = ashari
 
 	# History
 	867.1.1 = {
 		holding = castle_holding
 		special_building_slot = holy_site_great_mosque_of_samarra_01
 		special_building = holy_site_great_mosque_of_samarra_01
-	}
-	1066.1.1 = {
-		culture = levantine
-		religion = ashari
 	}
 }
 
@@ -510,15 +506,8 @@
 
 # 4829 - AL-ANBAR
 4829 = {	#Misc
-	culture = assyrian
-	religion = nestorian
-
-	# History
-	1066.1.1 = {
-		culture = levantine
-		religion = ashari
-	}
-
+	culture = levantine
+	religion = ashari
 }
 
 # 4830 - KARBALA
@@ -605,7 +594,7 @@
 5991 = {	# 5991 - Safata
 
 	# Misc
-	culture = bedouin
+	culture = levantine
 	religion = ashari
 
 	# History
@@ -637,7 +626,7 @@
 5993 = {	# 5993 - An-Najaf
 
 	# Misc
-	culture = bedouin
+	culture = levantine
 	religion = ashari
 
 	# History

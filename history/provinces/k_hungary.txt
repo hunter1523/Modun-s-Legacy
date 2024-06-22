@@ -379,7 +379,7 @@
 
 ###c_gemer
 524 = {		#Gemer
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -411,7 +411,7 @@
 
 ###c_orava
 525 = {		#Orava
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
@@ -464,7 +464,7 @@
 
 ###c_lipto
 3854 = {	#Liptoujvar
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -484,7 +484,7 @@
 
 ###c_zolyom
 3856 = {	#Zolyom
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -520,7 +520,7 @@
 
 ###c_hont
 3848 = {	#Hont
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -577,7 +577,7 @@
 ##d_ungvar ###################################
 ###c_ungvar
 3897 = {	#Ungvar
-	culture = white_croatian # White Croats
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -600,7 +600,7 @@
 
 ###c_zemplen
 3885 = {	#Zemplen
-	culture = white_croatian # White Croats
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -643,7 +643,7 @@
 
 ###c_borsod
 3870 = {	#Borsod
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
@@ -664,7 +664,7 @@
 
 ###c_saris
 533 = {		#Saris
-	culture = white_croatian # White Croats
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
@@ -685,7 +685,7 @@
 
 ###c_spis
 3862 = {	#Locse
-	culture = slovien
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
@@ -700,7 +700,7 @@
 
 ###c_abauj
 538 = {		#Abauj
-	culture = white_croatian # White Croats
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -728,7 +728,7 @@
 ##d_transcarpathia ###################################
 ###c_marmaros
 539 = {		#Marmaros
-	culture = white_croatian
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -777,7 +777,7 @@
 
 ###c_bereg
 537 = {		#Bereg
-	culture = white_croatian # White Croats
+	culture = gepid
 	religion = gothic_church
 	holding = tribal_holding
 
@@ -821,7 +821,7 @@
 ##d_transylvania ###################################
 ###c_feher
 519 = {		#Feher
-	culture = gepid
+	culture = vlach
 	religion = orthodox
 	holding = tribal_holding
 
@@ -831,10 +831,6 @@
 	937.1.1 = {
 		holding = castle_holding
 		#Date used to switch ti feudal_government in title history
-	}
-	936.1.1 = {
-		culture = mogyer
-		religion = magyar_pagan
 	}
 	1000.1.1 = {
 		culture = hungarian
@@ -886,7 +882,7 @@
 
 ###c_szekelyfold
 540 = {		#Szekelyföld
-	culture = gepid
+	culture = vlach
 	religion = orthodox
 	holding = tribal_holding
 
@@ -1023,10 +1019,6 @@
 		holding = castle_holding
 		special_building = turda_mines_01
 		#Date used to switch ti feudal_government in title history
-	}
-	936.1.1 = {
-		culture = mogyer
-		religion = magyar_pagan
 	}
 	1000.1.1 = {
 		culture = hungarian
@@ -1207,7 +1199,7 @@
 
 ###c_zarand
 3903 = {	#Zarand
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1369,7 +1361,7 @@
 ##d_temes ###################################
 ###c_temes
 517 = {		#Temes
-	culture = vlach
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1407,7 +1399,7 @@
 
 ###c_arad
 3905 = {	#Arad
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1438,7 +1430,7 @@
 
 ###c_krasso
 3882 = {	#Kraso
-	culture = vlach
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1473,7 +1465,7 @@
 
 ###c_keve
 3877 = {	#Kevevar
-	culture = vlach
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1517,7 +1509,7 @@
 
 ###c_csanad
 521 = {		#Csanad
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1552,7 +1544,7 @@
 ##d_bacs ###################################
 ###c_bacs
 518 = {		#Bacs
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1583,7 +1575,7 @@
 
 ###c_bodrog
 3863 = {	#Bodrog
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1616,7 +1608,7 @@
 
 ###c_csongrad
 3865 = {	#Csongrad
-	culture = gepid
+	culture = cimmerian
 	religion = tengri_pagan
 	holding = tribal_holding
 
@@ -1790,8 +1782,8 @@
 ##d_syrmia ###################################
 ###c_szerem
 3739 = {	#Szerem
-	culture = serbian
-	religion = orthodox
+	culture = cimmerian
+	religion = tengri_pagan
 	holding = castle_holding
 }
 3611 = {	#Ilok

@@ -15,12 +15,8 @@
 4811 = {	# 4811 - Ninawa, Ninive
 
 	# Misc
-	culture = kurdish
+	culture = assyrian
 	religion = nestorian
-
-	# History
-	867.1.1 = { religion = ashari }
-	1200.1.1 = { religion = yazidi }
 
 }
 
@@ -158,11 +154,9 @@
 4840 = {	# 4840 - Mosul
 
 	# Misc
-	culture = kurdish
+	culture = assyrian
 	religion = nestorian
 	holding = castle_holding
-	# History
-	867.1.1 = { religion = ashari }
 	1066.1.1 = {
 		buildings = {
 			camel_farms_01
@@ -170,8 +164,6 @@
 			pastures_01
 		}
 	}
-	1150.1.1 = { religion = yazidi }
-
 }
 
 # 4841 - BALAD-MOSUL
@@ -212,13 +204,8 @@
 
 # 4845 - NASIBIN
 4845 = {	# Misc
-	culture = kurdish
-	religion = armenian_apostolic
-
-	# History
-	1187.1.1 = {
-		religion = ashari
-	}
+	culture = assyrian
+	religion = nestorian
 
 }
 
@@ -237,15 +224,8 @@
 
 # 4848 - SINJAR
 4848 = {	#Misc
-	culture = levantine
+	culture = assyrian
 	religion = nestorian
-
-	# History
-	867.1.1 = { religion = ashari }
-	1150.1.1 = {
-		religion = yazidi
-		culture = kurdish
-	}
 }
 
 # 4849 - AL-HAYYAL
@@ -300,13 +280,7 @@
 
 	#Misc
 	culture = assyrian
-	religion = orthodox
-
-	# History
-	1150.1.1 = {
-		culture = levantine
-		religion = ashari
-	}
+	religion = nestorian
 }
 
 # 4854 - MARDIN
@@ -322,15 +296,12 @@
 
 # 4855 - TALL_BASMA
 4855 = {	# Misc
-	culture = armenian
-	religion = armenian_apostolic
+	culture = assyrian
+	religion = nestorian
 
 	holding = castle_holding
 	# History
-	1086.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
+
 
 }
 
@@ -394,14 +365,8 @@
 4867 = {	# 4867 - Amid, Amida
 
 	# Misc
-	culture = armenian
-	religion = armenian_apostolic
-
-	# History
-	1164.1.1 = {
-		culture = kurdish
-		religion = ashari
-	}
+	culture = assyrian
+	religion = nestorian
 
 }
 
@@ -424,8 +389,8 @@
 4869 = {	# 4869 - Edessa
 
 	# Misc
-	culture = armenian
-	religion = armenian_apostolic
+	culture = syriac
+	religion = orthodox
 
 	# History
 	1164.1.1 = {
@@ -437,16 +402,11 @@
 
 # 4870 - HARRAN
 4870 = {	# Misc
-	culture = levantine
-	religion = armenian_apostolic
+	culture = syriac
+	religion = orthodox
 
 	# History
 	1098.1.1 = { culture = armenian }
-	1170.1.1 = {
-		culture = levantine
-		religion = ashari
-	}
-
 }
 
 # 4871 - TALL_MAUZAN
@@ -511,7 +471,7 @@
 4875 = {	# 4875 - Dausar
 
 	# Misc
-	culture = assyrian
+	culture = syriac
 	religion = orthodox
 
 	# History
@@ -526,8 +486,8 @@
 4876 = {	# 4876 - Raqqa
 
 	# Misc
-	culture = levantine
-	religion = ashari
+	culture = syriac
+	religion = orthodox
 
 	# History
 
@@ -608,8 +568,8 @@
 4883 = {	# 4883 - Makisin, Khabur
 
 	#Misc
-	culture = levantine
-	religion = ashari
+	culture = assyrian
+	religion = nestorian
 
 	# History
 

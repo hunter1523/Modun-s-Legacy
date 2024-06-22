@@ -173,7 +173,7 @@ pontic = {
 }
 
 assyrian = {
-	color = assyrian
+	color = { 102 76 153 }
 
 	ethos = ethos_communal
 	heritage = heritage_byzantine
@@ -200,6 +200,34 @@ assyrian = {
 		2 = iranian_kurdish_2
 		2 = iranian_kurdish_3
 		2 = iranian_kurdish_4
+	}
+}
+
+syriac = {
+	color = { 151 99 165 }
+
+	ethos = ethos_communal
+	heritage = heritage_byzantine
+	language = language_aramaic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_poetry
+		tradition_dryland_dwellers
+		tradition_loyal_soldiers
+		tradition_city_keepers
+	}
+
+	name_list = name_list_assyrian
+
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+
+	ethnicities = {
+		10 = arab
 	}
 }
 

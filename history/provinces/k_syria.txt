@@ -50,8 +50,8 @@
 4893 = {	# 4893 - Marash
 
 	# Misc
-	culture = armenian
-	religion = armenian_apostolic
+	culture = syriac
+	religion = orthodox
 
 	# History
 	1177.1.1 = {
@@ -66,8 +66,8 @@
 4894 = {	# 4894 - Samosata
 
 	# Misc
-	culture = armenian
-	religion = armenian_apostolic
+	culture = syriac
+	religion = orthodox
 
 	# History
 	1177.1.1 = {
@@ -98,8 +98,8 @@
 5900 = {	# 5900 - Aintab
 
 	# Misc
-	culture = armenian
-	religion = armenian_apostolic
+	culture = syriac
+	religion = orthodox
 
 	# History
 	1177.1.1 = {
@@ -288,7 +288,7 @@
 5915 = {	# 5915 - Shaizar
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
 	holding = castle_holding
 
@@ -326,7 +326,7 @@
 5918 = {	# 5918 - Tripoli
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
 	holding = castle_holding
 	# History
@@ -353,7 +353,7 @@
 5919 = {	# 5919 - Beirut
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
 
 	# History
@@ -409,7 +409,7 @@
 5926 = {	# 5926 - Baalbak
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
 
 	# History
@@ -445,7 +445,7 @@
 5929 = {	# 5929 - Hims
 
 	# Misc
-	culture = levantine
+	culture = syriac
 	religion = orthodox
 	holding = castle_holding
 	# History

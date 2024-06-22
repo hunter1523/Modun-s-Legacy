@@ -182,7 +182,7 @@
 
 ###c_terebovl
 546 = {		#Terebovl
-	culture = tiverian
+	culture = crimean_gothic
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
