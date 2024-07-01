@@ -1,0 +1,154 @@
+﻿slavic_01 = {
+	name = "BorisU_"
+	religion = "slavic_pagan"
+	culture = "russian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_02 = {
+	name = "IgorI_"
+	religion = "slavic_pagan"
+	culture = "serbian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_03 = {
+	name = "OlegU_"
+	religion = "slavic_pagan"
+	culture = "czech"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_04 = {
+	name = "SvE_topolkU_"
+	religion = "slavic_pagan"
+	culture = "white_croatian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_05 = {
+	name = "JaroslavU_"
+	religion = "slavic_pagan"
+	culture = "polish"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_06 = {
+	name = "IzE_slavU_"
+	religion = "slavic_pagan"
+	culture = "russian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_07 = {
+	name = "RostislavU_"
+	religion = "slavic_pagan"
+	culture = "russian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_08 = {
+	name = "StanislavU_"
+	religion = "slavic_pagan"
+	culture = "russian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_09 = {
+	name = "VolodislavU_"
+	religion = "slavic_pagan"
+	culture = "serbian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_10 = {
+	name = "VsevolodU_"
+	religion = "slavic_pagan"
+	culture = "serbian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_11 = {
+	name = "VyS_eslavU_"
+	religion = "slavic_pagan"
+	culture = "czech"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_12 = {
+	name = "MI_stislavU_"
+	religion = "slavic_pagan"
+	culture = "white_croatian"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_13 = {
+	name = "MiroslavU_"
+	religion = "slavic_pagan"
+	culture = "polish"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
+slavic_14 = {
+	name = "JaropolkU_"
+	religion = "slavic_pagan"
+	culture = "polish"
+	820.1.1 = {
+		birth = yes
+	}
+	880.1.1 = {
+		death = yes
+	}
+}
