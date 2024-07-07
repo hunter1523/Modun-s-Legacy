@@ -13645,7 +13645,7 @@ e_byzantium = {
 	k_sicily = {
 		color = { 180 160 80 }
 
-		capital = c_palermo #	Palermo
+		capital = c_roma
 
 		ai_primary_priority = {
 			if = {
@@ -15055,7 +15055,7 @@ e_italy = {
 	k_romagna = {
 		color = { 215 141 152 }
 
-		capital = c_roma # Rome
+		capital = c_ravenna
 
 		can_create = {
 			trigger_if = {

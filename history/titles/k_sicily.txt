@@ -4,6 +4,9 @@ k_sicily = {
 	1187.1.1 = { change_development_level = 25 }
 	1337.1.1 = { change_development_level = 50 }
 
+	50.1.1 = {
+		de_jure_liege = e_italy
+	}
 }
 
 
@@ -57,6 +60,9 @@ c_malta = {
 }
 
 d_benevento = {
+	800.1.1 = {
+		de_jure_liege = k_romagna
+	}
 	571.1.1 = {
 		liege = k_italy
 	}
@@ -252,6 +258,10 @@ c_napoli = {
 d_apulia = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 11 }
+
+	800.1.1 = {
+		de_jure_liege = k_romagna
+	}
 
 	857.1.1 = {
 		holder = 163094 # Sawdan, Emir of Bari

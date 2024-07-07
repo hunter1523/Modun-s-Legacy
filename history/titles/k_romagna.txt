@@ -361,6 +361,10 @@ d_latium = {
 	1066.1.1 = { change_development_level = 14 }
 	1187.1.1 = { change_development_level = 35 }
 	1337.1.1 = { change_development_level = 70 }
+
+	800.1.1 = {
+		de_jure_liege = k_sicily
+	}
 }
 
 c_roma = {

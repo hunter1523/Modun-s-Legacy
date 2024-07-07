@@ -5,6 +5,10 @@ k_venice = {
 	1187.1.1 = { change_development_level = 30 }
 	1337.1.1 = { change_development_level = 60 }
 
+	50.1.1 = {
+		de_jure_liege = e_italy
+	}
+
 	#Associated patrician titles:
 	#b_antenoreo - also in d_venice
 	#b_candiano
