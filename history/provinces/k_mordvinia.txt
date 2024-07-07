@@ -99,7 +99,7 @@
 
 ###c_oskol = Kalitva
 566 = {		#Kalitva	AKA Staraya Kalitva b_oskol
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1187.1.1 = {

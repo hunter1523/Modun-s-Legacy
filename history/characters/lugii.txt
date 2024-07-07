@@ -1,7 +1,7 @@
 ﻿lugii_01 = {
 	name = "Childeric"
-	religion = "catholic"
-	culture = "crimean_gothic"
+	religion = "gothic_church"
+	culture = "lugii"
 	820.1.1 = {
 		birth = yes
 	}

@@ -15,7 +15,7 @@
 		culture = saxon
 	}
 }
-2822 = {	#b_ucramund WKRA = Ueckermünde
+2822 = {	#b_ucramund WKRA = Ueckermï¿½nde
 	holding = none
 	930.1.1 = {
 		holding = city_holding
@@ -71,7 +71,7 @@
 
 ###c_soldin (c_cedynia)
 3154 = {	#b_soldin CEDYNIA
-	culture = pommeranian
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	972.1.1 = {
@@ -118,8 +118,8 @@
 
 ###c_pila (c_walcz)
 3187 = {	#WALCZ
-	culture = pommeranian
-	religion = slavic_pagan
+	culture = burgundian
+	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
 		holding = castle_holding
@@ -140,8 +140,8 @@
 
 ###c_landsberg (c_santok)
 3152 = {	#b_landsberg SANTOK
-	culture = pommeranian
-	religion = slavic_pagan
+	culture = burgundian
+	religion = gothic_church
 	holding = tribal_holding
 	1000.1.1 = {
 		holding = castle_holding

@@ -153,7 +153,7 @@
 ##d_levedia ###################################
 ###c_khortytsia
 557 = {		#Khortytsia
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -194,7 +194,7 @@
 
 ###c_bakhmut
 564 = {		#Bakhmut
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -219,7 +219,7 @@
 
 ###c_samar
 556 = {		#Samar
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -242,7 +242,7 @@
 ##d_don_valley ###################################
 ###c_tana
 596 = {		#Tana
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -264,7 +264,7 @@
 
 ###c_golden_hills
 5290 = {	#Golden Hills
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	750.1.2 = {
@@ -296,7 +296,7 @@
 
 ###c_kazanskaya
 5287 = {	#Kazanskaya
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	1000.1.2 = {
@@ -318,7 +318,7 @@
 
 ###c_sarysyn
 595 = {		#Sarysyn
-	culture = khazar
+	culture = tanais
 	religion = tengri_pagan
 	holding = tribal_holding
 	750.1.2 = {

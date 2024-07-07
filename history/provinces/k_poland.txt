@@ -2,7 +2,7 @@
 ##d_lesser_poland ###################################
 ###c_krakowska
 527 = {		#Krakow
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -45,7 +45,7 @@
 
 ###c_sacz
 532 = {		#Sacz
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -78,7 +78,7 @@
 
 ###c_sandomierska
 531 = {		#Sandomierz
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -117,7 +117,7 @@
 
 ###c_stezycka
 4951 = {	#Stezyca
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -131,7 +131,7 @@
 
 ###c_radomska
 4953 = {	#Radom
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -155,7 +155,7 @@
 
 ###c_lubelska
 4957 = {	#Lublin
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -178,7 +178,7 @@
 
 ###c_tarnowska
 4965 = {	#Tarnow
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -200,7 +200,7 @@
 ##d_wielkopolska ###################################
 ###c_poznanska
 4900 = {	#Poznan
-	culture = polish
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -239,7 +239,7 @@
 
 ###c_gnieznienska
 4905 = {	#Gniezno
-	culture = polish
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	867.1.1 = {
@@ -270,7 +270,7 @@
 
 ###c_kaliska
 4909 = {	#Kalisz
-	culture = polish
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -290,7 +290,7 @@
 
 ###c_wschowska
 4912 = {	#Wschowa
-	culture = polish
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -313,7 +313,7 @@
 
 ###c_krajna
 4915 = {	#Naklo
-	culture = pommeranian
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -336,7 +336,7 @@
 
 ###c_lubusz
 3149 = {	#Lebus (Lubusz)
-	culture = polish
+	culture = burgundian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -366,8 +366,8 @@
 ##d_mazovia ###################################
 ###c_plocka
 529 = {		#Plock
-	culture = polish
-	religion = baltic_pagan
+	culture = lugii
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -398,7 +398,7 @@
 
 ###c_czerska
 530 = {		#Czersk
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -428,7 +428,7 @@
 
 ###c_gostyninska
 4940 = {	#Gostynin
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -454,7 +454,7 @@
 
 ###c_lomzynska
 4943 = {	#Lomza
-	culture = polish
+	culture = prussian
 	religion = baltic_pagan
 	holding = tribal_holding
 	966.4.14 = {
@@ -474,8 +474,8 @@
 
 ###c_zakroczymska
 4946 = {	#Zakroczym
-	culture = polish
-	religion = baltic_pagan
+	culture = lugii
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		religion = catholic
@@ -501,7 +501,7 @@
 ##d_upper_silesia ###################################
 ###c_opole
 3052 = {	#Opole
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -524,7 +524,7 @@
 
 ###c_brzeg
 3049 = {	#Brzeg
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -547,7 +547,7 @@
 
 ###c_nysa
 3048 = {	#Nysa
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -587,7 +587,7 @@
 
 ###c_ratibor
 3042 = {	#Ratibor / Raciborz
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
@@ -604,7 +604,7 @@
 
 ###c_bethen
 3044 = {	#Bethen / Bytom
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -622,7 +622,7 @@
 ##d_lower_silesia ###################################
 ###c_breslau
 3045 = {	#Breslau / Wroclaw
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -646,7 +646,7 @@
 
 ###c_miliez
 3061 = {	#Miliez
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -663,7 +663,7 @@
 
 ###c_schweibus
 3145 = {	#Schweibus / Swiebodzin
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -686,7 +686,7 @@
 
 ###c_grunberg
 3064 = {	#Grunberg / Zielona Gora
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	990.1.1 = {
@@ -709,7 +709,7 @@
 
 ###c_sprottau
 3067 = {	#Sprottau / szprotawa
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -731,7 +731,7 @@
 }
 ###c_przemkow
 3068 = {	#Przemkow
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -754,7 +754,7 @@
 
 ###c_legnica
 3058 = {	#Legnica
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -778,7 +778,7 @@
 ##d_kuyavia ###################################
 ###c_kujawy
 4918 = {	#Kruszwica
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -807,8 +807,8 @@
 
 ###c_dobrzynska
 4922 = {	#Dobrzyn
-	culture = polish
-	religion = baltic_pagan
+	culture = lugii
+	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
 		#religion = catholic
@@ -824,7 +824,7 @@
 }
 ###c_leczycka
 4924 = {	#Leczyca
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -841,7 +841,7 @@
 
 ###c_sieradzka
 528 = {		#Sieradz
-	culture = polish
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {
@@ -873,7 +873,7 @@
 
 ###c_wielunska
 4931 = {	#Wielun
-	culture = polish
+	culture = silingian
 	religion = gothic_church
 	holding = tribal_holding
 	966.4.14 = {

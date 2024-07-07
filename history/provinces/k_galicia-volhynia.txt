@@ -92,8 +92,8 @@
 
 ###c_dorohychyn
 5057 = {	#Dorohychyn
-	culture = volhynian
-	religion = slavic_pagan
+	culture = lugii
+	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
 		holding = castle_holding
@@ -116,7 +116,7 @@
 ##d_halych ###################################
 ###c_halych
 536 = {		#Halych
-	culture = white_croatian
+	culture = bastarnian
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -146,7 +146,7 @@
 
 ###c_lviv
 5063 = {	#Lviv
-	culture = volhynian
+	culture = bastarnian
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -235,7 +235,7 @@
 ##d_cherven_cities ###################################
 ###c_cherven
 5073 = {	#Cherven
-	culture = volhynian
+	culture = lugii
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -269,7 +269,7 @@
 }
 ###c_belz
 5077 = {	#Belz
-	culture = volhynian
+	culture = bastarnian
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
@@ -289,7 +289,7 @@
 
 ###c_peremyshl
 534 = {		#Peremyshl
-	culture = white_croatian
+	culture = bastarnian
 	religion = gothic_church
 	holding = tribal_holding
 	935.1.1 = {
