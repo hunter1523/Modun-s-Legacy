@@ -22436,6 +22436,16 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 						name_list_polish = cn_siemiatycze
 					}
 				}
+				b_kobryn = {
+					province = 5058
+
+					color = { 120 161 150 }
+
+					cultural_names = {
+						name_list_polish = cn_kobryn
+						name_list_lithuanian = cn_kobrynas
+					}
+				}
 			}
 			c_dorohychyn = {
 				color = { 120 161 150 }
@@ -22453,16 +22463,6 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 					cultural_names = {
 						name_list_polish = cn_drohiczyn
 						name_list_lithuanian = cn_drohicinas
-					}
-				}
-				b_kobryn = {
-					province = 5058
-
-					color = { 120 161 150 }
-
-					cultural_names = {
-						name_list_polish = cn_kobryn
-						name_list_lithuanian = cn_kobrynas
 					}
 				}
 				b_blotkowo = {
@@ -23623,6 +23623,15 @@ e_russia = {	#Kievan Rus
 
 					color = { 121 189 74 }
 				}
+				b_unenezh = {
+					province = 5201
+
+					color = { 121 189 74 }
+				}
+			}
+			c_lyubech = {
+				color = { 113 172 73 }
+
 				b_lyubech = {
 					province = 553
 
@@ -23630,11 +23639,6 @@ e_russia = {	#Kievan Rus
 				}
 				b_gomel = {
 					province = 5200
-
-					color = { 121 189 74 }
-				}
-				b_unenezh = {
-					province = 5201
 
 					color = { 121 189 74 }
 				}
@@ -24725,11 +24729,6 @@ e_russia = {	#Kievan Rus
 
 					color = { 146 124 153 }
 				}
-				b_vyazma = {
-					province = 569
-
-					color = { 146 124 153 }
-				}
 			}
 			c_gnezdovo = {
 				color = { 157 143 161 }
@@ -24786,6 +24785,11 @@ e_russia = {	#Kievan Rus
 					province = 5227
 
 					color = { 101 89 105 }
+				}
+				b_vyazma = {
+					province = 569
+
+					color = { 146 124 153 }
 				}
 			}
 			c_toropets = {
