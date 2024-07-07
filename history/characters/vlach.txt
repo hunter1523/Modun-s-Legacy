@@ -1,6 +1,6 @@
 ﻿vlach_01 = { #Wallachia
 	name = "Gheorghe"
-	religion = "catholic"
+	religion = "orthodox"
 	culture = "vlach"
 	820.1.1 = {
 		birth = yes

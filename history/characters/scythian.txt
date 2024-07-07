@@ -1,7 +1,7 @@
 ﻿scythian_01 = { #Sytia
 	name = "Basil"
-	religion = "catholic"
-	culture = "alan"
+	religion = "tengri"
+	culture = "cimmerian"
 	820.1.1 = {
 		birth = yes
 	}
@@ -11,8 +11,8 @@
 }
 scythian_02 = { #Margasap
 	name = "Konstantin"
-	religion = "catholic"
-	culture = "alan"
+	religion = "tengri"
+	culture = "cimmerian"
 	820.1.1 = {
 		birth = yes
 	}

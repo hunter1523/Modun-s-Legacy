@@ -1,6 +1,6 @@
 ﻿quadi_01 = {
 	name = "Hilderic"
-	religion = "catholic"
+	religion = "orthodox"
 	culture = "suebi"
 	820.1.1 = {
 		birth = yes

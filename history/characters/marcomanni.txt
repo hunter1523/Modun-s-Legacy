@@ -1,6 +1,6 @@
 ﻿marcomanni_01 = {
 	name = "Raimond"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "suebi"
 	820.1.1 = {
 		birth = yes

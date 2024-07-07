@@ -1,6 +1,6 @@
 ﻿thervingi_01 = {
 	name = "Odoacer"
-	religion = "catholic"
+	religion = "orthodox"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -11,7 +11,7 @@
 }
 ardacian_01 = {
 	name = "Ardaric"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "gepid"
 	820.1.1 = {
 		birth = yes
@@ -22,7 +22,7 @@ ardacian_01 = {
 }
 gothic_01 = { #Severik
 	name = "Amalaric"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -33,7 +33,7 @@ gothic_01 = { #Severik
 }
 gothic_02 = { #Skurland
 	name = "Gundemar"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -44,7 +44,7 @@ gothic_02 = { #Skurland
 }
 gothic_03 = { #Wermstein
 	name = "Alaric"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -55,7 +55,7 @@ gothic_03 = { #Wermstein
 }
 gothic_04 = { #Mathljan
 	name = "Wilfred"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -66,7 +66,7 @@ gothic_04 = { #Mathljan
 }
 gothic_05 = { #Savasbaurg
 	name = "Adalbert"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -77,7 +77,7 @@ gothic_05 = { #Savasbaurg
 }
 gothic_06 = { #Hulthfaur
 	name = "Berengar"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -88,7 +88,7 @@ gothic_06 = { #Hulthfaur
 }
 gothic_07 = { #Fillbaurg
 	name = "Theodorich"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -99,7 +99,7 @@ gothic_07 = { #Fillbaurg
 }
 gothic_08 = { #Galati
 	name = "Bernhard"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes
@@ -110,8 +110,8 @@ gothic_08 = { #Galati
 }
 gothic_09 = { #Hauhster
 	name = "Liutpold"
-	religion = "catholic"
-	culture = "crimean_gothic"
+	religion = "gothic_church"
+	culture = "bastarnian"
 	820.1.1 = {
 		birth = yes
 	}
@@ -121,7 +121,7 @@ gothic_09 = { #Hauhster
 }
 gothic_10 = { #Sciria
 	name = "Heinrich"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "crimean_gothic"
 	820.1.1 = {
 		birth = yes

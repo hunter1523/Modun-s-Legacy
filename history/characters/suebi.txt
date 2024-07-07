@@ -17,7 +17,7 @@
 }
 suebi_01 = { #Suebian Confederation
 	name = "Hermeric"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "suebi"
 	820.1.1 = {
 		birth = yes
@@ -28,7 +28,7 @@ suebi_01 = { #Suebian Confederation
 }
 suebi_02 = { #Visburg
 	name = "Hildemir"
-	religion = "catholic"
+	religion = "gothic_church"
 	culture = "suebi"
 	820.1.1 = {
 		birth = yes
