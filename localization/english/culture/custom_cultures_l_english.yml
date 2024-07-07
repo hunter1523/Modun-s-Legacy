@@ -60,10 +60,30 @@
  guanzhong_prefix:0 "Guanzhong"
  guanzhong_collective_noun:0 "Guanzhongs"
 
- syriac: "Syriac"
- syriac_prefix: "Syriac"
- syriac_collective_noun: "Syriacs"
+ syriac:0 "Syriac"
+ syriac_prefix:0 "Syriac"
+ syriac_collective_noun:0 "Syriacs"
 
- cimmerian: "Cimmerian"
- cimmerian_prefix: "Cimmeri"
- cimmerian_collective_noun: "Cimmerians"
+ cimmerian:0 "Cimmerian"
+ cimmerian_prefix:0 "Cimmeri"
+ cimmerian_collective_noun:0 "Cimmerians"
+
+ sarmatian:0 "Sarmatian"
+ sarmatian_prefix:0 "Sarmato"
+ sarmatian_collective_noun:0 "Sarmatians"
+
+ tanais:0 "Tanaisian"
+ tanais_prefix:0 "Tanaiso"
+ tanais_collective_noun:0 "Tanaisians"
+
+ silingian:0 "Silingian"
+ silingian_prefix:0 "Silingio"
+ silingian_collective_noun:0 "Silingians"
+
+ burgundian:0 "Burgundian"
+ burgundian_prefix:0 "Burgundio"
+ burgundian_collective_noun:0 "Burgundians"
+
+ lugii:0 "Lugian"
+ lugii_prefix:0 "Lugo"
+ lugii_collective_noun:0 "Lugians"

@@ -130,24 +130,10 @@ crimean_gothic = {
 	unit_gfx = { eastern_unit_gfx }
 
 	ethnicities = {
-		3 = european_caucasian_blond_1
-		3 = european_caucasian_blond_2
-		3 = european_caucasian_blond_3
-		3 = european_caucasian_blond_4
-		3 = european_caucasian_blond_5
-		3 = european_caucasian_blond_6
-		3 = european_caucasian_ginger_1
-		3 = european_caucasian_ginger_2
-		3 = european_caucasian_brown_1
-		3 = european_caucasian_brown_2
-		3 = european_caucasian_brown_3
-		3 = european_caucasian_brown_4
-		3 = european_caucasian_brown_5
-		3 = european_caucasian_dark_1
-		3 = european_caucasian_dark_2
-		3 = european_caucasian_dark_3
-		3 = european_caucasian_dark_4
-		3 = european_caucasian_dark_5
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
 	}
 }
 
@@ -171,24 +157,172 @@ gepid = {
 	unit_gfx = { eastern_unit_gfx }
 
 	ethnicities = {
-		3 = european_caucasian_blond_1
-		3 = european_caucasian_blond_2
-		3 = european_caucasian_blond_3
-		3 = european_caucasian_blond_4
-		3 = european_caucasian_blond_5
-		3 = european_caucasian_blond_6
-		3 = european_caucasian_ginger_1
-		3 = european_caucasian_ginger_2
-		3 = european_caucasian_brown_1
-		3 = european_caucasian_brown_2
-		3 = european_caucasian_brown_3
-		3 = european_caucasian_brown_4
-		3 = european_caucasian_brown_5
-		3 = european_caucasian_dark_1
-		3 = european_caucasian_dark_2
-		3 = european_caucasian_dark_3
-		3 = european_caucasian_dark_4
-		3 = european_caucasian_dark_5
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+bastarnian = {
+	color = { 153 132 32 }
+	ethos = ethos_communal
+	heritage = heritage_east_germanic
+	language = language_vandalic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_poetry
+		tradition_maritime_mercantilism
+		tradition_stand_and_fight
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+lugii = {
+	color = { 135 50 59 }
+	ethos = ethos_courtly
+	heritage = heritage_east_germanic
+	language = language_vandalic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_poetry
+		tradition_xenophilic
+		tradition_stand_and_fight
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+burgundian = {
+	color = { 89 27 50 }
+	ethos = ethos_egalitarian
+	heritage = heritage_east_germanic
+	language = language_vandalic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_poetry
+		tradition_hard_working
+		tradition_stalwart_defenders
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+silingian = {
+	color = { 198 149 93 }
+	ethos = ethos_communal
+	heritage = heritage_east_germanic
+	language = language_vandalic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_life_is_just_a_joke
+		tradition_hard_working
+		tradition_stalwart_defenders
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+
+tanais = {
+	color = { 198 149 93 }
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_sarmatian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_concubines
+		tradition_steppe_tolerance
+		tradition_stand_and_fight
+		tradition_horse_lords
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		5 = mediterranean
+	}
+}
+
+sarmatian = {
+	color = { 198 149 93 }
+	ethos = ethos_communal
+	heritage = heritage_sarmatian
+	language = language_sarmatian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_concubines
+		tradition_steppe_tolerance
+		tradition_swords_for_hire
+		tradition_horse_lords
+	}
+
+	name_list = name_list_gothic
+
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { turkic_clothing_gfx mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		5 = mediterranean
 	}
 }
 
@@ -316,36 +450,10 @@ francoprovencal = { #Arpitan
 	unit_gfx = { western_unit_gfx }
 
 	ethnicities = {
-		3 = european_med_cisalpine_1
-		3 = european_med_cisalpine_2
-		3 = european_med_cisalpine_3
-		3 = european_med_cisalpine_4
-		3 = european_caucasian_blond_1
-		3 = european_caucasian_blond_2
-		3 = european_caucasian_blond_3
-		3 = european_caucasian_blond_4
-		3 = european_caucasian_blond_5
-		3 = european_caucasian_blond_6
-		3 = european_caucasian_ginger_1
-		3 = european_caucasian_ginger_2
-		3 = european_caucasian_brown_1
-		3 = european_caucasian_brown_2
-		3 = european_caucasian_brown_3
-		3 = european_caucasian_brown_4
-		3 = european_caucasian_brown_5
-		3 = european_caucasian_dark_1
-		3 = european_caucasian_dark_2
-		3 = european_caucasian_dark_3
-		3 = european_caucasian_dark_4
-		3 = european_caucasian_dark_5
-		2 = european_caucasian_french_1
-		2 = european_caucasian_french_2
-		2 = european_caucasian_french_3
-		2 = european_caucasian_french_4
-		2 = european_caucasian_occitan_01
-		2 = european_caucasian_occitan_02
-		2 = european_caucasian_occitan_03
-		2 = european_caucasian_occitan_04
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -372,20 +480,10 @@ sorbian = {
 	unit_gfx = { eastern_unit_gfx }
 
 	ethnicities = {
-		10 = european_slavic_blond_1
-		10 = european_slavic_blond_2
-		5 = european_slavic_blond_3
-		5 = european_slavic_blond_4
-		5 = european_slavic_ginger_1
-		5 = european_slavic_ginger_2
-		10 = european_slavic_brown_1
-		10 = european_slavic_brown_2
-		5 = european_slavic_brown_3
-		5 = european_slavic_brown_4
-		5 = european_slavic_dark_1
-		10 = european_slavic_dark_2
-		10 = european_slavic_dark_3
-		5 = european_slavic_dark_4
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hair
 	}
 }
 
@@ -414,10 +512,10 @@ ukrainian = {
 	unit_gfx = { eastern_unit_gfx }
 
 	ethnicities = {
-		2 = european_eastern_slavic_1
-		2 = european_eastern_slavic_2
-		2 = european_eastern_slavic_3
-		2 = european_eastern_slavic_4
+		10 = caucasian_blond
+		5 = caucasian_ginger
+		45 = caucasian_brown_hair
+		35 = caucasian_dark_hairz
 	}
 }
 
