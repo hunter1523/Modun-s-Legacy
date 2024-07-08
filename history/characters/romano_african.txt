@@ -1,7 +1,7 @@
 ﻿exarch_africa_01 = {
 	name = "Stefanus"
 	religion = "catholic"
-	culture = "roman"
+	culture = "african"
 	810.1.1 = {
 		birth = yes
 	}

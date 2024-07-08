@@ -5,10 +5,6 @@
 	culture = sardinian
 	religion = catholic
 	holding = castle_holding
-
-	1187.1.1 = {
-		culture = italian
-	}
 }
 2649 = {	#CALVI
 	holding = city_holding
@@ -19,9 +15,6 @@
 	culture = sardinian
 	religion = catholic
 	holding = castle_holding
-	1050.1.1 = {
-		culture = italian
-	}
 }
 2648 = {	#CORTE
 	holding = none
@@ -32,9 +25,6 @@
 	culture = sardinian
 	religion = catholic
 	holding = castle_holding
-	1187.1.1 = {
-		culture = italian
-	}
 }
 2651 = {	#VECCHIO
 	holding = city_holding
@@ -44,11 +34,8 @@
 ###c_cagliari
 2653 = {	#CAGLIARI
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
-	1060.1.1 = {
-		religion = catholic
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_01
@@ -59,7 +46,7 @@
 }
 2654 = {	#IGLESIAS
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
 	special_building_slot = argentiera_mines_01
 	1000.1.1 = {
@@ -73,11 +60,8 @@
 ###c_arborea
 2659 = {	#ORISTANO
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
-	1060.1.1 = {
-		religion = catholic
-	}
 }
 2661 = {	#ISILI
 	holding = none
@@ -86,11 +70,8 @@
 ###c_gallura
 2658 = {	#OLBIA
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
-	1060.1.1 = {
-		religion = catholic
-	}
 }
 2657 = {	#GALTELLI
 	holding = none
@@ -102,11 +83,8 @@
 ###c_logudoro
 2662 = {	#SASSARI
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
-	1060.1.1 = {
-		religion = catholic
-	}
 }
 2665 = {	#ALGHERO
 	holding = none
@@ -124,11 +102,8 @@
 ###c_tortoli
 2656 = {	#TORTOLI
 	culture = sardinian
-	religion = orthodox
+	religion = catholic
 	holding = castle_holding
-	1060.1.1 = {
-		religion = catholic
-	}
 }
 2655 = {	#CARBONARA
 	holding = none

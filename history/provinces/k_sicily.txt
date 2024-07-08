@@ -2,19 +2,9 @@
 ##d_sicily ###################################
 ###c_palermo
 2635 = {	#PALERMO
-	culture = greek
-	religion = orthodox
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	856.9.1 = {
-		culture = maghrebi
-		religion = ashari
-	}
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 	867.1.1 = {
 		buildings = {
 			common_tradeport_01
@@ -27,12 +17,6 @@
 			curtain_walls_01
 			farm_estates_01
 		}
-	}
-	1187.1.1 = {
-		religion = catholic
-	}
-	1300.1.1 = {
-		culture = sicilian
 	}
 }
 2636 = {	#TRAPANI
@@ -51,23 +35,9 @@
 
 ###c_messina
 2633 = {	#MESSINA
-	culture = greek
-	religion = orthodox
+	culture = griko
+	religion = catholic
 	holding = castle_holding
-	869.1.1 = {
-		#culture = maghrebi#baranis
-		#religion = ashari
-	}
-	1057.1.1 = {
-		#culture = sicilian
-		#religion = catholic
-	}
-	1187.1.1 = {
-		religion = catholic
-	}
-	1300.1.1 = {
-		culture = sicilian
-	}
 }
 2634 = {	#CEFALU
 	holding = city_holding
@@ -78,26 +48,15 @@
 
 ###c_siracusa
 2638 = {	#SYRACUSE
-	culture = greek
-	religion = orthodox
+	culture = griko
+	religion = catholic
 	holding = castle_holding
-	904.1.1 = {
-		#culture = maghrebi#baranis
-		#religion = ashari
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_01
 			curtain_walls_01
 			barracks_01
 		}
-	}
-	1187.1.1 = {
-		#culture = sicilian
-		religion = catholic
-	}
-	1300.1.1 = {
-		culture = sicilian
 	}
 }
 2643 = {	#LENTINI
@@ -109,19 +68,9 @@
 
 ###c_agrigento
 2640 = {	#CASTROGIOVANNI
-	culture = greek
-	religion = orthodox
+	culture = griko
+	religion = catholic
 	holding = castle_holding
-	874.1.24 = {
-		culture = maghrebi
-		religion = ashari
-	}
-	1102.1.1 = {
-		religion = catholic
-	}
-	1337.1.1 = {
-		culture = sicilian
-	}
 }
 2637 = {	#AGRICENTO
 	holding = city_holding
@@ -132,16 +81,9 @@
 
 ###c_malta
 2646 = {	#MALTA
-	culture = greek
-	religion = orthodox
+	culture = punic
+	religion = catholic
 	holding = castle_holding
-	895.1.1 = {
-		culture = maghrebi
-		religion = ashari
-	}
-	1249.1.1 = {
-		religion = catholic
-	}
 }
 
 ##d_benevento ###################################
@@ -150,7 +92,6 @@
 	culture = italian
 	religion = catholic
 	holding = castle_holding
-	1098.1.1 = { culture = sicilian }
 }
 2669 = {	#ALIFE
 	holding = none
@@ -174,14 +115,6 @@
 	culture = lombard
 	religion = catholic
 	holding = castle_holding
-	#915.1.1 = {
-		#culture = greek
-		#religion = orthodox
-	#}
-	1066.1.1 = {
-		culture = sicilian
-		religion = catholic
-	}
 }
 2605 = {	#LARINO
 	holding = none
@@ -196,7 +129,6 @@
 	culture = italian
 	religion = catholic
 	holding = castle_holding
-	1098.1.1 = { culture = sicilian }
 }
 2593 = {	#GAETA
 	holding = city_holding
@@ -207,7 +139,7 @@
 
 ###c_napoli
 2608 = {	#NAPOLI
-	culture = greek
+	culture = griko
 	religion = catholic
 	holding = castle_holding
 	867.1.1 = {
@@ -223,10 +155,6 @@
 			#curtain_walls_01
 			farm_estates_01
 		}
-	}
-	1139.4.1 = {
-		culture = sicilian
-		religion = catholic
 	}
 }
 2611 = {	#AMALFI
@@ -253,7 +181,6 @@
 	culture = lombard
 	religion = catholic
 	holding = castle_holding
-	1057.1.1 = { culture = sicilian }
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_02
@@ -277,7 +204,6 @@
 	culture = lombard
 	religion = catholic
 	holding = castle_holding
-	1057.1.1 = { culture = sicilian }
 	1187.1.1 = {
 		holding = city_holding
 	}
@@ -294,12 +220,9 @@
 
 ###c_lecce
 8755 = {	#LECCE
-	culture = greek
+	culture = griko
 	religion = orthodox
 	holding = castle_holding
-	1150.1.1 = {
-		religion = catholic
-	}
 }
 2622 = {	#BRINDISI
 	holding = city_holding
@@ -314,7 +237,7 @@
 ##d_salerno ###################################
 ###c_salerno
 2612 = {	#SALERNO
-	culture = lombard
+	culture = italian
 	religion = catholic
 	holding = castle_holding
 	867.1.1 = {
@@ -330,7 +253,6 @@
 			#barracks_01
 		}
 	}
-	1091.1.1 = { culture = sicilian	}
 }
 2613 = {	#MARATEA
 	holding = city_holding
@@ -347,7 +269,6 @@
 	culture = lombard
 	religion = catholic
 	holding = castle_holding
-	1091.1.1 = { culture = sicilian	}
 }
 2632 = {	#STIGLIANO
 	holding = none
@@ -356,12 +277,9 @@
 ##d_calabria ###################################
 ###c_reggio_calabria
 2627 = {
-	culture = greek
-	religion = orthodox
+	culture = griko
+	religion = catholic
 	holding = castle_holding
-	1150.1.1 = {
-		religion = catholic
-	}
 }
 2626 = {	#SQUILLUCE
 	holding = city_holding
@@ -376,10 +294,6 @@
 	culture = italian
 	religion = catholic
 	holding = castle_holding
-	1074.1.1 = {
-		culture = sicilian
-		religion = catholic
-	}
 }
 2630 = {	#CASTROVILLARI
 	holding = none
@@ -393,13 +307,9 @@
 
 ###c_rossano
 2629 = {	#ROSSANO
-	culture = greek
-	religion = orthodox
+	culture = griko
+	religion = catholic
 	holding = castle_holding
-	1074.1.1 = {
-		culture = sicilian
-		religion = catholic
-	}
 }
 2625 = {	#COTRONE
 	holding = church_holding

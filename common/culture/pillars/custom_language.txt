@@ -152,3 +152,33 @@ language_eastern_scythian = {
 
 	color = { 126 76 255 }
 }
+
+language_punic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_punic
+		}
+	}
+	parameters = {
+		language_group_semitic = yes
+		language_family_afro_asiatic = yes
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_punic }
+			multiply = same_language_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_group_semitic }
+			multiply = same_language_group_choice_factor
+		}
+		else_if = {
+			limit = { has_cultural_parameter = language_family_afro_asiatic }
+			multiply = same_language_family_choice_factor
+		}
+	}
+
+	color = { 149 50 158 }
+}

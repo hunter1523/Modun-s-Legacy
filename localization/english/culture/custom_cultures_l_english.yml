@@ -87,3 +87,15 @@
  lugii:0 "Lugian"
  lugii_prefix:0 "Lugo"
  lugii_collective_noun:0 "Lugians"
+
+ african:0 "African"
+ african_prefix:0 "Africano"
+ african_collective_noun:0 "Africans"
+
+ punic:0 "Punic"
+ punic_prefix:0 "Punic"
+ punic_collective_noun:0 "Carthaginians"
+
+ griko:0 "Griko"
+ griko_prefix:0 "Griko"
+ griko_collective_noun:0 "Italiot Greeks"

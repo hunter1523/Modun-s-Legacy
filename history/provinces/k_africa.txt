@@ -2,12 +2,9 @@
 ##d_kairouan ###################################
 ###c_kairwan
 4594 = {	#KAIROUAN
-	culture = maghrebi
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	1187.1.1 = {
-		religion = ashari
-	}
 }
 4592 = {	#JALULA
 	holding = city_holding
@@ -29,15 +26,9 @@
 }
 ###c_west_qamuda
 4598 = {	#AL-QASRAYN
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 	# History
 	1054.1.1 = { #Area conquered by tribals and turned into nomadic pastures
 		holding = tribal_holding
@@ -65,8 +56,8 @@
 
 ###c_tabassa
 4623 = {	#TABASSA
-	culture = butr
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 
 	# History
@@ -91,20 +82,13 @@
 ##d_tunis ###################################
 ###c_tunis
 4582 = {	#TUNIS
-	culture = baranis
+	culture = african
 	religion = catholic
 
 	holding = castle_holding
 
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 	# History
 	867.1.1 = {
-		#religion = ashari
 		buildings = {
 			common_tradeport_01
 			barracks_01
@@ -133,15 +117,9 @@
 
 ###c_satfura
 4585 = {	#BANZART
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 }
 4586 = {	#TABARQA
 	holding = church_holding
@@ -152,15 +130,9 @@
 
 ###c_medjerda
 4589 = {	#BAJA_MEDJERDA
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 }
 4590 = {	#SIQQABANARIYA
 	#holding = none
@@ -171,15 +143,9 @@
 
 ###c_mahdiya
 4578 = {	#MAHDIYA
-	culture = maghrebi
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 	1066.1.1 = {
 		buildings = {
 			common_tradeport_01
@@ -198,8 +164,8 @@
 ##d_kroumerie ###################################
 ###c_constantine
 4631 = {	#CONSTANTINE
-	culture = baranis
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 	1187.1.1 = {
 		religion = ashari
@@ -220,8 +186,8 @@
 
 ###c_annaba
 4588 = {	#ANNABA
-	culture = baranis
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 	1187.1.1 = {
 		religion = ashari
@@ -237,12 +203,9 @@
 ##d_gabes ###################################
 ###c_gabes
 4573 = {	#GABES
-	culture = butr
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	1187.1.1 = {
-		religion = ashari
-	}
 }
 4574 = {	#AL HAMMA
 	holding = city_holding
@@ -250,15 +213,9 @@
 
 ###c_sfax
 4575 = {	#SFAX
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		religion = mutazila
-	}
-	936.1.1 = {
-		religion = ashari
-	}
 }
 4576 = {	#EL_JEM
 	holding = city_holding
@@ -270,8 +227,8 @@
 ##d_jerid ###################################
 ###c_qashtiliya
 4601 = {	#TOZEUR
-	culture = butr
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 
 	# History
@@ -345,8 +302,8 @@
 ##d_tripolitania ###################################
 ###c_tripolitana
 4557 = {	#LIBTRIPOLI
-	culture = butr
-	religion = ibadi
+	culture = punic
+	religion = catholic
 	holding = castle_holding
 	1187.1.1 = {
 		religion = ashari
@@ -361,8 +318,8 @@
 
 ###c_djerba
 4562 = {	#JERBA
-	culture = butr
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 
 	# History
@@ -389,8 +346,8 @@
 
 ###c_jafara
 4561 = {	#ZUWARA
-	culture = butr
-	religion = ibadi
+	culture = african
+	religion = catholic
 	holding = castle_holding
 
 	# History
@@ -422,18 +379,13 @@
 ##d_syrte ###################################
 ###c_syrte
 4552 = {	# 4552 - SYRTE
-	culture = butr
-	#culture = zanata
-	religion = ibadi
+	culture = punic
+	religion = catholic
 	holding = castle_holding
 
 	# History
 	1050.1.1 = { #Area conquered by tribals and turned into nomadic pastures
 		holding = tribal_holding
-	}
-	1055.1.1 = {
-		culture = maghrebi
-		religion = ashari
 	}
 	1187.1.1 = {
 		holding = castle_holding
@@ -453,8 +405,8 @@
 
 ###c_labda
 4556 = {	#LABDA
-	culture = butr
-	religion = ibadi
+	culture = punic
+	religion = catholic
 	holding = castle_holding
 
 	# History

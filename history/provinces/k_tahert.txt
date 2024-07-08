@@ -157,8 +157,8 @@
 ##d_alger ###################################
 ###c_algier
 4650 = {	#ALGIERS
-	culture = butr
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
 }
 4648 = {	#MEDEA
@@ -187,8 +187,8 @@
 ##d_bejaia###################################
 ###c_bejaia
 4637 = {	#BEJAIA
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
 	1066.1.1 = {
 		buildings = {
@@ -204,8 +204,8 @@
 
 ###c_satif
 4639 = {	#SATIF
-	culture = baranis
-	religion = ashari
+	culture = african
+	religion = catholic
 	holding = castle_holding
 }
 4635 = {	#MILA_SATIF

@@ -172,6 +172,38 @@ pontic = {
 	}
 }
 
+griko = {
+	color = { 122 150 222 }
+
+	ethos = ethos_communal
+	heritage = heritage_byzantine
+	language = language_greek
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_philosopher_culture
+		tradition_fishermen
+		tradition_parochialism
+	}
+	name_list = name_list_greek
+
+	coa_gfx = { byzantine_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		2 = european_med_greek_1
+		2 = european_med_greek_2
+		2 = european_med_greek_3
+		2 = european_med_greek_4
+		2 = european_med_italian_48
+		2 = european_med_italian_49
+		2 = european_med_italian_50
+		2 = european_med_italian_51
+	}
+}
+
 assyrian = {
 	color = { 102 76 153 }
 
