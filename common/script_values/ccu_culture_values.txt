@@ -318,20 +318,66 @@ culture_acceptance_baseline = {
 				has_same_culture_heritage = scope:culture
 			}
 			add = {
-				value = 20 # please update CULTURE_PILLAR_TOOLTIP_HERITAGE_EFFECT if this number changes
+				value = same_heritage_cultural_acceptance # please update CULTURE_PILLAR_TOOLTIP_HERITAGE_EFFECT if this number changes
 				desc = ACCEPTANCE_BASELINE_HERITAGE
 			}
 		}
+		else_if = {
+			limit = { has_same_heritage_group_as = { TARGET = scope:culture } }
+			add = {
+				value = same_heritage_group_cultural_acceptance
+				desc = ACCEPTANCE_BASELINE_HERITAGE_GROUP
+			}
+		}
+		else_if = {
+			limit = { has_same_heritage_family_as = { TARGET = scope:culture } }
+			add = {
+				value = same_heritage_family_cultural_acceptance
+				desc = ACCEPTANCE_BASELINE_HERITAGE_FAMILY
+			}
+		}
+		
 		# Increase base acceptance for sharing same language
 		if = {
 			limit = {
 				has_same_culture_language = scope:culture
 			}
 			add = {
-				value = 10 # please update CULTURE_PILLAR_TOOLTIP_LANGUAGE_EFFECT if this number changes
+				value = same_language_cultural_acceptance # please update CULTURE_PILLAR_TOOLTIP_LANGUAGE_EFFECT if this number changes
 				desc = ACCEPTANCE_BASELINE_LANGUAGE
 			}
 		}
+		else_if = {
+			limit = { has_same_language_group_as = { TARGET = scope:culture } }
+			add = {
+				value = same_language_group_cultural_acceptance
+				desc = ACCEPTANCE_BASELINE_LANGUAGE_GROUP
+			}
+		}
+		else_if = {
+			limit = { has_same_language_family_as = { TARGET = scope:culture } }
+			add = {
+				value = same_language_family_cultural_acceptance 
+				desc = ACCEPTANCE_BASELINE_LANGUAGE_FAMILY
+			}
+		}
+		else_if = {
+			limit = { is_in_language_union_with = { TARGET = scope:culture } }
+			add = {
+				value = same_language_union_cultural_acceptance 
+				desc = ACCEPTANCE_BASELINE_LANGUAGE_UNION
+			}
+		}
+		
+		# Decrease base acceptance for differing martial custom
+		if = {
+			limit = { NOT = { has_same_culture_martial_tradition = scope:culture } }
+			add = {
+				value = different_martial_tradition_cultural_acceptance
+				desc = ACCEPTANCE_BASELINE_MARTIAL_TRADITION
+			}
+		}
+
 		# Increase base acceptance for sharing the same ethos if cultures are present within the same geographical area
 		if = {
 			limit = {
