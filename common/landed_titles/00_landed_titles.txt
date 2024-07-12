@@ -37193,7 +37193,7 @@ e_spain = {
 	k_badajoz = {	#Badajoz/Lucitania
 		color = { 138 243 53 }
 
-		capital = c_badajoz # Badajoz
+		capital = c_merida # Emerita Augusta
 		can_be_named_after_dynasty = no
 
 		cultural_names = {
@@ -38057,7 +38057,7 @@ e_spain = {
 	k_castille = { #Spain
 		color = { 243 209 23 }
 
-		capital = c_burgos # Burgos
+		capital = c_toledo
 		can_be_named_after_dynasty = no
 
 		cultural_names = {
@@ -38327,7 +38327,7 @@ e_spain = {
 	k_aragon = {
 		color = { 166 98 22 }
 
-		capital = c_zaragoza # Zaragoza
+		capital = c_tarragona
 		can_be_named_after_dynasty = no
 
 		can_create = {
@@ -39329,7 +39329,7 @@ e_spain = {
 	k_spanish_galicia = {
 		color = { 255 224 94 }
 
-		capital = c_coruna # La Coruña
+		capital = c_porto # Braga
 		can_be_named_after_dynasty = no
 
 		cultural_names = {

@@ -5,8 +5,11 @@ k_leon = {
 	1337.1.1 = { change_development_level = 50 }
 }
 
-#d_leon = {
-#}
+d_leon = {
+	50.1.1 = {
+		de_jure_liege = k_spanish_galicia
+	}
+}
 
 c_leon = {
 	867.1.1 = { change_development_level = 8 }
@@ -55,8 +58,11 @@ c_avila = {
 }
 
 
-#d_asturias = {
-#}
+d_asturias = {
+	50.1.1 = {
+		de_jure_liege = k_spanish_galicia
+	}
+}
 
 
 c_asturias_de_oviedo = {

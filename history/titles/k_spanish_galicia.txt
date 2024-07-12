@@ -144,8 +144,11 @@ c_monterrei = {
 	}
 }
 
-#d_coimbra = {
-#}
+d_coimbra = {
+	50.1.1 = {
+		de_jure_liege = k_badajoz
+	}
+}
 
 c_coimbra = {
 	860.1.1 = {
@@ -175,8 +178,11 @@ c_castelo_branco = {
 	}
 }
 
-#d_porto = {
-#}
+d_porto = {
+	50.1.1 = {
+		de_jure_liege = k_spanish_galicia
+	}
+}
 
 c_porto = {
 	860.1.1 = {

@@ -167,6 +167,10 @@ c_moura = {
 d_toledo = {
 	867.1.1 = { change_development_level = 10 }
 	1066.1.1 = { change_development_level = 14 }
+
+	50.1.1 = {
+		de_jure_liege = k_castille
+	}
 }
 
 
