@@ -40720,7 +40720,7 @@ e_maghreb = {
 		d_bejaia = {
 			color = { 216 247 59 }
 
-			capital = c_bejaia # Bejaia
+			capital = c_satif # Sitifis
 
 			c_bejaia = {
 				color = { 192 219 53 }
@@ -40918,12 +40918,12 @@ e_maghreb = {
 	k_africa = {
 		color = { 67 96 179 }
 
-		capital = c_kairwan # Kairouan
+		capital = c_tunis # Carthage
 
 		d_kairouan = {
 			color = { 60 98 170 }
 
-			capital = c_kairwan # Kairouan
+			capital = c_mahdiya # Hadrumetum
 
 			c_kairwan = {
 				color = { 47 78 135 }
@@ -41079,6 +41079,11 @@ e_maghreb = {
 			c_mahdiya = {
 				color = { 122 140 196 }
 
+				b_susa = { #Hadrumetum
+					province = 4580
+
+					color = { 122 140 196 }
+				}
 				b_mahdiya = {
 					province = 4578
 
@@ -41086,11 +41091,6 @@ e_maghreb = {
 				}
 				b_monastir = {
 					province = 4579
-
-					color = { 122 140 196 }
-				}
-				b_susa = {
-					province = 4580
 
 					color = { 122 140 196 }
 				}

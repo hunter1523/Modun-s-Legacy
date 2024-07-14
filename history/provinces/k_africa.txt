@@ -142,7 +142,7 @@
 }
 
 ###c_mahdiya
-4578 = {	#MAHDIYA
+4580 = {	#SUSA
 	culture = african
 	religion = catholic
 	holding = castle_holding
@@ -157,7 +157,7 @@
 4579 = {	#MONASTIR
 	holding = church_holding
 }
-4580 = {	#SUSA
+4578 = {	#MAHDIYA
 	holding = city_holding
 }
 
