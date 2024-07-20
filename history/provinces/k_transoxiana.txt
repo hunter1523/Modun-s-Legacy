@@ -44,7 +44,7 @@
 
 ###c_kishsh
 4388 = {	#Kishsh
-	culture = sogdian
+	culture = bactrian
 	religion = khurmazta
 	holding = castle_holding
 	900.1.1 = {
@@ -283,14 +283,9 @@
 ##d_khuttal ###################################
 ###c_khuttal
 4378 = {	#Pargar
-	culture = sogdian
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	1000.1.1 = {
-		culture = tajik
-		religion = maturidi
-	}
-	1230.1.1 = { culture = mongol }
 }
 4379 = {	#Hulbuk
 	holding = city_holding
@@ -304,14 +299,9 @@
 
 ###c_wakhsh
 4376 = {	#Halavand
-	culture = sogdian
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	1000.1.1 = {
-		culture = tajik
-		religion = maturidi
-	}
-	1230.1.1 = { culture = mongol }
 }
 4374 = {	#Awzaj
 	holding = church_holding
@@ -328,14 +318,9 @@
 
 ###c_chaghaniyan
 4369 = {	#Chaghaniyan
-	culture = sogdian
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	1000.1.1 = {
-		culture = tajik
-		religion = maturidi
-	}
-	1230.1.1 = { culture = mongol }
 }
 4368 = {	#Termez
 	holding = city_holding
@@ -359,11 +344,6 @@
 	culture = sogdian
 	religion = mahayana
 	holding = castle_holding
-	1100.1.1 = {
-		culture = tajik
-		religion = maturidi
-	}
-	1230.1.1 = { culture = mongol }
 }
 4381 = {	#Shuman
 	holding = none

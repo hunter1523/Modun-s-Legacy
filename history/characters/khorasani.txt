@@ -11,8 +11,8 @@
 }
 khorasani_02 = { #Vardanid
 	name = "Jahangir"
-	religion = "zayidi"
-	culture = "tajik"
+	religion = "hafizi"
+	culture = "parthian"
 	820.1.1 = {
 		birth = yes
 	}

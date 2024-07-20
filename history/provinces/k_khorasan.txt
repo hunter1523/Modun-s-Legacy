@@ -2,8 +2,8 @@
 ##d_nishapur ###################################
 ###c_nishapur
 4017 = {	#Nishapur
-	culture = tajik
-	religion = maturidi #change from Gayomarthianism, as it was a big garrison town.
+	culture = parthian
+	religion = mazdayasna
 	holding = castle_holding
 	special_building = nishapur_mines_01
 
@@ -34,13 +34,7 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
-	special_building = imam_reza_shrine_01
-	1060.1.1 = {
-		religion = maturidi
-	}
-	1337.1.1 = {
-		religion = imami
-	}
+	#special_building = imam_reza_shrine_01
 }
 4010 = {	#Mazduran	#AKA Mazdavand
 	holding = city_holding
@@ -55,12 +49,9 @@
 
 ###c_samaiqan
 4039 = {	#Samaiqan
-	culture = tajik
+	culture = parthian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4038 = {	#Jarmaqan
 	holding = city_holding	#placeholder
@@ -71,12 +62,9 @@
 
 ###c_juwain
 4022 = {	#Jajarm
-	culture = tajik
+	culture = parthian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4023 = {	#Isfarain	#AKA Esfarayen
 	holding = city_holding
@@ -85,15 +73,9 @@
 
 ###c_baihaq
 4019 = {	#Keshmar
-	culture = tajik
+	culture = parthian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
-	1337.1.1 = {
-		religion = imami
-	}
 }
 4020 = {	#Sabzavar	#AKA Sabzevar
 	holding = church_holding
@@ -105,12 +87,9 @@
 
 ###c_damghan
 4026 = {	#Damghan
-	culture = persian
+	culture = parthian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4024 = {	#Biyar	#Biar-e Kord
 	holding = none
@@ -135,9 +114,6 @@
 			cereal_fields_01
 		}
 	}
-	960.1.1 = {
-		religion = maturidi
-	}
 	1066.1.1 = {
 		buildings = {
 			cereal_fields_01
@@ -145,9 +121,6 @@
 			#pastures_01
 			#military_camps_01
 		}
-	}
-	1160.1.1 = {
-		culture = turkish
 	}
 }
 4234 = {	#Sinj
@@ -171,9 +144,6 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4008 = {	#Dandanqan
 	holding = city_holding	#placeholder
@@ -184,12 +154,9 @@
 
 ###c_marvarrud
 4221 = {	#Marv-ar-Rud
-	culture = tajik
+	culture = bactrian
 	religion = mazdayasna
 	holding = castle_holding
-	987.1.1 = {
-		religion = maturidi
-	}
 }
 4218 = {	#Qarinayn
 	holding = city_holding	#placeholder
@@ -206,12 +173,9 @@
 
 ###c_rivsharan
 4223 = {	#Dizah
-	culture = tajik
+	culture = bactrian
 	religion = mazdayasna
 	holding = castle_holding
-	1087.1.1 = {
-		religion = maturidi
-	}
 }
 4229 = {	#Bashin
 	holding = church_holding	#placeholder
@@ -222,12 +186,9 @@
 
 ###c_guzgan
 4251 = {	#Yahudan	#AKA Yehudiya
-	culture = tajik
+	culture = bactrian
 	religion = zurvanism
 	holding = castle_holding
-	987.1.1 = {
-		religion = maturidi
-	}
 }
 4249 = {	#Andkhud
 	holding = church_holding	#placeholder
@@ -247,16 +208,9 @@
 
 ###c_amol
 4240 = {	#Amol-e-Shatt	#AKA Amul
-	culture = sogdian
+	culture = khwarezmian
 	religion = khurmazta
 	holding = castle_holding
-	937.1.1 = {
-		religion = maturidi
-		culture = tajik
-	}
-	1000.1.1 = {
-		culture = turkish
-	}
 }
 4241= {		#Shagal
 	holding = city_holding	#placeholder
@@ -267,15 +221,9 @@
 
 ###c_zamm
 4247 = {	#Zamm
-	culture = tajik
+	culture = bactrian
 	religion = mazdayasna
 	holding = castle_holding
-	960.1.1 = {
-		religion = maturidi
-	}
-	1160.1.1 = {
-		culture = turkish
-	}
 }
 4246 = {	#Niyaz
 	holding = none
@@ -284,17 +232,10 @@
 ##d_ghur ###################################
 ###c_ghur
 4225 = {	#Firuzkuh	#AKA Chagcharan
-	culture = afghan
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
 	special_building_slot = minarets_and_remains_of_jam_01
-	1187.1.1 = {
-		religion = maturidi
-	}
-	1337.1.1 = {
-		culture = tajik
-		religion = maturidi
-	}
 }
 4224 = {	#Khasht
 	holding = city_holding	#placeholder
@@ -308,12 +249,9 @@
 
 ###c_darmashan
 4201 = {	#Azadawan
-	culture = afghan
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	1187.1.1 = {
-		religion = maturidi
-	}
 }
 4228 = {	#Darmashan
 	holding = none
@@ -324,15 +262,9 @@
 
 ###c_upper_ghur
 4231 = {	#Dih-e-Khalaf
-	culture = afghan
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	1187.1.1 = {
-		religion = maturidi
-	}
-	1337.1.1 = {
-		culture = tajik
-	}
 }
 4232 = {	#Ribat-e-Karyan
 	holding = church_holding	#placeholder
@@ -345,16 +277,13 @@
 ##d_herat ###################################
 ###c_herat
 4215 = {	#Herat
-	culture = tajik
-	religion = azariqa
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
 			cereal_fields_01
 		}
-	}
-	987.1.1 = {
-		religion = maturidi
 	}
 	1066.1.1 = {
 		buildings = {
@@ -373,12 +302,9 @@
 
 ###c_bakharz
 4210 = {	#Buzjan
-	culture = tajik
-	religion = azariqa
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
-	987.1.1 = {
-		religion = maturidi
-	}
 }
 4207 = {	#Pushang
 	holding = church_holding
@@ -396,12 +322,9 @@
 
 ###c_badghis
 4212 = {	#Kusuy
-	culture = tajik
-	religion = azariqa
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
-	987.1.1 = {
-		religion = maturidi
-	}
 }
 4213 = {	#Bamain
 	holding = none
@@ -412,18 +335,9 @@
 
 ###c_sabzevar
 4204 = {	#Asfuzar
-	culture = afghan
-	religion = zun_pagan
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
-	830.1.1 = {
-		religion = azariqa
-	}
-	880.1.1 = {
-		religion = ashari
-	}
-	1066.1.1 = {
-		religion = maturidi
-	}
 }
 4205 = {	#Adraskan
 	holding = none
@@ -435,12 +349,9 @@
 
 ###c_zirkuh
 4203 = {	#Abiz
-	culture = tajik
-	religion = azariqa
+	culture = persian
+	religion = mazdayasna
 	holding = castle_holding
-	987.1.1 = {
-		religion = maturidi
-	}
 }
 4202 = {	#Shahrakht
 	holding = none
@@ -450,19 +361,13 @@
 ##d_balkh ###################################
 ###c_balkh
 4335 = {	#Balkh
-	culture = sogdian
-	religion = khurramism
+	culture = bactrian
+	religion = mahayana
 	holding = castle_holding
 	867.1.1 = {
 		buildings = {
 			watchtowers_01
 		}
-	}
-	900.1.1 = {
-		culture = tajik
-	}
-	1000.1.1 = {
-		religion = maturidi
 	}
 	1066.1.1 = {
 		buildings = {
@@ -486,15 +391,9 @@
 
 ###c_west-tokharestan
 4341 = {	#Samanjan
-	culture = sogdian
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	960.1.1 = {
-		culture = tajik
-	}
-	1187.1.1 = {
-		religion = maturidi
-	}
 }
 4339 = {	#Saan
 	holding = none
@@ -505,15 +404,9 @@
 
 ###c_east-tokharestan
 4351 = {	#Khulm
-	culture = sogdian
+	culture = bactrian
 	religion = mahayana
 	holding = castle_holding
-	960.1.1 = {
-		culture = tajik
-	}
-	1187.1.1 = {
-		religion = maturidi
-	}
 }
 4347 = {	#Andarab
 	holding = church_holding
@@ -538,10 +431,6 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		culture = turkish
-		religion = maturidi
-	}
 }
 4041 = {	#Shahrastan
 	holding = none
@@ -555,13 +444,9 @@
 
 ###c_farava
 4036 = {	#Farava
-	culture = tajik
+	culture = khwarezmian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		culture = turkish
-		religion = maturidi
-	}
 }
 4037 = {	#Hesare-Taq
 	holding = none
@@ -571,12 +456,9 @@
 ##d_kohestan ###################################
 ###c_qain
 4062 = {	#Qain
-	culture = tajik
+	culture = persian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4063 = {	#Birjand
 	holding = none
@@ -596,12 +478,9 @@
 
 ###c_tun
 4068 = {	#Tun
-	culture = tajik
+	culture = persian
 	religion = mazdayasna
 	holding = castle_holding
-	1060.1.1 = {
-		religion = maturidi
-	}
 }
 4067 = {	#Bejestan
 	holding = none

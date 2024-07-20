@@ -3,12 +3,9 @@
 
 	#Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
-	1200.1.1 = {
-		religion = yazidi
-	}
 
 }
 
@@ -17,12 +14,10 @@
 
 	#Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
-	1200.1.1 = {
-		religion = yazidi
-	}
+
 }
 
 # 4775 - SHAQLABADH
@@ -30,12 +25,10 @@
 
 	#Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
-	1200.1.1 = {
-		religion = yazidi
-	}
+
 }
 
 # 4776 - BAMARDANI
@@ -43,12 +36,9 @@
 
 	#Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
-	1200.1.1 = {
-		religion = yazidi
-	}
 
 }
 
@@ -58,7 +48,6 @@
 	religion = nestorian
 
 	# History
-	1200.1.1 = { religion = yazidi }
 
 }
 
@@ -67,7 +56,7 @@
 
 	# Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
 
@@ -78,7 +67,7 @@
 
 	# Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
 
@@ -87,7 +76,7 @@
 # 4780 - SHAHRAZUR
 4780 = {	#Misc
 	culture = kurdish
-	religion = ashari
+	religion = nestorian
 
 	# History
 
@@ -334,8 +323,6 @@
 	religion = nestorian
 
 	# History
-	867.1.1 = { religion = ashari }
-	1200.1.1 = { religion = yazidi }
 
 }
 
@@ -347,8 +334,6 @@
 	religion = nestorian
 
 	# History
-	867.1.1 = { religion = ashari }
-	1200.1.1 = { religion = yazidi }
 
 }
 
@@ -376,8 +361,8 @@
 4821 = {	# 4821 - Wasit
 
 	# Misc
-	culture = levantine
-	religion = ashari
+	culture = mandaic
+	religion = mandeaism
 
 	# History
 
@@ -437,9 +422,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -462,7 +444,7 @@
 
 	# Misc
 	culture = levantine
-	religion = mutazila
+	religion = ashari
 
 	# History
 	867.1.1 = {
@@ -474,7 +456,6 @@
 		}
 	}
 	1066.1.1 = {
-		religion = ashari
 		buildings = {
 			castle_02
 			orchards_02
@@ -513,7 +494,7 @@
 # 4830 - KARBALA
 4830 = {	#Misc
 	culture = levantine
-	religion = imami
+	religion = ashari
 
 	# History
 
@@ -584,9 +565,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -598,8 +576,7 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
+
 }
 
 # 5992 - AL-KUFA
@@ -610,10 +587,6 @@
 	religion = ashari
 	holding = church_holding
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
 	867.1.1 = {
 		buildings = {
 			plantations_01
@@ -632,7 +605,6 @@
 	# History
 	850.1.1 = {
 		holding = castle_holding
-		religion = ismaili
 		special_building_slot = holy_site_imam_ali_mosque_01
 		special_building = holy_site_imam_ali_mosque_01
 	}
@@ -643,7 +615,6 @@
 			cereal_fields_01
 		}
 	}
-	1250.1.1 = { religion = imami }
 }
 
 # 5994 - AL-QADISIYA
@@ -654,10 +625,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
 
 }
 
@@ -669,9 +636,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -683,9 +647,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -697,9 +658,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -711,9 +669,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -725,10 +680,7 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
+
 }
 
 # 6001 - AS-SALMAN
@@ -739,10 +691,7 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
+
 }
 
 # 6002 - AL-AKHADID
@@ -753,10 +702,7 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
+
 }
 
 # 6003 - NIFFAR
@@ -830,11 +776,9 @@
 
 	# Misc
 	culture = bedouin
-	religion = ashari
+	religion = nestorian
 	holding = castle_holding
 	# History
-	850.1.1 = { religion = mutazila}
-	1066.1.1 = { religion = ismaili }
 	1066.1.1 = {
 		buildings = {
 			orchards_01
@@ -842,21 +786,17 @@
 			camel_farms_01
 		}
 	}
-	1250.1.1 = { religion = imami }
 }
 
 # 6020 - AL-UBULLA
 6020 = {	# 6020 - Al-Ubulla
 
 	# Misc
-	culture = bedouin
+	culture = levantine
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
-	1250.1.1 = { religion = imami }
+
 }
 
 # 6021 - MATARA-IRAQ
@@ -867,9 +807,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -881,9 +818,6 @@
 	religion = ashari
 	holding = city_holding
 	# History
-	850.1.1 = { religion = mutazila }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 	867.1.1 = {
 		buildings = {
 			orchards_01
@@ -900,9 +834,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 
@@ -925,9 +856,6 @@
 	religion = ashari
 
 	# History
-	850.1.1 = { religion = ismaili }
-	936.1.1 = { religion = qarmatian }
-	1066.1.1 = { religion = ismaili }
 
 }
 

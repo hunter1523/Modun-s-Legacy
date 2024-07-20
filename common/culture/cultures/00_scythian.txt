@@ -233,3 +233,37 @@ alan = {
 		5 = mediterranean
 	}
 }
+
+bactrian = {
+	color = { 115 27 43 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_iranian
+	language = language_scythian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_xenophilic
+		tradition_loyal_soldiers
+		tradition_religion_blending
+		tradition_metal_craftsmanship
+	}
+	
+	# FP3 traditions
+	dlc_tradition = {
+		trait = tradition_fp3_irrigation_experts
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_dryland_dwellers
+	}
+	
+	name_list = name_list_sogdian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	
+	ethnicities = {
+		8 = arab
+		4 = mediterranean
+	}
+}
