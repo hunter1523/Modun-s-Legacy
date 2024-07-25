@@ -66,88 +66,14 @@ d_asturias = {
 
 
 c_asturias_de_oviedo = {
-	718.1.1 = {
-		holder = 70000 # King Pelayo of Asturias
-		liege = k_asturias
-	}
-	737.1.1 = {
-		holder = 70115 # King Favila of Asturias
-	}
-	739.6.15 = {
-		holder = 70003 # King Alfonso I of Asturias
-	}
-	757.1.1 = {
-		holder = 70004 # King Fruela I of Asturias
-	}
-	768.1.1 = {
-		holder = 70012 # King Aurelio of Asturias
-	}
-	773.1.1 = {
-		holder = 70118 # King Silo of Asturias
-	}
-	783.1.1 = {
-		holder = 70006 # King Alfonso II of Asturias
-	}
-	783.2.1 = {
-		holder = 70116 # King Mauregato of Asturias
-	}
-	788.1.1 = {
-		holder = 70013 # King Bermudo I of Asturias
-	}
-	791.1.1 = {
-		holder = 70006 # King Alfonso II of Asturias (restored)
-	}
-	842.3.20 = {
-		holder = basque0007 # King Nepociano of Asturias
-	}
-	843.1.1 = {
-		holder = 70015 # King Ramiro I of Asturias
-	}
-	850.2.1 = {
-		holder = 70017 # King Ordo�o I of Asturias
-	}
-	866.5.27 = {
-		holder = 70019 # King Alfonso III of Asturias
+	866.1.1 = {
+		holder = irish_adventurer_01
 	}
 }
 
 
 c_pravia = {
-	718.1.1 = {
-		holder = 70000 # King Pelayo of Asturias
-		liege = k_asturias
-	}
-	737.1.1 = {
-		holder = 70115 # King Favila of Asturias
-	}
-	739.6.15 = {
-		holder = 70003 # King Alfonso I of Asturias
-	}
-	755.1.1 = {
-		holder = 70118 # King Silo of Asturias
-	}
-	783.1.1 = {
-		holder = 70006 # King Alfonso II of Asturias
-	}
-	783.2.1 = {
-		holder = 70116 # King Mauregato of Asturias
-	}
-	788.1.1 = {
-		holder = 70013 # King Bermudo I of Asturias
-	}
-	791.1.1 = {
-		holder = 70006 # King Alfonso II of Asturias (restored)
-	}
-	842.3.20 = {
-		holder = basque0007 # King Nepociano of Asturias
-	}
-	843.1.1 = {
-		holder = 70015 # King Ramiro I of Asturias
-	}
-	850.2.1 = {
-		holder = 70017 # King Ordo�o I of Asturias
-	}
-	866.5.27 = {
-		holder = 70019 # King Alfonso III of Asturias
+	866.1.1 = {
+		holder = irish_adventurer_01
 	}
 }

@@ -13,60 +13,12 @@ d_cantabria = {
 	50.1.1 = {
 		de_jure_liege = k_navarra
 	}
- 
-	683.1.1 = {
-		holder = 70010 # Dux Favila
-	}
-	702.1.1 = {
-		holder = 70010 # Pedro de Cantabria
-	}
-	718.1.1 = {
-		liege = k_asturias
-	}
-	730.1.1 = {
-		holder = 70003 # King Alfonso I of Asturias
-	}
-	739.6.15 = {
-		holder = 70011 # Fruela P�rez
-	}
-	741.1.1 = {
-		holder = 0
-	}
 }
 
 
 c_asturias_de_santillana = {
-	702.1.1 = {
-		holder = 70010 # Duke Pedro of Cantabria
-		liege = d_cantabria
-	}
-	730.1.1 = {
-		holder = 70003 # King Alfonso I of Asturias
-	}
-	739.6.15 = {
-		holder = 70011 # Duke Fruela P�rez of Cantabria
-	}
-	741.1.1 = {
-		holder = 70012 # King Aurelio I of Asturias
-	}
-	768.1.1 = {
-		holder = 70013 # King Bermudo I of Asturias
-	}
-	791.1.1 = {
-		holder = 70006 # King Alfonso II of Asturias
-	}
-	842.3.20 = {
-		holder = basque0007 # King Nepociano of Asturias
-	}
-	843.1.1 = {
-		holder = 70015 # King Ramiro I of Asturias
-	}
-	851.1.15 = {
-		holder = 70017 # King Ordo�o I of Asturias
-	}
-	854.1.1 = {
-		holder = 73763 # Duke Rodrigo of Castilla
-		liege = d_castilla
+	866.1.1 = {
+		holder = irish_adventurer_02
 	}
 }
 

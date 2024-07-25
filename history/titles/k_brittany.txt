@@ -79,7 +79,7 @@ c_french_leon = {
 
 	#Normans "settle" here, go for slave trade
 	857.1.1 = {
-		holder = 303404	#fictional placeholder norse
+		holder = irish_adventurer_03
 		liege = 0
 	}
 }

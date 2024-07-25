@@ -8,3 +8,23 @@
 	attackers = { chinese_central_01 chinese_central_02 chinese_central_03 chinese_central_04 chinese_central_05 chinese_central_06 }
 	defenders = { chinese_nanyue_01 }
 }
+war = {
+	start_date = 867.1.1
+	end_date = 868.1.1
+	targeted_titles = {
+		k_spanish_galicia
+	}
+	casus_belli = invasion_war
+	attackers = { irish_adventurer_01 }
+	defenders = { roman_emperor_01 }
+}
+war = {
+	start_date = 867.1.1
+	end_date = 868.1.1
+	targeted_titles = {
+		k_navarra d_castilla
+	}
+	casus_belli = invasion_war
+	attackers = { irish_adventurer_02 }
+	defenders = { roman_emperor_01 }
+}

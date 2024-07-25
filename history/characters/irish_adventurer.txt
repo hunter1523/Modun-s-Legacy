@@ -1,0 +1,56 @@
+﻿irish_adventurer_01 = { #Gallaivica
+	name = "Domnall"
+	religion = "druidism"
+	culture = "irish"
+
+	trait = adventurer
+
+	830.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
+irish_adventurer_02 = { #Cantabrach
+	name = "Brian"
+	religion = "druidism"
+	culture = "irish"
+
+	trait = adventurer
+
+	830.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
+irish_adventurer_03 = { #Brest
+	name = "Conchobar"
+	religion = "druidism"
+	culture = "irish"
+
+	trait = adventurer
+
+	830.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
+irish_adventurer_04 = { #Cherbourg
+	name = "DU_nacA_n"
+	religion = "druidism"
+	culture = "irish"
+
+	trait = adventurer
+
+	830.1.1 = {
+		birth = yes
+	}
+	900.1.1 = {
+		death = yes
+	}
+}
